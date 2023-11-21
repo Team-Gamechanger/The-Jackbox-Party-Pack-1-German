@@ -1,12 +1,12 @@
 {
   "fields": [
     {
-      "v": "false",
+      "v": "true",
       "t": "B",
       "n": "HasJokeAudio"
     },
     {
-      "v": "",
+      "v": "Merkel im Weltall|Merkel im All|Angela Merkel im All",
       "t": "S",
       "n": "AlternateSpellings"
     },
@@ -16,6 +16,7 @@
       "n": "QuestionText"
     },
     {
+      "v": "joke",
       "t": "A",
       "n": "JokeAudio"
     }
