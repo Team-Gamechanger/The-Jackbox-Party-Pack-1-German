@@ -1,0 +1,21 @@
+{
+	"isBundle":"true",
+	"connectingDurationTrouble":"15000",
+	"supportsJoysticksHotplugging":"true",
+	"audio-extension":".ogg",
+	"supportsMouse":"true",
+	"supportedLocales":"en",
+	"videoplayer":"true",
+	"needExitbutton":"true",
+	"supportsFullScreen":"true",
+	"loadSaveOnLaunch":"true",
+	"video-extension":".usm",
+	"canPauseOnPressStart":"true",
+	"legalText":"jackboxFmodCriware",
+	"supportsKeyboard":"true",
+	"connectingDurationAbort":"45000",
+	"env":"pc",
+	"flashKeyboard":"true",
+	"buildTimeStamp":"2024-07-26 16:43:05",
+	"buildVersion":"15.0-DE"
+}
