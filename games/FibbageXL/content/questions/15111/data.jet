@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Devil\u2019s Nipple,Death Punch,Anarchy,Widowmaker,Dragon\u2019s Breath,Chesthair,Juggernaut,We All Die Alone,Pixie Dust,Angry Wolverine,Demon Rage,Suicide,Turpentine,Daddy\u2019s Elixir,Satan\u2019s Nightmare,Epic Fear,Dandelion,Sally",
+      "v": "Devil’s Nipple,Death Punch,Anarchy,Widowmaker,Dragon’s Breath,Chesthair,Juggernaut,We All Die Alone,Pixie Dust,Angry Wolverine,Demon Rage,Suicide,Turpentine,Daddy’s Elixir,Satan’s Nightmare,Epic Fear,Dandelion,Sally",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "334802_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "334799_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Bluttransfusion,\u201cPolice Academy\u201d marathon,an einer Katze schnüffeln,Schlag ins Gesicht,ein Grashüpfer-Smoothie,Zauberei,Roboterlungen,Beschneidung,ein induzierter Herzinfarkt,ein Pony reiten,Bild von Jesus,Ganzkörperenthaarung,Viagra,ein ernstes Gespräch,ein Traumjournal,eine Tracht Prügel,eine gute Ohrfeige,Süßigkeiten Diät",
+      "v": "Bluttransfusion,“Police Academy” marathon,an einer Katze schnüffeln,Schlag ins Gesicht,ein Grashüpfer-Smoothie,Zauberei,Roboterlungen,Beschneidung,ein induzierter Herzinfarkt,ein Pony reiten,Bild von Jesus,Ganzkörperenthaarung,Viagra,ein ernstes Gespräch,ein Traumjournal,eine Tracht Prügel,eine gute Ohrfeige,Süßigkeiten Diät",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "351573_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "351570_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

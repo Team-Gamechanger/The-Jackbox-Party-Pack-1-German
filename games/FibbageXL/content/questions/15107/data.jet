@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "House of Pleasure,Queen\u2019s Bean,Royal Thighness,Queen\u2019s Personal Massager,The Family Jewels,Vibration Palace,Diamond Jubilee,Long Love the Queen,The Virgin Queen,The Queen\u2019s Hat,The Royal Spectre,Cocktess of Snowdon,Crowning Achievement,Her Majesty\u2019s Majesty,Knighting Sword,The Stoic Guard,The Throne,Royal Helpe",
+      "v": "House of Pleasure,Queen’s Bean,Royal Thighness,Queen’s Personal Massager,The Family Jewels,Vibration Palace,Diamond Jubilee,Long Love the Queen,The Virgin Queen,The Queen’s Hat,The Royal Spectre,Cocktess of Snowdon,Crowning Achievement,Her Majesty’s Majesty,Knighting Sword,The Stoic Guard,The Throne,Royal Helpe",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "334710_2",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "334707_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "CELEBRITY TWEET! Am 01. Oktober 2013 um 21:43 Uhr twitterte @MikeTyson: \u201cI\u2019m a bad <BLANK>\u201d.",
+      "v": "CELEBRITY TWEET! Am 01. Oktober 2013 um 21:43 Uhr twitterte @MikeTyson: “I’m a bad <BLANK>”.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "333462_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

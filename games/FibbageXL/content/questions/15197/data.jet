@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "CELEBRITY TWEET! Am 15. November 2013 um 14:49 Uhr twitterte @TheWeightSaint (Richard Simmons): \u201cAt the airport <BLANK> everyone.\u201d",
+      "v": "CELEBRITY TWEET! Am 15. November 2013 um 14:49 Uhr twitterte @TheWeightSaint (Richard Simmons): “At the airport <BLANK> everyone.”",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "giving hugs to,and I\u2019m huigging,and hugging",
+      "v": "giving hugs to,and I’m huigging,and hugging",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "335795_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

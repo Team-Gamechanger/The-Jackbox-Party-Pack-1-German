@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "Die erste SMS die von Neil Papworth im Jahr 1992 versendet wurde, enthielt den Text \u201c<BLANK>\u201d.",
+      "v": "Die erste SMS die von Neil Papworth im Jahr 1992 versendet wurde, enthielt den Text “<BLANK>”.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "Merry Christmas",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "334037_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

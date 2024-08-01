@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Moms,Bill Cosby,Step-Dads,Rosie O\u2019Donnell,Hunks,Dogs,Strangers,Memories,Firemen,Poorly,Neighbors,Suburbanites,Happily,Scumbags,Vin Diesel,Prince,Stuck,Some Dude",
+      "v": "Moms,Bill Cosby,Step-Dads,Rosie O’Donnell,Hunks,Dogs,Strangers,Memories,Firemen,Poorly,Neighbors,Suburbanites,Happily,Scumbags,Vin Diesel,Prince,Stuck,Some Dude",
       "n": "Suggestions"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Shiro Cosmetics verkauft einen Lidschatten namens \u201c<BLANK> Raking Leaves on a Brisk October Afternoon\u201d.",
+      "v": "Shiro Cosmetics verkauft einen Lidschatten namens “<BLANK> Raking Leaves on a Brisk October Afternoon”.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "318140_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

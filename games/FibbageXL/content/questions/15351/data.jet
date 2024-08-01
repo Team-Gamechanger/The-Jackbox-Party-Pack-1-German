@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "King Henry IV von Kastilien hatte den Spitznamen \u201cHenry der <BLANK>\u201d.",
+      "v": "King Henry IV von Kastilien hatte den Spitznamen “Henry der <BLANK>”.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "339358_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

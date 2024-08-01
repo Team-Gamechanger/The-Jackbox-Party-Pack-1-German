@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Eine Gruppe, die als \u201cRobin Hooders\u201d in Keene, New Hampshire bekannt ist, bezahlt die <BLANK> anderer Personen.",
+      "v": "Eine Gruppe, die als “Robin Hooders” in Keene, New Hampshire bekannt ist, bezahlt die <BLANK> anderer Personen.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "318347_2",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

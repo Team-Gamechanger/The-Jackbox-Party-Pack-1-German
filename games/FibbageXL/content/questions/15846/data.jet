@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "Das Kustwerk \u201cIn Orbit\u201d von Ward Shelley und Alex Schweder, welches in einer Galerie in New York zu sehen war, zeigte zwei Männer die zehn Tage in <BLANK> lebten.",
+      "v": "Das Kustwerk “In Orbit” von Ward Shelley und Alex Schweder, welches in einer Galerie in New York zu sehen war, zeigte zwei Männer die zehn Tage in <BLANK> lebten.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "einem hamster rad,einem rennrad,einem laufrad",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "350608_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

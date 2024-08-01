@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Schachtunier,Footballspiel,Festival,Tennisspiel,Handballspiel,Fussballtunier,E-Sport Tunier,Volleyballspiel,Basketballspiel,Golftunier,Beachvolleyballtunier",
+      "v": "Schachturnier,Footballspiel,Festival,Tennisspiel,Handballspiel,Fussballturnier,E-Sport Turnier,Volleyballspiel,Basketballspiel,Golfturnier,Beachvolleyballturnier",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "6.084",
+      "v": "6084",
       "n": "Category"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "352300_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

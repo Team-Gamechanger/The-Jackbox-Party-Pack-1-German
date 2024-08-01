@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 1979 brachte Clairol für einen kurzen Zeitraum das seltsam benannte Shampooo \u201cTouch of <BLANK>\u201d auf den Markt.",
+      "v": "Im Jahr 1979 brachte Clairol für einen kurzen Zeitraum das seltsam benannte Shampooo “Touch of <BLANK>” auf den Markt.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "329031_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

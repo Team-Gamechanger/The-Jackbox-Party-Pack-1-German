@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "Die chinesische Blume \u201cPsychotria elata\u201d ist auch unter den Namen \u201c<BLANK> Lippen Blume\u201d bekannt.",
+      "v": "Die chinesische Blume “Psychotria elata” ist auch unter den Namen “<BLANK> Lippen Blume” bekannt.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "nutte",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "327110_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

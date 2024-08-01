@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Peticles,I Can\u2019t Believe It Taint Balls,Sad Sacks,Vas Dobermans,Nonads,Bow Wowz,Besties Testes,Danglerz,Furry Balls,Cuddle Buddies,Man\u2019s Best Testicles,Almost Real Testicles,PetSets,Rad Nads,Beast Balls,HangLowz,HairBalls,Ball Reunion",
+      "v": "Peticles,I Can’t Believe It Taint Balls,Sad Sacks,Vas Dobermans,Nonads,Bow Wowz,Besties Testes,Danglerz,Furry Balls,Cuddle Buddies,Man’s Best Testicles,Almost Real Testicles,PetSets,Rad Nads,Beast Balls,HangLowz,HairBalls,Ball Reunion",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "351010_0f",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "351007_2",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

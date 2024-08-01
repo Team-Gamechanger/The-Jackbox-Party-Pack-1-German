@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Yakov,Man,Cooter,Whitey,Beer,Bus,?,Neighbor,Fart,Four-Wheeler,Blue Collar,Chewie,Buttercup,Christ,Camouflage,Belt Buckle,Muddin\u2019,Donald Duck",
+      "v": "Yakov,Man,Cooter,Whitey,Beer,Bus,?,Neighbor,Fart,Four-Wheeler,Blue Collar,Chewie,Buttercup,Christ,Camouflage,Belt Buckle,Muddin’,Donald Duck",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "317261_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "317258_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

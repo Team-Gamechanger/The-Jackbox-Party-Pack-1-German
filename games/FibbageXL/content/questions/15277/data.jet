@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "Gemäß des International Code of Disease ist der Kodex Y92250 die offizielle Bezeichnung für \u201cWenn ein Patient in <BLANK> verletzt wurde\u201d.",
+      "v": "Gemäß des International Code of Disease ist der Kodex Y92250 die offizielle Bezeichnung für “Wenn ein Patient in <BLANK> verletzt wurde”.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "einer bildergalerie,einer kusthalle,einer gemäldegalerie",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "337653_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Lil\u2019 Criminals,Merry Miscreants,Danger Dolls,L\u2019il Lawbreakers,Prison Buddies,In-Mates,Kool Kids,Bad Dolls,Troublemakers,Ornery Ones,Bad Babies,Jail Birds,Uh-Ohs,Cuddlesters,Bad Seedies,Felony Friends,Funny Felonies,Mugshot Masters",
+      "v": "Lil’ Criminals,Merry Miscreants,Danger Dolls,L’il Lawbreakers,Prison Buddies,In-Mates,Kool Kids,Bad Dolls,Troublemakers,Ornery Ones,Bad Babies,Jail Birds,Uh-Ohs,Cuddlesters,Bad Seedies,Felony Friends,Funny Felonies,Mugshot Masters",
       "n": "Suggestions"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Markename der \u201ckriminellen Puppen\u201d für Kinder, mit Namen wie \u201cDickie the Dealer\u201d oder \u201cBonnie Anne Bribe\u201d.",
+      "v": "Markename der “kriminellen Puppen” für Kinder, mit Namen wie “Dickie the Dealer” oder “Bonnie Anne Bribe”.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "372268_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

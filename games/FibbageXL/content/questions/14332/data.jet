@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Der Grabstein des berühmten amerikanischen Dichters Charles Bukowski ist mit den Worten \u201cDon\u2019t <BLANK>\u201d graviert.",
+      "v": "Der Grabstein des berühmten amerikanischen Dichters Charles Bukowski ist mit den Worten “Don’t <BLANK>” graviert.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "318604_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

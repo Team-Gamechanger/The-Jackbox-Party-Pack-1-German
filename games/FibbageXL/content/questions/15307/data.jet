@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Dog Cop,Pig Dog,Ruff Work,Barkowski, P.I.,Officer Dog,Golden Revolver,Canine One One,Flatfoot Pup,Crime Canines,Wolf Vice,Doggy PD,Sergeant Snoop,Canine Blue,Big Dog, Little City,Dog Squad,Look Who\u2019s Not Barking,Woof!,That\u2019s No Bull(Dog)",
+      "v": "Dog Cop,Pig Dog,Ruff Work,Barkowski, P.I.,Officer Dog,Golden Revolver,Canine One One,Flatfoot Pup,Crime Canines,Wolf Vice,Doggy PD,Sergeant Snoop,Canine Blue,Big Dog, Little City,Dog Squad,Look Who’s Not Barking,Woof!,That’s No Bull(Dog)",
       "n": "Suggestions"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Der Schauspieler Peter Boyle war vor der Fernsehserie \u201cAlle lieben Raymond\u201d bereits die Hauptrolle in einem gescheiterten TV-Projekt mit dem Titel <BLANK>, indem sich ein Polizist in eine sprechende Bulldogge verwandelt.",
+      "v": "Der Schauspieler Peter Boyle war vor der Fernsehserie “Alle lieben Raymond” bereits die Hauptrolle in einem gescheiterten TV-Projekt mit dem Titel <BLANK>, indem sich ein Polizist in eine sprechende Bulldogge verwandelt.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "338346_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

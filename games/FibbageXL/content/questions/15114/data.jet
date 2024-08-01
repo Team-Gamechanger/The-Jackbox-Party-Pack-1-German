@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Anwälte,Russen,Buchhalter,Menschen mit den Namen \u201cHenry\u201d,Händler,Milchmänner,Gangster,Verschwörungstheoretiker,Ungläubige,Poloten,Drogendealer,Könige,Pharmazeuten,Engel,Journalisten,Ladendiebe,Senatoren,Kritiker",
+      "v": "Anwälte,Russen,Buchhalter,Menschen mit den Namen “Henry”,Händler,Milchmänner,Gangster,Verschwörungstheoretiker,Ungläubige,Poloten,Drogendealer,Könige,Pharmazeuten,Engel,Journalisten,Ladendiebe,Senatoren,Kritiker",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "334871_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "334868_2",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

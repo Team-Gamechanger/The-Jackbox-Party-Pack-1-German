@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Sicher,freundlich,ausgelernt,Happy End,Not Scary,Won\u2019t-Kill-You,professionell,Lolli,Zahnarzt,preisgekrönt,furchtlos,Genie,schmerzlindernd,bester zahnarzt,Beißerchen,frei,besänftigend,Loving Hands",
+      "v": "Sicher,freundlich,ausgelernt,Happy End,Not Scary,Won’t-Kill-You,professionell,Lolli,Zahnarzt,preisgekrönt,furchtlos,Genie,schmerzlindernd,bester zahnarzt,Beißerchen,frei,besänftigend,Loving Hands",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "349410_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "349407_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

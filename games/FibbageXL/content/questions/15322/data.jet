@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Kitchen Buddy,Fibbage,Nuclear Food,Hot Box,Robo Chef,Dutch Oven,Future Cook,Speed Cook,The Box,Flash Food,Very Fast Food,Afternoon Quickie,XXX,Amanda,Rory\u2019s First Kiss,Robot Yum Yum,Jeff Hansen,Food Electrocutor",
+      "v": "Kitchen Buddy,Fibbage,Nuclear Food,Hot Box,Robo Chef,Dutch Oven,Future Cook,Speed Cook,The Box,Flash Food,Very Fast Food,Afternoon Quickie,XXX,Amanda,Rory’s First Kiss,Robot Yum Yum,Jeff Hansen,Food Electrocutor",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "338694_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "338691_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

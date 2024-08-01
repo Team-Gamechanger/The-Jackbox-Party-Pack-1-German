@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 1965 hat das Unternehmen Hasbro eine weinende Puppe mit zerfetzten Klamotten herausgebracht. Ihr Name lautet \u201cLittle Miss <BLANK>\u201d.",
+      "v": "Im Jahr 1965 hat das Unternehmen Hasbro eine weinende Puppe mit zerfetzten Klamotten herausgebracht. Ihr Name lautet “Little Miss <BLANK>”.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "336522_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "CELEBRITY TWEET! Am 02. August 2013 um 01:07 Uhr twitterte @taylorswift13 \u201cThank you for tonight, Des Moines. I found endless amounts of <BLANK> on my arms from hugging lots of you tonight\u201d.",
+      "v": "CELEBRITY TWEET! Am 02. August 2013 um 01:07 Uhr twitterte @taylorswift13 “Thank you for tonight, Des Moines. I found endless amounts of <BLANK> on my arms from hugging lots of you tonight”.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "335565_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

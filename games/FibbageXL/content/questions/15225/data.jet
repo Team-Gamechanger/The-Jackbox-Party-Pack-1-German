@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "Benjamin Moores Farbe mit der Nummer 787 hat seinen seltsamen Namen: Omas <BLANK> (Grandma\u2019s <BLANK>).",
+      "v": "Benjamin Moores Farbe mit der Nummer 787 hat seinen seltsamen Namen: Omas <BLANK> (Grandma’s <BLANK>).",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "sweater,pulli,pull over",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "336430_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

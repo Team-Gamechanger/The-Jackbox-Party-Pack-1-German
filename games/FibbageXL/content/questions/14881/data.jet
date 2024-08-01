@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Tub,Van,Field,Cave,Warehouse,Denny\u2019s,Zoo,Dollar Store,Box,Football Game,Barn,Shooting Range,Hole,Sewer,Pool,Waterfall,Train,old Blockbuster Video",
+      "v": "Tub,Van,Field,Cave,Warehouse,Denny’s,Zoo,Dollar Store,Box,Football Game,Barn,Shooting Range,Hole,Sewer,Pool,Waterfall,Train,old Blockbuster Video",
       "n": "Suggestions"
     },
     {
@@ -42,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Die Calvary Lutheran Church hat für die Menschen aus Fort Worth, Texas eine unkonventionelle \u201cChurch-in-a-<BLANK>\u201d gesponsort.",
+      "v": "Die Calvary Lutheran Church hat für die Menschen aus Fort Worth, Texas eine unkonventionelle “Church-in-a-<BLANK>” gesponsort.",
       "n": "QuestionText"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "329604_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

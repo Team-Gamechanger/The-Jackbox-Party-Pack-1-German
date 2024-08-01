@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Freedom,Bad Little Baby,Long Live the Buttocks!,Underwear,Daddy,I\u2019ll never die!,Heyo,Toot-toot,Wowza,I\u2019m the momma,Haba-Duey,Justice,Naughty,You love it,Huzzah,Lesson Learned,Sassy,I am king!",
+      "v": "Freedom,Bad Little Baby,Long Live the Buttocks!,Underwear,Daddy,I’ll never die!,Heyo,Toot-toot,Wowza,I’m the momma,Haba-Duey,Justice,Naughty,You love it,Huzzah,Lesson Learned,Sassy,I am king!",
       "n": "Suggestions"
     },
     {
@@ -42,17 +32,13 @@
     },
     {
       "t": "S",
-      "v": "Im späten 17. Jahrhundert wurde London von einem Mann namens Whipping Tom terrorisiert, der Menschen dort willkürlich versohlt hat und dabei \u201c<BLANK>!\u201d gerufen hat.",
+      "v": "Im späten 17. Jahrhundert wurde London von einem Mann namens Whipping Tom terrorisiert, der Menschen dort willkürlich versohlt hat und dabei “<BLANK>!” gerufen hat.",
       "n": "QuestionText"
     },
     {
       "t": "S",
       "v": "spank-o,spanko!,spank-o!,spank o,spank o!",
       "n": "AlternateSpellings"
-    },
-    {
-      "t": "A",
-      "n": "BumperAudio"
     },
     {
       "t": "A",
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "339680_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

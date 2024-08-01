@@ -3,16 +3,6 @@
     {
       "t": "B",
       "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
-      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Joshers,Grobaniacs,Groban Heads,Grobers,Just Joshin\u2019,Grobashers,Grofans,Curly Hairs,The Chosen Ones,Cutie Pies,Triple Threats,Groban\u2019s Heroes,Grobstoppers,Momma\u2019s Boys,Josh Addicts,Joshians,Color Changers,Groboholics",
+      "v": "Joshers,Grobaniacs,Groban Heads,Grobers,Just Joshin’,Grobashers,Grofans,Curly Hairs,The Chosen Ones,Cutie Pies,Triple Threats,Groban’s Heroes,Grobstoppers,Momma’s Boys,Josh Addicts,Joshians,Color Changers,Groboholics",
       "n": "Suggestions"
     },
     {
@@ -52,16 +42,17 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
       "v": "321867_1",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }

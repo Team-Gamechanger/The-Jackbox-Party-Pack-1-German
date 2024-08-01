@@ -2,16 +2,6 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
-      "n": "HasBumperAudio"
-    },
-    {
-      "t": "B",
-      "v": "false",
-      "n": "HasBumperType"
-    },
-    {
-      "t": "B",
       "v": "true",
       "n": "HasCorrectAudio"
     },
@@ -22,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Snoopy,Bugs Bunny,Scooby-Doo,McGruff the Crime Dog,Richie Rich,Smokey the Bear,Jay Gatsby,Pee-wee Herman,Barney the Dinosaur,Tony the Tiger,Tarzan,Big Bird,Winnie-the-Pooh,Murphy Brown,James Bond,Santa Claus,Little Orphan Annie,Cap\u2019n Crunch",
+      "v": "Snoopy,Bugs Bunny,Scooby-Doo,McGruff the Crime Dog,Richie Rich,Smokey the Bear,Jay Gatsby,Pee-wee Herman,Barney the Dinosaur,Tony the Tiger,Tarzan,Big Bird,Winnie-the-Pooh,Murphy Brown,James Bond,Santa Claus,Little Orphan Annie,Cap’n Crunch",
       "n": "Suggestions"
     },
     {
@@ -52,10 +42,6 @@
     },
     {
       "t": "A",
-      "n": "BumperAudio"
-    },
-    {
-      "t": "A",
       "v": "357256_0",
       "n": "CorrectAudio"
     },
@@ -63,6 +49,11 @@
       "t": "A",
       "v": "357253_0",
       "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
     }
   ]
 }
