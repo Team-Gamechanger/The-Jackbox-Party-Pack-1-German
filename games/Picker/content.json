@@ -23,7 +23,7 @@
     },
     {
 	  "name":"WordSpud",
-      "mainSwf": "Wordspud.swf",
+      "mainSwf": "WordSpud.swf",
       "title": "Word Spud",
       "players": "2-8 SPIELER",
       "controllers": "MIT HANDYS/TABLETS",
@@ -44,9 +44,9 @@
 	  "video":"videos/lieswatterparty"
     },
     {
-	  "name":"Fibbage",
+	  "name":"FibbageXL",
       "mainSwf": "FibbageXL.swf",
-      "title": "Fibbage",
+      "title": "FibbageXL",
       "players": "2-8 SPIELER",
       "controllers": "MIT HANDYS/TABLETS",
       "descriptionFile":"content/Fibbage.html",
