@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Steuern zu erlassen,Bier zu brauen,Schiffe zu kapern,Sklaven zu befreien,Könige zu ernennen,Feiertage festzulegen,das Wetter zu kontrollieren,Religionen zu gründen,Namen zu ändern,Musik zu zensieren,Preise festzulegen,Duelle zu führen,Bildung abzuschaffen,Straßen zu benennen,Tiere zu domestizieren,Berufe zu verbieten,Wahlen auszusetzen,Militär aufzulösen,Grenzen zu verschieben,Währungen einzuführen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "25000",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Windeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ende 2014 verhaftete die Grenzpolizei in Nordschweden zwei ungewöhnliche Verbrecher, die versuchten, über 25.000 <BLANK> ins Land zu schmuggeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Stoffwindeln,Babywindeln,Pampers,Windelpackungen,Kinderwindeln,Wegwerfwindeln,Einwegwindeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

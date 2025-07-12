@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Fässer,Särge,alte Autos,Schubkarren,Wassermelonen,Schaufensterpuppen,Grills,Einkaufswagen,Trampoline,Toiletten,Schulbusse,Badewannen,Tische,alte Woks,Sofas,Puppenhäuser,Mülleimer",
+      "v": "Alkohol,Gold,Benzin,Uran,Honig,Zucker,Holz,Methan,Kokain,Karamell,Strom,Schnee,Schleim,Perlmutt,Schwefel,Unobtainium,Kupfer,DNA",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Boote",
+      "v": "Boot",
       "n": "Category"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Die Menschen in Damariscotta, Maine, veranstalten jedes Jahr ein Rennen, bei dem sie <BLANK> als Boote verwenden.",
+      "v": "Die Menschen in Damariscotta veranstalten jedes Jahr ein Rennen, bei dem sie <BLANK> als Boote verwenden.",
       "n": "QuestionText"
     },
     {
@@ -42,12 +42,11 @@
     },
     {
       "t": "A",
-      "v": "320202_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "320199_1",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

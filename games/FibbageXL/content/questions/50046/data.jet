@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein toter Hund,eine Smartphone-App,ein Geist,ein Teddybär,eine Tanne,ein Skelett,ein Kissen mit Aufdruck,ein Wassertank,ein Poster von Celine Dion,ein Schuh,ein unsichtbares Kaninchen,ein Dinosaurier in einem Museum,Elvis-Imitator,eine Katze,eine Tasche voller Perücken,eine Barbiepuppe,ein Wischmopp mit einer Schürze,ein Haufen schmutziger Unterwäsche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Deutscher Erfinderreichtum",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pferde",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Benito Weise hat sieben Jahre lang an einer revolutionären Erfindung gearbeitet: Eine Brille, die es ermöglicht, die Welt wie <BLANK> wahrzunehmen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ein Pferd,die Pferde",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

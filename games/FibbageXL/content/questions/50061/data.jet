@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sex-Kurse,Blumenläden,mehr Supermärkte,Roboter-Kindermädchen,Senkungen der Matratzensteuer,kostenlose Tanzkurse,ein staatliches Datingportal,Karaokebars,Dating-Unterricht,mehr Romantikfilme zu drehen,Kondome zu verbieten,kostenloses Speeddating,mehr Parks,Eisdielen,Trennungen zu verbieten,eine Wehrpflicht,Familienautos zu subventionieren,Schulschliessungen,mehr Feiertage,kostenlose Alkoholausgaben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "10 Gebote",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Autofahrer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 veröffentlichte der Vatikan die 10 Gebote für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fahrzeugführer,Verkehrsteilnehmer,PKW-Fahrer,Auto Fahrer,Kraftfahrer,Autolenkende,Fahrer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

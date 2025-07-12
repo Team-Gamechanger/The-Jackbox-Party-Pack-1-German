@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schlief,die Polizei rief,32 Katzen fütterte,einen Rave veranstaltete,eine Wahlkampfrede hielt,Limonade verkauft hat,ihre Zähne putzte,ein Donald Trump Kostüm anzog,aus einem Polizeiwagen stieg,in eine Mülltonne kletterte,splitterfasernackt herumlief,ein Snickers frittierte,ihre Beine rasierte,ihren Schulabschluss machte,eine Bewerbung schrieb,putzte,ihren Körper mit Marmelade einrieb,ein Selfie machte,Backwaren verdammte,“für das Imperium” rief",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Umfragen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mit Teddybär schlafen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Hotelkette <i>Travelodge</i> befragte 6.000 britische Erwachsene und fand heraus, dass 35 % von ihnen regelmäßig <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mit einem Teddybär schlafen,mit einem Plüschtier schlafen,mit Plüschtier schlafen,mit Plüschtieren schlafen,mit Teddybären schlafen,mit einem Kuscheltier schlafen,mit Stofftieren schlafen,mit Teddys schlafen,mit Kuscheltieren einschlafen,mit Plüschbären schlafen,mit einem Plüschtier kuscheln,mit Stofftier im Bett schlafen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

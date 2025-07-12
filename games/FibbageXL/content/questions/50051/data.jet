@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hausstaub,den Wind,Mixer,Gedanken,Bananen,Tauben,Hamster,eine Zahnbürste,Ameisen,Wolken,Sandburgen,Geister,Brotkrümel,Hunde,den Stuhlgang,Sonnenbrillen,einen Schnuller",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japanische Studien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fußgeruch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1990 veröffentlichte das Shiseido Research Center die Studie „Erläuterung von chemischen Verbindungen, die für <BLANK> verantwortlich sind“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Schweißfüße,Schweißfuß,Schweissfüsse,Schweissfuss,den Fußgeruch,Fussgeruch,den Fussgeruch,Fussgerüche,Fußgerüche,Käsefüße,den Käsefuß,Käsefüsse,den Käsefuss,stinkende Füße,stinkende Füsse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

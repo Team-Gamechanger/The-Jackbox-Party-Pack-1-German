@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kugel,Kreis,Eis,Kegel,Herz,Fünfeck,Pentagon,Birne,Zylinder,Pyramide,Dreieck,Baguette,Kegel,Raute,Raute,Oval,Rechteck,Trapez,Zehneck",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mist",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Würfel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Form von Wombat-Kot.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "wuerfel,Würfelform,Würfelförmig,Würfel Form,Würfel Förmig,Box",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Als Wurstmuseum,als Hotel für Eichhörnchen,Als Arena für Gummistiefelweitwurf,Als Chips-Verkostungszentrum,Als Kart-Bahn,Als eSport-Arena,Als Escape-Room-Location,Als Trainingszentrum für Pantomimen,Als Sauerkrautfermentationszentrum,als Sofa-Lagerhalle,Als Flamingo-Winterquartier,Als Schlaf-Therapiestätte,Trainingscamp für Start-ups,Als Partylocation für Hochzeiten,Als Bücherei,Als Flohmarkt,Als Lagerhaus für Amazon,Als Lagerstätte für Parmesan",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Flughafen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Als Yogahalle",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die ungewöhnliche Nutzung des Terminals des Regionalflughafens Kassel-Calden aufgrund geringer Passagierzahlen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Für Yoga,Yoga,Yoga-Halle,als Yoga Halle,Nutzung als Yoga-Halle,Nutzung als Yoga Halle,Nutzung als Yogahalle,Nutzung für Yoga,Für Yoga-Kurse",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

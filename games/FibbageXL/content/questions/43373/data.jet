@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Weniger zu fliegen,Musik zu hassen,Licht weniger interessant zu finden,Von Spiegeln angezogen zu werden,Sich mehr zu übergeben,Besser Probleme zu lösen,Zu Verhungern,Mit Armhaaren Liebe zu machen,Menschen zu ignorieren,Zu halluzinieren,Mehr Farben zu sehen,Weniger zu schlafen,Pausenlos zu fliegen,In den Süden zu fliegen,Sich an Pflanzen zu reiben,Es an ihren Kindern auszulassen,Fressfeinde anzulocken,Leichter getötet zu werden,AfD zu wählen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Harte Nüsse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Handgranate",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Mann aus dem chinesichen Shanxi war schockiert, als er herausfand, dass was er bisher immer als Nussknacker benutzt hatte, eigentlich <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ne Handgranate,eine Granate,ne Granate,eine Bombe,ne Bombe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

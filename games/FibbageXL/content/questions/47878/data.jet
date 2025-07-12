@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Luftpolsterfolie ploppen,an Fitness denken,Tischtennis spielen,jodeln,vor dem Spiegel weinen,Schinken essen,Hühner jagen,nichts essen,lachen,kuscheln,Kekse backen,ihre Haare kämmen,literweise Vollmilch trinken,Haareschneiden,Urlaubsgeschichten erzählen,Reise nach Jerusalem spielen,schreien,Eisskulpturen bauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bodenanalysen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vergraben von Unterwäsche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die kanadische <i>Soil Conversation Council</i> hat im April 2017 eine seltsame Kampagne gestartet, in der behauptet wurde, dass man die Qualität seines Bodens einfach durch <BLANK> testen könne.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Das Vergraben von Unterwäsche,Unterwäsche vergraben,Unterwäsche,Die Verwendung von Unterwäsche",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

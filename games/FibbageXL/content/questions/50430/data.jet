@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Quackshire,Trump,Douglas,Siegfried,Rose,Gottfried,Sebastian,Willibald,The,Donald,Gunther,Benjamin,Bartholomäus,Cornelius,Disney,Cartoon,Isa,Konstantin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Enten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fauntleroy",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der zweite Vorname von Donald Duck.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fauntleroi",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleinem Finger,Seele,Lippen,Babys,Socken,Bauchnabelflusen,Abgeschnittenen Fingernägeln,Spucke,Deodorant,Erstem Arbeitsvertrag,Haarbürste,Müll,Stimme,Tränen,Entferntem Muttermal,Plazenta,Badewasser,Aprikosenmarmelade",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Facebook-Wettbewerbe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sein Double",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 bot der mexikanische Politiker Renato Tronco Gomez dem Gewinner eines <i>Facebook</i>-Wettbewerbs die einzigartige Ehre an, <BLANK> zu werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sein Doppelgänger,sein Body Double,sein Körperdouble,seine Vertretung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

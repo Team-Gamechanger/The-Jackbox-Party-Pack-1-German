@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Der Himmelskuss,das Ende,Nein,Der Katzentanz,die Windharfe,des Bäckers Furz,Quietschende Türen im Wind,Das Niesen der Königin,Der verschluckte Korkenzieher,Tanz der faulen Hunde,Schluckauf im Chor,Tanzende Unterhosen,Rosenkrieg mit Tulpen,Des Kaisers neue Socken,Wintermist,Miststücke,Silberner Kanonier,Ihr Schafe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Neueröffnung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Tattoo-Studio",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im August 2020 verkündete der Schreibwarenhersteller <i>edding</i>, dass er in der Hamburger Innenstadt <BLANK> eröffnet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tattoo-Studio,ein Tattoo Studio,Tattoo Studio,ein Tattoostudio,Tattoostudio,ein Tatoo-Studio,Tatoo-Studio,ein Tatoo Studio,Tatoo Studio,ein Tatoostudio,Tatoostudio,ein Tatto-Studio,Tatto-Studio,ein Tatto Studio,Tatto Studio,ein Tattostudio,Tattostudio,einen Tätowierer,ein Tätowierer,das Tattoo-Studio,das Tattoo Studio,das Tattoostudio",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

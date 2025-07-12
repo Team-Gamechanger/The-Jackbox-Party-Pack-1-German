@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Go-Karts,Drohnen,Surfbrettern,Kajaks,BMX-Fahrrädern,Autodächern,Halfpipes,Treppenliften,E-Rollern,Schnellbooten,Einrädern,Hunden,Snowboards,Hängegleitern,Schlitten,Haien,LKWs,Wasserskis",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Olympische Spiele",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pferde",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei den olympischen Spielen 1900 in Paris gab es eine eigentümliche Disziplin namens „Weitsprung für <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die Pferde,Pferd",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

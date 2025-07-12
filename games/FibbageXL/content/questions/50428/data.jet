@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Unterwäsche,Alte Nokia-Handys,Brennende Toaster,Sockenpuppen,Lebensgroße Justin-Bieber-Pappaufsteller,Selbstgestrickte Wollmützen,Verlorene Gebisse,Aufblasbare Flamingos,Schwebende Gartenzwerge,Schuheinlagen,Plüsch-Trump-Figuren,Überdimensionale Schnuller,Heavy-Metal-Quietscheenten,Mini-Trampoline,Plastik-Weihnachtsmänner im Bikini,Joggingschuhe,Hasenpfoten,Scheren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Strom",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dildos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Hingen Mitte 2015 plötzlich hundertfach an den Stromleitungen der US-amerikanischen Großstadt Portland.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dildo,Sex-Spielzeug,Kunstpenisse,Vibratoren,Vibrator,Kunstpenis,Kunstpenes",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

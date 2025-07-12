@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Eine Gabel,Ein Schlüssel,Gesicht,Fußball,Hockeyschläger,Eine Hand,Ein Stück Wassermelone,Eine Vagina,Peace-Symbol,Ein Gummibär,Ein Holzklotz,Eine Schere,Ein Fahrrad,Bierfass,Surfboard,Papierdrache,Korkenzieher,Pyramide",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Libelle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Löffel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Form des Penis einer männlichen Libelle.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Loeffel,Kelle,Schippe,ein Löffel,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

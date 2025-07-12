@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Basketball,Krocket,Scharade,Boccia,Quiplash,Cards Against Humanity,Mensch ärgere dich nicht,Poker,Twister,Reise nach Jerusalem,Risiko,Wahrheit oder Pflicht,Dart,Minecraft,Volleyball,Schach,Mario Kart,Werwolf",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wilderei",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fallschirmspringenden Hunden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Zusätzlich zu den herkömmlichen Strafverfolgungsmethoden hat Südafrika im Jahr 2016 damit begonnen, Wilderer mit mehr als 200 <BLANK> zu bekämpfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fallschirmspringerhunden,Hunde-Fallschirmspringern,Hunden in Fallschirmen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

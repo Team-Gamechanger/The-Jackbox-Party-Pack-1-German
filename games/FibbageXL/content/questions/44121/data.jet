@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Scheidung,Überdosis,Ungewollte Schwangerschaft,Börsencrash,Einzug in den Krieg,Ermordet,Verwitwet,Lepra,Cholera,deceitful butler,Die Treppe heruntergefallen,fitful spasm,dog murder,Demenz,Vermisstes Kind,Ertrinken,Weinender Geist,spontane menschliche Selbstentzündung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Polnische Winter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Puppen versenken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während des polnischen Feiertags Topienie Marzanny feiern die Menschen das Ende des Winters mit einer kuriosen Tradition, indem sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Puppen ertränken,eine Puppe versenken,eine Puppe ertränken,Puppen in einen See schmeißen,Puppen in einen See werfen,eine Puppe ertränken,eine Puppe in einen See werfen,eine Puppe in einen See schmeißen,eine Puppe in den See werfen,eine Puppe in den See schmeißen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

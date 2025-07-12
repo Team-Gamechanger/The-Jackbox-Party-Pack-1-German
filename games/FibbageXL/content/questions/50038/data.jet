@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zwei Kinder im Kostüm,zusammengeklebte Rennmäuse,ein langhaariges Pferd,einen Staubsauger,einen Teppich,eine Eisskulptur,eine Kuh,eine Videoprojektion,eine Katze,eine Vogelscheuche,ein totes Schwein,einen Spiegel,einen Pappaufsteller,einen Leinensack,gelbe Schlafanzüge,eine Hauskatze,eine Blondine,eine Ziege,einen Wolf,einen Bär",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schaffe schaffe, Häusle baue",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Popcorn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "An der Uni Göttingen entwickelten Forscher ein neues CO2-neutrales Baumaterial, das aus Hanf, Flachs und <BLANK> hergestellt wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "altem Popcorn,Popkorn,weggeworfenem Popcorn",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kartoffelsalate,Rasenmäher-Lautstärke,Grillkohle-Qualität,Gartenzwerge,Handy-Klingeltöne,Sockensortierung,Mülltrennung,die Ausrichtung einer Satellitenschüssel,Katzenfutter,Laubhaufenhöhe,Vogelhaus-Ästhetik,Biermarken,Fernsehzeitungen,die Schnitthöhe von Hecken,Zeitungsrohr-Position,Wecker-Lautstärke,Messermarken,Tapetenmuster",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Streitigkeiten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Penislänge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das kuriose Thema eines Streites zwischen zwei Schwagern aus NRW, das sich bis zu einer Messerstecherei hochschaukelte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Die Penislänge,Penis Länge,Länge Penis,Länge des Penises",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

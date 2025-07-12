@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Knoblauchketten,Regenschirme in Adlerform,Plastikschlangen,Katzen,Vogelschreck-Pfeifen,Ultraschallgeräte,kleine Windräder,Holzfalken,Discokugeln,Krokodil-Hüte,Piratenhüte,Luftballons mit Raubvogelaugen,Quietschende Plüschtiere,Laser,Kunstfell-Umhänge,Rote Warnwesten,Spiegelnde Sonnenbrillen,Pride-Flaggen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Venedig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wasserpistolen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wurde von einigen Hotels in Venedig an Gäste verteilt, um Möwen zu vertreiben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Wasserspritzpistolen,Wasserpistole,Wassergewehre,Wassergewehr,Wasserspritze,Wasserspritzen,Wasserspritzpistole,eine Wasserpistole",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

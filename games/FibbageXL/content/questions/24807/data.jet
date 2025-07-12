@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Seinem BH,Seinem Glasauge,Seinem Bauchnabel,Seinen Handschuhen,Seinem Rucksack,Seinen Dreadlocks,Seinem Katheter,Seiner Waffe,Seiner Zahnfüllung,Seinem aufgeklebten Bart,Seinem Toupet,Seiner Lunge",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wissenschaftliche Erkenntnisse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Studien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine im Jahr 2015 von finnischen und US-amerikanischen Professoren durchgeführte Studie kam zu dem Schluss, dass es zu viele <BLANK> gibt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

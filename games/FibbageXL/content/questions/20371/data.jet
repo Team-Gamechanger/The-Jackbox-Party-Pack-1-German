@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schlafen,Esssucht,Hip-Hop,Trompeten,Masturbation,Feuerschlucken,Singen,Gymnastik,Breakdance,Strippen,Bauchrednern,Yoga,Lügen,Dosenbier,Glücksspiel,Prostitution,Tortenschlachten,Eichhörnchenjagd",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bewusstsein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "blind",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Anton-Syndrom ist eine seltene Störung, bei der die Betroffenen nicht wissen, dass sie <BLANK> sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sehbehindert,nicht sehend,sehunfähig,augenkrank,sehgestört,ohne Sehvermögen,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

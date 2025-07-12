@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sex,atmen,Geisteskranke,Füße,Hintern,Spaziergänge,Rückenhaare,Selbstgespräche,rothaarig sein,Geburtstage,Sommer,hässliche Kinder,singen,lachen,weiblich sein,Zahnverlust,Luft,das Wort “Furz”",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Griechenland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zombies",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 fand eine Gruppe von Wissenschaftlern der Universität Pittsburgh heraus, dass die Menschen im antiken Griechenland große Angst vor <BLANK> hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zombis,Untote,Untoten,den Toten,Toten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

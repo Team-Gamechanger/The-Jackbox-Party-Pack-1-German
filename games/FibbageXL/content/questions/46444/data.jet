@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Organspenderin,Leichen,Robotor,pinkäugige,Werwolf,Mutter Maria,nach Wurst riechende,Grabräuberin,Heidi Klum,brennende Hexen,Rentnerin,Stefan Raab,Kriegsnarben,dystopische Zukunfts,Massenpanik,Reizdarm-Syndrom,kotzende,Wolverine",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Große Sammlungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "versteinerter Kacke",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "George Frandsen aus Florida hat sich im Jahr 2024 einen Guinness-Weltrekord für die größte Sammlung <BLANK> gesichert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "versteinerte Exkremente,versteinerter Scheiße,versteinerten Kot,versteinerter Kot,versteinerter Mist",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

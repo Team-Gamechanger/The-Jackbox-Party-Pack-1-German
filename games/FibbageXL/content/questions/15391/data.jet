@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alte Männer,Schaufensterpuppen,Papageien,Leichen,Vogelscheuchen,Auberginen,Ratten,Babys,Geister,Vierzehnjährige,Katzen,Stühle,Hexen,Kühe,Riesen,Stechpalmen,Dackel,Lehrer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Unaussprechliches Grauen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pupsen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1996 veröffentlichte das <i>Journal of Analytical Psychology</i> einen Artikel mit dem Titel „<BLANK> als Abwehr gegen unaussprechliches Grauen“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pupse,Furzen,Fürze,Furze,Aftersausen,Das Pupsen,Das Furzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

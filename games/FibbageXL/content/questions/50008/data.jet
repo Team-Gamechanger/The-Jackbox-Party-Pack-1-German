@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "kriminell,Sexualstraftäter,minderjährig,Terrorist,Rassist,eine Hexe,Priester,millionär,Hinterwälder,ein Betrüger,Prominenter,Spion,ein schlechter Küsser,ein schlechter Liebhaber,Polizist,Koch,Royal,Untreu",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vor Gericht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachtsbaumweitwurf",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Gericht in Irland hat den Versicherungsanspruch einer Frau in Höhe von 820.000 Dollar abgewiesen, nachdem herausgefunden wurde, dass sie bei einem <BLANK>-Wettbewerb gewann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

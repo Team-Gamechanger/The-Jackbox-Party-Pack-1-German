@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Autofahren,die Verwendung von Bing,Mathe,Rückwärtssaltos,die Smoothie-Zubereitung,Staffellauf,Mah-Jongg,das Weinen,Telepathie,Tetris,das Streichen,das Anziehen von Hosen,das Notenlesen,das Haareschneiden,das Tanzen,Spanisch,Selbsthass,das Kochen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimnisse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Delfinvaginas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dara Orbach von der Dalhousie University hat ihr Leben einem spannenden Forschungsgebiet gewidmet: der Lösung des Geheimnisses der <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Delphinvaginas,Delfinvagina,Delphinvagina",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

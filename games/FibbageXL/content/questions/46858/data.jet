@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem wütenden Brief,einem Nudelholz,einem Baby-Krieger,einer Mundharmonika,riesigem Kuchen,einem pinken Springbrunnen,einem Tänzer,Bugs Bunny,Schaukelstuhl,Stuhlproben,einer Schale Birnen,der Zahnfee,einem Beichtstuhl,einem Plüschtier,Richard-Nixon-Pappaufsteller,einem Bumerang,Bügeleisen,einem Flachbildfernseher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frankenstein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Froschschenkeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In Mary Shelleys Vorwort zu <i>Frankenstein</i> von 1831 erklärt die Autorin, dass der Roman von <BLANK> inspiriert wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Froschbeinen,Frosch Schenkeln,Frosch Beinen,Frosch-Schenkeln,Frosch-Beinen,Frosch-Schenkeln,Froschschenkel,Froschbeine,Frosch Schenkel,Frosch Beine,Frosch-Schenkel,Frosch-Beine,Frosch-Schenkel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

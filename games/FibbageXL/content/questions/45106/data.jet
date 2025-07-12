@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lecker rochen,Zähne wuchsen,in Brand gerieten,furzten,magisch verheilten,Blätter austrieben,wie Sternbilder geformt waren,Whisky bluteten ,Farbe produzierten,sprachen,schnell schrumpften,Rehe anzogen,sangen,rasant größer wurden,nach Kartoffel rochen,schimmelten,im Sommer gefrierten,pfeiften",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Super Duper",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Säure erbrechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der <i>Marvel</i>-Charakter Zeitgeist hat eine seltsame Mutantenkraft. Wann immer er will, kann er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Säure kotzen,Säure hochwürgen,Säure übergeben,Säure rülpsen,Säure spucken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

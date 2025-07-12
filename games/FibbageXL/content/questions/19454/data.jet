@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bart,Brrrrr,Bla Bla Bla,Name,Thomas,Rick,Steve,Yorg,Sven,Olaf,Linda,Björn,Elisabeth,Elischa,John,Kevin,Brido,Qerlin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwer verwundet",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "an einem BH-Träger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Manager der San Francisco Giants, Roger Craig, wurde einmal mit einer verbundenen Hand im Keller gesichtet, nachdem er sich <BLANK> geschnitten hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "an einem Büstenhalter,an einem BH,mit einem BH-Träger,mit einem Büstenhalter,mit einem BH,an einem Dessous-Träger,an Dessous,an einem BH Träger,einem Büstenhalter-Träger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Politiker,Marmelade,James Bond,Idioten,Handwerker,Günther Jauch,Videospielfiguren,Mülltüten,Autos,Horst Lichter,Pferdeäpfel,Brötchen,Super Mario,Bäume,Marienkäfer,Hunde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schmerzmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Plastikflaschen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie aus dem Jahr 2025 kam zu dem spektakulären Ergebnis, dass das Schmerzmittel Paracetamol mittels Bakterien aus <BLANK> hergestellt werden kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "PET-Flaschen,PET Flaschen,Plastik Flaschen,Plastik-Flaschen,Flaschen,Plastikabfällen,Plastikmüll,Plastik Müll,Plastik-Müll,Plastik-Abfällen,Plastik Abfällen,Plastikabfall,Plastik Abfall,Plastik-Abfall",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

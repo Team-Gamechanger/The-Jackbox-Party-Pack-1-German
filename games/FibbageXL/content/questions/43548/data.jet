@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Harry Potter,Daniel Düsentrieb,Anakin Skywalker,Star Trek,Link,Captain Morgan,Barbie,Inspektor Gadget,Weihnachtsmann,Deadpool,Bart Simpson,Uncharted,Gummibärchen,E.T.,Captain America,Shakira,Batman,Fozzie Bär",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Staatsmänner",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Aliens",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Winston Churchill verfasste im Jahr 1939 ein ungewöhnliches und nie veröffentlichtes Essay über <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "außerirdisches Leben,Außerirdische,Ausserirdisches Leben,Ausserirdische,Alien,Ufos,Ufo",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

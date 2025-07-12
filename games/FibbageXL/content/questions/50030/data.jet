@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Strip-Club,einer Fernfahrerkneipe,einer Opiumhöhle,einem Wachsmuseum,einem Tierheim,einer Kläranlage,einer Klebstofffabrik,einem Affenschutzgebiet,einem Gefängnis,einer Samenbank,einem Bordell,einer Polizeistation,einem Schlachthaus,einem McDonalds,einer Tierklinik,einem Schwimmbad,einer Windmühle,einem Leuchtturm",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Handyspiele",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steuern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Um die Jugend mehr für das Thema zu begeistern, präsentierte die EU im November 2017 ein Handyspiel, in dem sich alles um <BLANK> dreht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die Steuer,die Steuern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

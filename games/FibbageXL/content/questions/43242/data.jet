@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zwinkern,Sprache,Sarkasmus,Gebärdensprache,Farbänderungen,Schreien,Lippen lecken,kollektivem Bewusstsein,Schuppenbewegungen,chemischen Botenstoffen,Ultraschallwellen,unsichtbaren Tentakeln,Kot,Vibrationen,speziellen Tänzen,Klopfcodes,Lichtblitzen,Telepathie",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Nicht schießen!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "beim Kacken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut dem Historiker Alfred Jay Bollet gab es im Amerikanischen Bürgerkrieg unter den Soldaten das ungeschriebene Gesetz, dass sie nicht <BLANK> aufeinander schießen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "beim scheissen,beim scheißen,scheissend,scheißend,kackend,kotend,beim Koten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

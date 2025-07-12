@@ -12,17 +12,17 @@
     },
     {
       "t": "S",
-      "v": "Niren,Post,Kinder,Dachziegeln,Panzerfäuste,Weihnachtsdekoration,Bäume im Garten,Fenster,Seele,Fussmatte,Grosseltern,Rasensprengeranlage,Whirspoolanlage,Urinproben,Rosen aus dem Garten,Muttermilchvorräte,Fahrräder",
+      "v": "Herz,Körperfett,Kot,Nasenhaaren,Zähnen,Zunge,Verletzungen,Magenschleimhaut,Dickdärmen,Augenringen,Flossennägeln,Leber,Brusthaaren,Blaslöchern,Algenanhaftungen,Zahnbelag,Falten,Knochenschichten",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "gestohlen",
+      "v": "Geklaut!",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "gepflasterte Garagenzufahrt",
+      "v": "ihre Garagenzufahrt",
       "n": "CorrectText"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2012 kam eine Frau aus Florida nach Hause und stellte fest, dass ihre Nachbarn beobachtet haben, wie ihre <BLANK> gestohlen wurde.",
+      "v": "Im Jahr 2012 kam eine Frau aus Florida nach Hause und musste feststellen, dass <BLANK> gestohlen worden war.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "pflaster,pflastersteine",
+      "v": "pflaster,pflastersteine,ihre Pflastersteine,ihre geplasterte Zufahrt,ihre Zufahrt,ihre gepflasterte Garagen Zufahrt,ihre Auffahrt,ihre gepflasterte Garagenauffahrt,ihre Garagenauffahrt,die Garagenzufahrt,die Garagenauffahrt",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "338116_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "338113_1",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

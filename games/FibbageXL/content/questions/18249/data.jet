@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Stuhl, Rollstuhl, Tisch, Bett, Sofa, Hut, Socken, Handtuch, Schal, Kissen, Puppen, Stiefel, Handschuh, Kartoffel, Bananen, Wurstbrot, Würfel, Lampen, Nudel, Döner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Käselaib",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Für ihre Hochzeit im Jahr 1840 erhielt Königin Victoria von Großbritannien das ungewöhnliche Geschenk von einem 450 Kilo schweren <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Käse,Käse Laib,Käseleib,Käse leib,Laib Käse,Käse-Laib,Käse-Leib",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleinwüchsige,Übergewichtige Personen,Rentner,Models,Todkranke,Physiker,Professoren an der Uni Jena,Tote,dumme Menschen,Betrunkene,Rothaarige,Busfahrer,depressive Personen,Magersüchtige,Blonde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Überfall!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Pürierstab",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Anfang 2019 versuchte eine Frau im nordrhein-westfälischen Hamm mit <BLANK> bewaffnet eine Spielhalle zu überfallen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Stabmixer,einem Stabmixer,Pürierstab,Blender,einem Blender,einem Messerstab,Messerstab,einem Mixstab,Mixstab",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Meeresschaum,Tintenfischtusche,Wüstensand,Kerzenwachs,Goldfischflossen,Regenwasser,Dinosaurierknochen,Lavastaub,Mondgestein,Korallen,Batteriesäure,Muschelkreide,Sternschnuppenstaub,Kartoffeln,Scheibenwischanlagen,Fuchskacke,seine Zunge,ein Flammenwerfer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kunst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schreibmaschine",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wird vom Engländer James Cook benutzt, um seine Zeichnungen zu erschaffen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Schreibmaschine,Schreib Maschine,Schreibt-Maschine,die Schreibmaschine,eine Schreib Maschine,die Schreib Maschine,Schreibmaschinen, Schreib Maschinen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

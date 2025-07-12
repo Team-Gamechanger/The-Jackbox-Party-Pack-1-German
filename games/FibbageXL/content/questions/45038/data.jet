@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Diebstahl eines Handtasche,Popeln,Kuchen backen,Schneiden ihrer Zehennägel,auf dem Tisch kritzeln,Bügeln,Furzen,Flirten,Spotify hören,Schauen anzüglicher Filme,Sudoku lösen,Schlafwandeln,Unterhosen kaufen,Reinigen ihres Bauchnabels,Fifty Shades of Grey lesen,Tindern,Schminken,Comic lesen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pferdechirurgie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Wasserbett",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Müsst ihr ein Pferd operieren? Es mag merkwürdig klingen, aber viele tierärztliche Handbücher empfehlen, das Pferd auf <BLANK> zu legen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "das Wasserbett,Wasserbetten,Wasserbett,ein Wasser Bett,das Wasser Bett,Wasser Betten,Wasser Bett",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

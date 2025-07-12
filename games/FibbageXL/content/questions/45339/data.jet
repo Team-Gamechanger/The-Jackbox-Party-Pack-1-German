@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hummus,menschlichen Blut,Goldmünzen,Schlangengift,Rum,Knallerbsen,Krabbencocktail,hunderten Würmern,Mangoeis,Erbrochenem,Nervengift,Seesternsperma,Krabbenhirn,Affenkacke,Echsenurin,Fischmagen,Cola,Lactose",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Disney",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gasmasken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In den 1940er Jahren arbeitete Walt Disney mit einem Partnerunternehmen zusammen, um eine Reihe von etwas bedenklichen Micky Maus <BLANK> zu entwerfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gasmaske,Schutzmaske,Atemschutzmaske,Atemmaske,Schutzmasken,Atemschutzmasken,Atemmasken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

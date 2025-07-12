@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Taxifahrer,Friseur,Jongleur,Schuhputzer,Rodeo-Clown,Papst John Paul Imitator,Tänzer,Hundefriseur,Wrestler,Barista,Boxer,bescheidener Zimmermann,Bergarbeiter,Pantomime,Autoverkäufer,Frühstücksfernsehmoderator,Koch,Vogelflüsterer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Raubzüge",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Yoga machte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2024 brach eine Frau in eine Bäckerei in Melbourne ein. Als sich Angestellte die Aufnahmen der Überwachungskamera ansahen, stellten sie fest, dass die Einbrecherin vor der Tür des Ladens <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Yogaposen machte,etwas Yoga machte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

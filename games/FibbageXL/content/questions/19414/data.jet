@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gruppenzellen,Kabelfernsehen,Fenstern,Chor,Wachen,offiziellem Maskottchen,Kanonen,professionellem Cateringteam,Fernseher,Kopfkissen und Decken,Hundewelpen,Kunstunterricht,Klimatisierung,Gruppentherapien,Internet,Bücherei,Bettwanzen,Außentoiletten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Inzucht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "blaue Haut",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Familie Fugate aus Kentucky hatte ein besonderes Merkmal, das wahrscheinlich durch Inzucht verbreitet wurde: Sie hatten alle <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Blauhaut,Hellblaue Haut",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

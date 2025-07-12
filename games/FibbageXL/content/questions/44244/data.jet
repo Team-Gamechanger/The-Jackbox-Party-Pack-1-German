@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nerds,Meerjungfrauen,Personen die Stephen heißen,Pazifisten,NBA-Spieler,Fans von My Little Pony,Science-Fiction-Autoren,Kickboxer,Til Schweiger,Künstliche Intelligenz,Pensionierte Bürgermeister,Außerirdisches Leben,Seine ehemaligen Physiklehrer,Gamer,Burger King Mitarbeiter,Vegetarier,Bewohner eines Seniorenheims,Seine 73 Katzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verbesserungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "falsch geschriebene Tattoos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 bot das Caro y Cuervo Institute, ein kolumbianisches Bildungszentrum, den Menschen an, <BLANK> zu verbessern.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tattoos,ihre Tattoos,ihr Tattoo,Fehler in Tattoos,Fehler in ihren Tattoos,Fehler in ihrem Tattoo,Schreibfehler in den Tattoos,Schreibfehler in ihrem Tattoo,Schreibfehler in ihren Tattoos,Tattoo-Schreibfehler,ihre Tattoo-Schreibfehler,Tätowierungen,ihre Tätowierung,ihre Tätowierungen,Fehler in Tätowierungen,Fehler in ihren Tätowierungen,Schreibfehler in ihren Tätowierungen,Tätowierungs-Schreibfehler,ihre Tätowierungs-Schreibfehler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

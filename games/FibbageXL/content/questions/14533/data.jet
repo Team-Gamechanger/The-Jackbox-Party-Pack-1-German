@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Suppe,Schlamm,Cracker,Schokolade,Kuchen,Kinder,Haare,Joghurt,Felsen,Wanzen,Donuts,Kuchen,Schweinekotletts,Kokos-Curry-Suppe,Pizza,Kartoffelsalat,Centstücke,Knabbergebäck",
+      "v": "Ratschläge,Tritte,Ritte,Kartenspiele,Witze,Massagen,Gedichte,Kochkurse,Lob,Goldmünzen,Träume,Karikaturen,Tanzstunden,Ruhm,Küsse,Rätsel,Gold,Feuer",
       "n": "Suggestions"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Süsskartoffeln",
+      "v": "Süßkartoffeln",
       "n": "CorrectText"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Die nigerianische Version des Cookie Monsters kann nicht aufhören <BLANK> zu essen.",
+      "v": "Die nigerianische Version des Krümelmonsters kann nicht aufhören <BLANK> zu essen.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Kartoffeln,Süsskartoffeln,Süßkartofeln,Süsskartofeln,Pommes,Süßkartoffelpommes,Süßkartoffel Pommes",
       "n": "AlternateSpellings"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "322731_2",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cola Light,Kinder,Kaffeetassen,Garfield-Kalender,Computer,Kaffeemühlen,Mikrowellen,Pokémon-Sammelkarten,Jeansjacken,Kleiderbügel,Kalender,Geschirrspüler,WCs,Tischkicker,Fussballposer,Taschentuchspender,Karten,Brieföffner",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Koma",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Chinesisch zu sprechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Australier Ben McMahon lag nach einem Autounfall in einem einwöchigen Koma. Als er aufwachte, stellte er fest, dass er plötzlich die Fähigkeit hatte, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mandarin zu sprechen,Chinesisch zu reden,Mandarin zu reden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "lachen kann,Wörter bellt,jongliert,PowerPoint Präsentationen hält,Fahhrad fährt,bis zehn Zählen kann,einfach beeindruckt,Origami faltet,Klavier spielt,Steuern bezahlt,Englisch spricht,Poesie versteht,nur hüpft,seinen Schwanz nachwachsen lassen kann,Basketball spielt,die Toilette benutzt,gebären kann,Lieder bellt",
+      "v": "Sexspielzeug,Furby,Seepferdchen,Playmobilmännchen,Walbaby,Meerschweinchen,Brautkleid,Trampolin,Zelt,Plüscheinhorn,Wiesbachhorn,Katzenklo,Kugelschreiberset,Maß vom Oktoberfest,Deo,Mikrofon,Autogramm von Barack Obama,Weinglas",
       "n": "Suggestions"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "im Dunkeln leuchtet",
+      "v": "leuchtete im Dunkeln",
       "n": "CorrectText"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Der Beagle “Ruppy” ist ein sehr ungewöhnlicher Hund, weil er <BLANK>.",
+      "v": "Der Beagle „Ruppy“ war ein sehr ungewöhnlicher Hund, denn er <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "war fluoreszierend,war fluoriszierend,leuchtete nachts,fluoreszierte im Dunkeln,leuchtete,konnte nachts leuchten,glühte im Dunkeln",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "355827_0f",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "355824_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

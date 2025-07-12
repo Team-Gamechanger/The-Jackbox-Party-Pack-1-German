@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Leopardenfell,Göffeln,Hirschgeweihen,alten Schuhen,Lebkuchen,Müll,Zahnstochern,Bienenwachs,Wolle,Luftpolsterfolie,Trockeneis,altem Kaugummi,lebenden Kühen,altem Brot,Munition,Panzertape,Bierkrügen,Blumentöpfen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kinder-Transport",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Skateboards",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Kinderwagenhersteller <i>Quinny</i> stellt einen extremen Kinderwagen her, der an <BLANK> befestigt wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "skateboard,skate board,Skate Boards,long boards,Longboards,Longboard,Long board,Skatebord",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

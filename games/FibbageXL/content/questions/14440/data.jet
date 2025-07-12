@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hosen,Schlüsseln,Toilettensitzen,Glühbirnen,Wäscheklammern,Korkenziehern,Würmern,Mais,Fahrradhelmen,Radiergummis,Teebeuteln,Einkaufswagen,Briefen,Weckern,Waffeln,Handys,Vorhängeschlössern,Liebesbriefen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwedische Namensgebung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Albin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein schwedisches Paar gab seinem Sohn im Jahr 1996 den Namen Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, der angeblich einfach nur „<BLANK>“ ausgesprochen werden würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "allbin,al bin,albinn,alben,Albyn,Albien,Allbyn,Allbien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

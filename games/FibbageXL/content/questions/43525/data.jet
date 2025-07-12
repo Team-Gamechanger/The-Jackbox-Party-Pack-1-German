@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Babyurin getrunken,verdorbenen Thunfisch gegessen,Schlangengift gegurgelt,mit Tigermilch geduscht,in Batteriesäure geschwommen,Giraffenurin inhaliert,Benzin auf seine Haut geschmiert,Vodka auf seine Kopfhaut aufgetragen,Giftsumach gegessen,Weichspüler geschnupft,Eiweiss in seine Augen getropft,Coca-Cola in seine Muskeln gespritzt,Hanfdecken gestrickt,Diesel in seinen Kaffee geschüttet,Elefantendung geleckt,seinen Penis in Bleiche getaucht,nackt Fallschirmsprünge gemacht,Cartoons geschaut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schnäppchenjäger",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wohlerzogenen Kindern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Antonio Ferrari ist Besitzer einer Weinbar in der italienischen Stadt Padua, in der er Menschen mit <BLANK> einen Sonderrabatt gewährt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Wohl erzogenen Kindern,Braven Kindern,Artigen Kindern,Gut erzogenen Kindern,Gehorsamen Kindern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

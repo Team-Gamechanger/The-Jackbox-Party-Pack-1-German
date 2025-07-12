@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zirkuswaisen,Schlangen,Obstbäume,Ameisenbären,Quizshow-Moderatoren,verfluchte Puppen,Birkenstock-Sandalen,Echsen,Sandwiches,Mülleimer,Beweise,Rollerskates,Schallplatten,Freizeit,olympische Athleten,Mumien,Handy-Ladekabel,Videospiele",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lustige Hobbys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Berufspilot",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "2017 entdeckten niederländische Medien, dass König Willem-Alexander ein Doppelleben als <BLANK> geführt hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pilot,Berufspiloten,Linienpilot,Verkehrspilot,Flugzeugführer,Flugkapitän,Commercial Pilot",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

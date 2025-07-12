@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "im Gefängnis zu sein,von einem Dinosaurier gefressen zu werden,Raumfahrer zu sein,als Briefmarke verschickt zu werden,geboren zu werden,auf LSD zu sein,wenn Aliens angreifen,Superkräfte zu haben,im antiken Rom zu leben,entführt zu werden,als Mikrobe zu leben,öffentlich nackt zu sein,als Pizzabelag serviert zu werden,in einer Zeitschleife gefangen zu sein,als Schneeflocke zu schmelzen,ein Hund zu sein,den Meeresboden zu erkunden,ein Baby zu sein",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Neues vom Patentamt",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Särge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1908 erfand und patentierte Georg Willems ein Periskop für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gräber,Tote Leute,Verstorbene,Friedhöfe,Leichen,Tote,Tode",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

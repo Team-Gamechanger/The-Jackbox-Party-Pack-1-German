@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem falschen Feuer,Popeye,einem großen Hai,Superman,einem glitzernden Wikingerschiff,einem Mittelfinger,einem Seemonster,einem wütenden Wikinger,Gott,einer blinkenden Atombombenwarnung,einem mahnenden Totenkopf,einem sexy Hirsch,ABBA,einem gespenstischen Geisterschiff,einem riesigen Stoppschild,einem riesigen Hintern,Thor,einem feuerspeienden Drachen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alte Brettspiele",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Suizid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Milton Bradley 1860 die erste Version des Brettspiels Das Spiel des Lebens herausbrachte, konnten unglückliche Spieler auf dem „<BLANK>“-Feld landen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Selbstmord",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

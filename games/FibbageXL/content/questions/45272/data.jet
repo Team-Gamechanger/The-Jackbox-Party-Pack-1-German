@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wasserparks,Fitnessstudios,Banken,Museen,Tischtennisplatten,Arcadehallen,Kinos,Massagesalons,Statuen,Spielzeugläden,Aussichtstürmen,Paintball-Arenen,WLAN-Hotspots,Softdrinks,Bunkern,Irish pubs,Handys,Fastfood-Läden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gesetze aus Übersee",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Piraten anzuheuern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Artikel 1, Abschnitt 8, Klausel 11 der Verfassung der Vereinigten Staaten von Amerika gibt dem Kongress die Befugnis, Kriege zu erklären. Überraschenderweise verleiht er ihm auch die Macht, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Piraten anheuern,Pirat anheuern,Seeräuber anheuern,Seeräuber anwerben,Piraten anwerben,Freibeuter anheuern,Freibeuter anwerben,Korsaren anheuern,Korsaren anwerben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

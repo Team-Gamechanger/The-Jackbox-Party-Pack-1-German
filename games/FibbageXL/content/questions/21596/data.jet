@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Eine Gitarre,Eine Bank,Eine Vogelscheuche,Eine Scheune,Eine Schule,Eine Bratwurst,Ein Bier,Eine Statue,Ein Kind,Eine Wurst,Eine verlassene Kirche,Ein Album der Beatles,Eine Pfandflasche,Eine Mülltonne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Definitionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pferdefleisch esst",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Betreibt ihr „Hippophagie“? Ja, für den Fall, dass ihr <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fleisch vom Pferd esst,Fleisch von Pferden esst,Pferde esst,Pferd esst,Pferde fleisch esst,Pferdefleisch essen tut,Pferdefleisch konsumiert",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

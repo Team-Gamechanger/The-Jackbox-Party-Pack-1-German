@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Panzertape,Wachs,Gardinen,Gras,Bettlaken,Laub,Kissen,Quittungen,Müll,Briefen,Müllsäcken,Federn,Servietten,Ofenhandschuhen,Plastiktüten,Heftklammern,Schultertüchern,Socken",
+      "v": "Fahrprüfungen,Kondome,kleine Zehen,Tapeten,Boxershorts,Trocknertücher,Handreiniger,Zahnbürsten,helle Biere,französische Professoren,Ferien,fröhliche Gedanken,Göffel,Kellner,Katzen,Haarschnitte,Deodorants,Studien",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Kleidung",
+      "v": "Verliebt, Verlobt, Verschuldet?",
       "n": "Category"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Cheap Chic Weddings ist ein jährlicher Wettbewerb, bei dem die Teilnehmer Brautkleider aus <BLANK> herstellen.",
+      "v": "Die „Cheap Chic Weddings“ sind ein jährlicher Wettbewerb, bei dem die Teilnehmerinnen Brautkleider aus <BLANK> herstellen.",
       "n": "QuestionText"
     },
     {
@@ -42,12 +42,11 @@
     },
     {
       "t": "A",
-      "v": "325212_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "325209_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

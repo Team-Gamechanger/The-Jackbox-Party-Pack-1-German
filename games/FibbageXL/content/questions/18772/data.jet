@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Kaffeetasse,einem Gameboy,einer Wassermelone,einer Klimaanlage,einem Pizzastück,einem Smartphone,einer Glühbirne,einem Hamburger,einer Ananas,einer Kreditkarte,einem Flugzeug,einem Toaster,einer Waschmaschine,einem Gummibärchen,einem Rubiks Cube,einer Cola-Dose,einer Münze,einer Flasche,einem Eimer,einem Kopfkissen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Orgasmen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zu weinen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die nicht jugendfreie Webseite WoodRocket.com produzierte 2015 eine Werbekampagne, in der Pornodarsteller versucht haben, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

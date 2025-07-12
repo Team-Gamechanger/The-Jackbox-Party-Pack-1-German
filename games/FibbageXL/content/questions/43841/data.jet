@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schwiegermüttern,wütenden Eichhörnchen,Werwölfen,Toden in Videospielen,Geistern,Meerjungfrauen,Terroristen,Verkehrsunfällen mit dem Weihnachtsmann,Animatoren,Gedankenkontrolle,Kometen,stinkenden Socken,Ex-Liebhabern,Jo-Jo-Unfällen,Einsamkeit,Superbösewichten,Zeus,Zeitreisenden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Besondere Vorlieben",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Brüste",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Moskauer Zoo zeigte sich besorgt, als der dort lebende Waschbär Thomas eine plötzliche Begeisterung für <BLANK> entwickelte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Titten,menschliche Brüste,Menschen-Brüste,Möpse,Busen,weibliche Brüste",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

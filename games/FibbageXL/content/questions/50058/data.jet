@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Katzen streichelte,Pommes frittierte,schlief,häkelte,seine Brille reparierte,seine Haare schnitt,faxte,komplett nackt war,staubsaugte,Enten fütterte,einen Handstand machte,sein rechtes Ohr verlor,zehn Straftaten beging,bewusstlos wurde,laut K-Pop hörte,online Matratzen kaufte,eine Glühbirne wechselte,ein Autorennen machte,mit Schwertern kämpfte,mit einem Vogel kämpfte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ex",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Kakerlake",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der San Antonio Zoo bietet zum Valentinstag einen besonderen Service an: Man kann dort für $10 <BLANK> nach einem Ex benennen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kakerlaken,eine Kackerlake,Kackerlake,Kackerlaken,eine Kakerlacke,Kakerlacke,Kakerlacken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

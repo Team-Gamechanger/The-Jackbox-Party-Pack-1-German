@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Löffel,Stühle,Stifte,Parfüm-Duftproben,Hinweise auf seine abscheulichen Verbrechen,Puzzleteile,Luftballons,Hirschgeweihe,bestandene Vokabeltests,Gründe warum Ringo der beste Beatle ist,verwelkte Blumen,Genesungskarten,Muffins,Kopien von Blade Runner auf VHS,Käseräder,Briefe an den Weihnachtsmann,leere Geschenkkartons,Einkaufswagenchips",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Endlos",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Alkohol",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der nordischen Mythologie zufolge erhalten die Krieger in Valhalla von einer Ziege namens Heidrun <BLANK> ohne Ende.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Met,Bier,Fusel,Ale,Schnaps,Honigwein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fremden aus dem Internet,Postboten,Sich selbst,Werwölfen,Fans von Justin Bieber,Geburtstagsclowns,Roboter,Tollwütigen Waschbären,Den eigenen Kindern,Wütenden Ziegen,Sekten,Finanzhaien,Drohnen,Bigfoot,Abhörung,Flyerverteilern,Ninjas,Radiomoderatoren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Taucher",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Rentier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während des Zweiten Weltkriegs machte ein russischer Admiral der britischen Besatzung der HMS Trident ein ungewöhnliches Geschenk. Er schenkte ihnen <BLANK> für ihr U-Boot.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Ren,Rentier,ein Nordisches Rentier,ein Karibu,einen Karibu",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

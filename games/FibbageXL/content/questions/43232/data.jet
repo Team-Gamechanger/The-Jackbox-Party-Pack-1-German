@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pornografie,Masturbation,Schwangerschaft,Analsex,Tangas,öffentlicher Nacktheit,Alkohol,Sexting,Viagra,High Heels,Skinnyjeans,Parfüm,Schlagsahne,Brustimplantaten,Küssen in der Öffentlichkeit,Maskenbällen,Bordellen,Sonnenstudios",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleintiere",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "auf Hummerlippen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die winzige Tierart <i>Symbion pandora</i> ist einzigartig, da sie nur <BLANK> lebt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den Lippen von Hummern,auf dem Mundwerkzeug von Hummern,auf Mundwerkzeugen von Hummern,auf Hummermündern,auf dem Mund von Hummern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

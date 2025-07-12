@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Ärzte verklagen,erregt werden,einschlafen,nicht mehr sitzen können,„es merkwürdig machen“,sich verlieben,Witze erzählen,neidisch werden,lachen,singen,Juckanfälle kriegen,Fressanfälle kriegen,lustig laufen,Erregt werden,Blähungen kriegen,zu Fluchen anfangen,bluten,übermäßig schwitzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Üble Metaphern",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Lasagne",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der slowakische Finanzminister Peter Kazimir hat die sozialen Unruhen in Europa auf seltsame Weise beschrieben. Er nannte sie eine „<BLANK> des Bösen“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Lasagna, Lasagnen, Nudelauflauf",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

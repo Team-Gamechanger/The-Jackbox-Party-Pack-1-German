@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Rassel,eine Mütze,eine Wegwerfwindel,einen Kinderwagen,eine Trinkflasche,einen Schnuller,ein Mixtape,einen Hochstuhl,einen Doppelgänger,eine Sprache,einen Haarschnitt,einen zukünftigen Ehepartner,einen Titelsong,einen Strampler,eine spezielle Geburtsurkunde,eine Krippe,einen Welpen,ein Einhorn",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einheit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pinkeln muss",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Finnen haben einen Längenmaß namens “Poronkusema”, das angibt, wie weit ein Rentier ungefähr laufen kann, bevor es <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "urinieren muss,pissen muss,Wasserlassen muss,Wasser lassen muss,pissen muss,pisst,uriniert",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

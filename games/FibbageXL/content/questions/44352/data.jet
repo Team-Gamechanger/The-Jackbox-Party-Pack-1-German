@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nackt ist,wütend ist,alleine ist,jagt,schläft,schwimmt,betrunken ist,Teenager ist,schwanger ist,hüpft,alt ist,Fußball schaut,auf dem Kopf steht,weint,verkatert ist,am Äquator ist,nervös ist,alleine ist",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Liebe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Geistern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die britische Frau Amethyst Realm hat öffentlich den Männern abgeschworen und bevorzugt jetzt romantische Beziehungen mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Phantomen,den Toten,toten Menschen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

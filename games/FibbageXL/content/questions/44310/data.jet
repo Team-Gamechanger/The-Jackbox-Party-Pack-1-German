@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frischgepressten Orangensaft,Cannabis,Vollwaschmittel,Seife,Lavendel,verbrannten Reifen,Füßen,Knoblauch,frischgebackenen Keksen,Deodorant,Neuwagen,nassem Hund,Ammoniak,Zitrone,Essig,verbranntem Plastik,Thunfisch,Benzin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Diebstahlschutz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Flammenwerfer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ende der Neunziger versuchte der südafrikanische Erfinder Charl Fourie, Autodiebstähle zu verhindern, indem er <BLANK> an Autos anbrachte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Flammenwerfer,einen Flammen Werfer,einen Flammen-Werfer,Flammen Werfer,Flammen-Werfer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

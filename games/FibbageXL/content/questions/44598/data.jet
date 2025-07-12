@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Regenwürmern,Katzen,Hühnchen,Rentnern,Angela Merkel,Waisenkindern,Handys,Heidi Klum,Gefängnisinsassen,Füßen,Robotern,Vögeln,nackten Leuten,Kleinwüchsigen,Obdachlosen,einem Schneebesen,Insekten,Diensthunden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Philippinen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer ungeborenen Ente",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wenn ihr das nächste Mal ein wenig zu viel gefeiert habt, probiert „Balut“: Ein traditionelles philippinisches Katerheilmittel, das aus einem mit <BLANK> gefüllten Ei besteht.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Embryo,Embryo,einem Entenembyro,Enten Embryo,Einem Enten Embryo,einem Entenfötus,einem Enten Fötus,Entenfötus,einer Ente,Ente,einem Fötus,Fötusl,ungeborener Ente",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

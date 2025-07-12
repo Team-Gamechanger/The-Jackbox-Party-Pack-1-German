@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Schenke,ein Badehaus,einen Marktplatz,eine Herberge,ein Gasthaus,eine Spielstätte,einen Tanzsaal,eine Schänke,ein Freudenhaus,eine Taverne,einen Festsaal,eine Schankwirtschaft,ein Wirtshaus,eine Badestube,einen Weinkeller,eine Trinkstube,einen Bierkeller,eine Spelunke,ein Brauhaus,eine Meierei",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zahnärzte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Athleten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Zahnärzte des Universitätsklinikums Heidelberg veröffentlichten im Jahr 2014 eine eigenartige Studie, in der festgestellt wurde, dass <BLANK> mehr Zahnlöcher bekommen als andere Menschen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sportler,body builder,body builders,profisportler,Profiathleten,Profi Sportler,Profi Sportler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

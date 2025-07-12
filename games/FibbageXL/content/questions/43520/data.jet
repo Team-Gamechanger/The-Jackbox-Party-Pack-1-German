@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kinder,den guten Zweck,die Obdachlosen,ein Croissant,Politiker,Dackel,Kängurus,Weltfrieden,Gott,die Kunstfreiheit,Freiheit,Europa und Australien,Geld,die gute Unterhaltung,Ruhm,Charlie Brown,Nachtisch,Fisch",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stephen Hawking",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zeitreisende",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Am 28. Juni 2009 veranstaltete der Physiker Stephen Hawking eine Party, zu der nur <BLANK> eingeladen waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zeitreisende Menschen,Zeitreisende Personen,Personen die durch die Zeit reisen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

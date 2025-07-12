@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "den Sinn für Humor,die Fähigkeit zu sprechen,ihre Zähne,ihr Kurzzeitgedächtnis,das Sehvermögen,den Gefallen an Musik,ihren Geruchssinn,die Schlüssel,ihr Gehör,die Liebe zu ihrer Familie,das Gleichgewicht,das Modebewusstsein,die Fingernägel,ihr Rhythmusgefühl,die Fähigkeit zu schnarchen,ihren moralischen Kompass,ihre Haarfarbe,die Kreativität",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Internetrezensionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Den Entschuldigungsbrief",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nick Lutz, ein amerikanischer Student, ging im Jahr 2017 viral, nachdem er öffentlich <BLANK> seiner Ex-Freundin benotet hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Die Entschuldigungsnachricht,Die Entschuldigung,Das Entschuldigungsschreiben,Das Entschuldigungsanschreiben,Die Entschuldigungen,Den Entschuldigungstext,Die Entschuldigungsbriefe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

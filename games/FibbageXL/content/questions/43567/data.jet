@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Winston Churchill,Albert Einstein,Marilyn Monroe,Karl Marx,einem Papageien,Thunfischen,einem Clownfisch,Füchsen,der Mona Lisa,Stieren,Pippi Langstrumpf,einer Maggi-Flasche,einem Segelboot,einem Schaf,dem Sonnenuntergang,einem Hund,einer Tomate,Napoleon Bonaparte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Isländische Kontroversen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ananaspizza",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kontroversen Aussagen gegenüber Schülern folgend gab der isländische Präsident Gudni Johannesson auf Facebook bekannt, dass er <BLANK> nicht verbieten werde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pizza mit Ananas,mit Ananas belegte Pizza,Pizza Ananas,Pizza,Ananas auf Pizza,Pizza Hawaii,Hawaii Pizza,Hawaii-Pizza,Pizza-Hawaii",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

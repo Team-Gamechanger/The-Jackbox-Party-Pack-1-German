@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Diebe,Royals,Mörder,Wahnsinnige,Landwirte,Wikinger,Iren,Soldaten,Lehrer,Mumien,Ärzte,Zuwanderer,Priester,Musiker,Leprakranke,Arme,Politiker,Aliens",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Marketing-Stunts",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vor Schreck stirbt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Regisseur William Castle warb für seinen Film <i>Macabre</i> mit einem Angebot von 1.000 US-Dollar für jeden Zuschauer, der <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "stirbt,starb,vor Schreck starb,vor lauter Schreck starb,vor lauter Schreck stirbt,vor Angst stirbt,vor Angst starb,aus Schreck stirbt,aus Schreck starb,aus Angst starb,aus Angst stirbt,stirbt,starb,während der Vorführung stirbt,während der Vorführung starb,im Kino starb,im Kino stirbt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

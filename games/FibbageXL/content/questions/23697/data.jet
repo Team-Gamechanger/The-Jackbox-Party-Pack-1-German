@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Atommüll,Fischschuppen,recycelten Autoreifen,Spielkarten,CDs,Käfern,geschmolzenen Plastikmöbeln,altem Brot,ungenutzten Zahnarztutensilien,Glasscherben,ausrangierten Straßenschildern,Luftpolsterfolie,kaputten Musikinstrumenten,benutzten Bierdeckeln,verlorenen Kopfhörern,weggeworfenen Zahnbürsten,abgelaufenen Medikamenten,getragenen Mundschutzmasken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Samen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nobelpreisträger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In den 1990er-Jahren gründete der Unternehmer Robert Klark Graham eine sehr spezielle Samenbank, bei der alle Spender <BLANK> waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Leute die den Nobelpreis gewonnen haben,Leute die Nobel Preise gewonnen haben,Nobel Gewinner,Nobelpreisgewinner,Nobelpreis Träger, Nobelpreis Gewinner,Gewinner von Nobelpreisen,Träger von Nobelpreisen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

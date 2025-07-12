@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ein Staubsauger,Ein Toaster,Eine Parkuhr,Eine Kettensäge,Ein Elektrischer Dosenöffner,eine Heißluftfriteuse,Ein Kaffeevollautomat,Ein Brotbackautomat,Ein Geschirrspüler,Ein Navigationsgerät,Ein Anrufbeantworter,Ein Aktenvernichter,Ein Faxgerät,Ein Rasenmäher,Ein Waffeleisen,Victor von Doom,Baron von Beak,Dieter Bohlen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Metal",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ein Papagei",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Leadsänger der Metalband „Hatebeak“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Papagei,Der Papagei,Papageien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

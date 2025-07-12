@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Keine Zähne,Drei Arme,Pinke Augen,Zwanzig Finger,Sehr kurze Zungen,Fledermausohren,Nachtsicht,Lila Haare,Keine Knie,Zwei Köpfe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schweinereien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der dänischen Flagge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Rotbunte Husumer Schwein ist eine seltene Schweinerasse, die bewusst so gezüchtet wurde, dass sie <BLANK> ähnelt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "der Flagge von Dänemark,der Flagge Dänemarks,einer dänischen Flagge,einer Flagge von Dänemark,einer Flagge Dänemarks,dänischen Flaggen,der dänischen Nationalflagge,der Nationalflagge Dänemark,einer dänischen Nationalflagge,einer Nationalflagge Dänemarks",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zum Meme geworden,tot,unwissentlich verheiratet,ein Roboter,ein Doppelgänger eines Prominenten,als Schauspieler gecastet,ein Mafiaboss,angeblich ein Spion,Lottogewinner,ein bekannter Influencer,ein berühmter Sänger,ein Kunstdieb,ein berühmter Stuntman,der Gründer einer Sekte,ein verlorener Königssohn,ein Topmodel,Bankrott,Poetry-Slammer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Babyartikel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "High Heels",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die US-Amerikanerin Michele Holbrook erzürnte zahlreiche Eltern, als sie ein Unternehmen gründete, das <BLANK> für Babys verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Highheels,Stöckelschuhe,Absatzschuhe,hochhackige Schuhe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

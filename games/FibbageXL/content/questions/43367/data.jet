@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kleidung zu trocknen,Schweine zu füttern,Käse herzustellen,Diebe zu fangen,Hühnereier auszubrüten,sich zu waschen,Farbe aufzurühren,Samen auszustreuen,Wasser zu pumpen,Getreide zu mahlen,schneller zu essen,seine Zähne zu putzen,Butter zu stampfen,Waschbären zu verscheuchen,Messer zu werfen,die Flagge zu hissen,Steine zu säubern,Orangensaft zu pressen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Der Mais ist heiß",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "kannibalischer Hamster",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine steigende Maisproduktion in Frankreich führte zeitgleich zu einer beunruhigenden Entwicklung: Die Maisfelder waren voller <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hamster,Kannibalen,fleischessender Hamster,fleischfressender Hamster,Kannibalen-Hamster,Hamster-Kannibalen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

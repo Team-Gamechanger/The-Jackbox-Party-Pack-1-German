@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Der Heirat,Sozialstunden,Einer Geburtstagsfeier,Sex,Einer Beförderung,Seinen Spielschulden,Seiner Schwiegermutter,Einem Fernsehauftritt,Aus einem Gefängnis,Einem Knöllchen,Einem Zahnarztbesuch,Einem Weihnachtsessen,Der Geburt seiner Kinder,der Kastration,Einem Fallschirmsprung,Aus einer Beziehung,Small Talk,Einem Pornodreh",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Notlandung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "furzende Schafe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 musste ein Frachtflug von Australien nach Kuala Lumpur unerwartet landen, nachdem der Feueralarm durch <BLANK> ausgelöst worden war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pupsende Schafe,Schaffürze,Schafpupse,Pupsen,Furzen,Flatulenzen,ein furzendes Schaf,ein pupsendes Schaf",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

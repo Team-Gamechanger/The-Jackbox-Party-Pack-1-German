@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "langen Zehennägel,Torwarte,Elfer,Schwerhörigen,Hinterwäldler,guten Tänzer,Schleicher,stinkenden Füße,plötzlichen Wutausbrüche,imaginären Freunde,Teddybären,Blähungen,schlechten Freunde,Kellerkinder,Weißheitszähne,Unordnung,Diabetiker,Aluhüte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Spanische Schmuggler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "falschen Bananen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2017 verhaftete die spanische Polizei zwei Männer, die versucht haben, 15 Pfund Kokain in <BLANK> zu schmuggeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bananen,fake Bananen,gefälschten Bananen,Fake-Bananen,unechten Bananen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

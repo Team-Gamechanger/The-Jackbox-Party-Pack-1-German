@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "nackt,unsichtbar,tot,hässlich,aufgebläht,Gott,schwerelos,glatzköpfig,müde,entsetzt,auf dem Kopf,noch attraktiver,unter Wasser,von Bienen umzingeld,das andere Geschlecht,erfolgreich,eine Comicfigur",
+      "v": "iPod,kleinen Hut,Billardkugel,Hund,Baby,Frisbee, Halskette,Toupet,Gürtelschnalle,Taschenuhr,Baseball,Pillenbehälter, Wii,Kuchen,Herzschrittmacher,Paar Kopfhörer,Selbsthilfebuch,Jo-Jo",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Spiegel",
+      "v": "Spieglein, Spieglein...",
       "n": "Category"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2013 entwickelten Forscher der University of Tokyo einen “Incendiary Reflection”-Spiegel, indem man aussiehst, als wäre man <BLANK>.",
+      "v": "Im Jahr 2013 haben Forscher der Universität Tokio einen speziellen Spiegel entwickelt, indem man aussieht, als wäre man <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "lächelnd",
+      "v": "lächelnd,fröhlich,heiter",
       "n": "AlternateSpellings"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "349240_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

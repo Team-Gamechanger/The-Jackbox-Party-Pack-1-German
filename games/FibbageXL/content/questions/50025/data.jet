@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Suppe,Eiscreme,Kartoffelbrei,eine Gemüsepfanne,Sahnemeerrettich,Salami,ein Donut,ein Kartoffelchip,ein Müsliriegel,Frischkäse,ein Bonbon,Pizza,eine Lammkeule,Makkaroni mit Käse,Hummus,ein Doritochip,Sauerkraut,ein Chicken Wing",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schutzkleidung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Unterwäsche-Farbe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut einem Urteil des Landesarbeitsgerichts Köln aus 2010 darf dem Personal in Flughafen-Sicherheitskontrollen durch den Arbeitgeber <BLANK> vorgeschrieben werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die Unterwäschefarbe,die Farbe der Unterwäsche,die Dessous-Farbe,Dessous-Farbe,die Farbe der Unterbekleidung,die Slip-Farbe, die Unterhosen-Farbe,die BH-Farbe,Unterwäschefarbe,Farbe der Unterwäsche,Farbe der Unterbekleidung,Slip-Farbe,Unterhosen-Farbe,Unterhosenfarbe,BH-Farbe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

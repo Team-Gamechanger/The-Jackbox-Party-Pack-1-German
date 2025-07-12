@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "menschlicher Asche,benutzten Särgen,Kaffeesatz,Tetrapaks,Rattenkot,Fleisch,Kronkorken,Rock ‘n Roll,alten Snickers,Plankton,Schnee,alten Kleinstwägen,verschrotteten Karneval-Attraktionen,Feuer,recycelten iPhones,Zucker,Walross-Stoßzähnen,alten Fußball-Pokalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Farbe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "WLAN-Signale abschirmt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "An der Universität Tokio wurde 2009 eine spezielle Farbe entwickelt, die <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "drahtlose Signale blockiert,drahtloses Internet blockiert,drahtlose Internet-Signale blockiert,wifi blockiert,das Internet blockiert,WLAN blockiert,WLAN Signale blockiert,drahtlose Signale abschirmt,drahtloses Internet abschirmt,drahtlose Internet-Signale abschirmt,wifi abschirmt,das Internet abschirmt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

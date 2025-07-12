@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "der Mond,Lord Voldemort,ein Hai,ein Alien,eine Bowlingkugel,ein Türknauf,eine Grapefruit,sein jüngeres Ich,Couscous,ein Muppet,ein Radiergummi,Jason aus Freitag der 13.,Vincent Van Gogh,ein Leopard,ein Otter,ein Gargoyle,eine Schlange,Nosferatu",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Strickkunst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hundehaaren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kendall Crolius ist der Autor eines bizarren Handwerksbuchs, bei dem man lernt, mit <BLANK> zu stricken.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hundehaar,Hundewolle,Hundefell",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

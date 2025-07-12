@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Sonne anzuschreien,Leuten in die Augen zu starren,Grammatikfehler zu korrigieren,das Sonnenlicht zu meiden,Fingernägel zu kauen,nasse Farbe anzufassen,Milch zu trinken,zum Arzt zu gehen,mit Schlüsseln zu klimpern,Süßigkeiten zu essen,Zehen anzufassen,Sport zu machen,Podcasts anzuhören,Sport anzuschauen,Sushi zu essen,langsam zu fahren,Vögel anzuschauen,Fotos von allem zu machen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verhütungsmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ehebruch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Aktien südkoreanischer Verhütungsmittelhersteller stiegen im Februar 2015 an, nachdem die Regierung ein 62 Jahre langes Verbot von <BLANK> aufgehoben hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fremdgehen,Ehe Bruch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

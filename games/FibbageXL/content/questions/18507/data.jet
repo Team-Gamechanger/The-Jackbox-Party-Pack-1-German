@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "der Dalai Lama,ein digitaler Prophet,der Herrscher seines eigenen Landes,ein Außerirdischen-Kriegsherr,der Erfinder des Internets,ein Zeitreisender,ein ägyptischer Pharao,der Herzog von Essex,der Sohn von Bigfoot,der König von Atlantis,ein Schlumpf,der Erbe des Skittles-Vermögens,eine Fee,virtueller Wanderprediger,ein Apostel der Algorithmen,ein Meerjungfraumann,der Botschafter der deutschen Reichsbürger,ein Magier",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kreditwürdig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Parmesan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die italienische Bank <i>Credem</i> hat eine einzigartige Geschäftspraxis. Im Austausch für ein billiges Darlehen verlangt sie von Kunden <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Parmesan Käse,Käse,parmesan,Parmesankäse,Parmigiano,Parmigiano Reggiano",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

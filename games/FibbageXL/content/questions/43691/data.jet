@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hundebissen,wütenden Katzen,unerwünschten Ausbeulungen,heißen Laptops,Urin,Ratten,stinkenden Fürzen,Schlangen,Taschendieben,Demütigungen,einem Bierbauch,Perversen,Arschschwitzen,Sand,Sonnebränden,Chlamydien,leeren Handyakkus,Löchern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Bierisch gut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fliegt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Schon mal Betsy-Bier getrunken? Es wird so gebraut, dass es am besten schmeckt, während man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Flugzeug fliegt,über den Wolken ist,im Flugzeug sitzt,beim fliegen ist,im Flugzeug ist,über den Wolken fliegt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

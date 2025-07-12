@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Puppen,Koran-Kopien,Vibratoren,Beinprothesen,Kindern,Taschentücher-Packungen,Plüschtieren,Laptops,iPhones,Unterwäsche,Keksen,Kondomen,Spielzeug,BHs,Leguanen,Kruzifixen,Gemälden von Picasso,Hühnereiern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heilender Wein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Babymäusen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aus dem alten China und Korea stammt ein Heilgetränk aus Reiswein, fermentiert mit 10 bis 15 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mäusen,Baby Mäusen,Baby Mäusen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

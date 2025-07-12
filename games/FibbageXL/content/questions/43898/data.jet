@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mit Gemüse warfen,absurde Theaterstücke aufführten,Steuergeld verbrannten,töpferten,ihre Hintern entblößten,Spottlieder sangen,Kinder wie Politiker verkleideten,als Schweine verkleidet protestierten,hässliche Kunst erstellten,beleidigende Gedichte vortrugen,Pferde wie Kühe verkleideten,Affen als Adlige verkleideten,Fäkalien auf Regierungsgebäude warfen,alle gemeinsam frühstückten,öffentlich urinierten,Plakate mit Schimpfwörtern aufhängten,schlechte Witze machten,Schals mit anstößigen Texten strickten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Uranus",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Georgs",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als Uranus zum ersten Mal entdeckt wurde, gab man ihm einen lateinischen Namen, der übersetzt „<BLANK> Stern“ bedeutet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "König Georgs,Georges,Georg's,König George,Georges,George's",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

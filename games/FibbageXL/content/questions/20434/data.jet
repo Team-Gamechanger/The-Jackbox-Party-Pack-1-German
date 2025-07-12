@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zu gähnen,Zu fluchen,Zu niesen,Zu treten,Einzuschlafen,Schluckauf zu haben,Zu kichern,Zu spucken,Zu rülpsen,Zu stolpern,Zu weinen,Andere Leute zu umarmen,Zu bluten,Anzüglich zu tanzen,Kopfschmerzen zu haben,Zu Sabbern,Geister zu sehen,Ihre Hand abzulecken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Laufband",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gefangene zu bestrafen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sir William Cubitt erfand 1818 das erste Laufband, nicht um zu trainieren, sondern um <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sträflinge zu bestrafen,Häftlinge zu bestrafen,Strafgefangene zu disziplinieren,Kriminelle zu quälen,Verbrecher zu bestrafen,Gefangene zu disziplinieren,Gefängnisinsassen zu bestrafen,Gefangene zu strafen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

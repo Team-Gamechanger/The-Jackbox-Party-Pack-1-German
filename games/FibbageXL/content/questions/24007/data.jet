@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gefrorenen Tränen,Achselhaaren,Zehennägeln,Rentier-Schweiß,Geweihen,Lavagestein,Robbenmilch,Windeln,Erde,Hirsch-Penissen,Handtüchern,Teppichen,Ratten,Klee,Blauschimmelkäse,Lachs,Eiern,Couscous",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rupien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "öffentliche Toiletten benutzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ahmedabad in Indien hat im Jahr 2015 ein ungewöhnliches Belohnungssystem eingeführt, bei dem die Einwohner eine Rupie erhalten, wenn sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine öffentliche Toilette benutzen,ein öffentliches Badezimmer benutzen,öffentliche Badezimmer benutzen,öffentliche WCs benutzen,ein öffentliches WC benutzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

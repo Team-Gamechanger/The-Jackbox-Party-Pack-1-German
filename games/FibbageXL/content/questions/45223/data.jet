@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Haare,Zähne,ihre Babykleidung,einen Ellenbogen,Socken,ein Malbuch,einen toten Hasen,zehn gesparte Silbermünzen,eine Bibel,Murmeln,ihre linke Hand,ihre Spielzeugsoldaten,ihre Hoffnungen und Träume,ein selbstgeschriebenes Gedicht,ein Spielzeug,ihr Schwert,ihr Geburtssiegel,ein Schachset",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Multifunktional",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tapetenreiniger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bevor es zu einem Kinderspielzeug wurde, war <i>Play-Doh</i> als <BLANK> konzipiert.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Reiniger für Tapeten,Tapetenreinigungsmittel,Tapeten Reinigungsmittel,Reinigungsmittel für Tapeten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

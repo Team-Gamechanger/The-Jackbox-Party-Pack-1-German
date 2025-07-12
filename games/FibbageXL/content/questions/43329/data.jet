@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Den Verkehr,Ihre Gefühle,Süßkartoffeln,Eidechsen,Die Ergebnisse von Footballspielen,Franzosen,Das Wetter in Paris,Enten,Wahlergebnisse,Gras,Die Luftfeuchtigkeit,Schnürsenkel,Bahnverspätungen,Die Lottozahlen,Sudokus,Kreuzworträtsel,Suppe,Goldfische,Straßenbahnen,Oliven,Die Nudelkochzeit",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Unterbekleidung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Funkstrahlung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Unternehmen namens Spartan hat seine Männerunterhosen so entwickelt, dass sie den Träger vor <BLANK> schützen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "WLAN und Handystrahlung,WLAN,WLAN-Strahlung,Strahlung,Handystrahlung,Handys,Smartphones,Smartphonestrahlung,Telefonstrahlung,WLAN und Smartphonestrahlung,Funkwellen,Funkwellenstrahlung,Funkwellenstrahlen,WLAN-Strahlen,Handystrahlen,Smartphonestrahlen,Telefonstrahlen,Funkstrahlen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

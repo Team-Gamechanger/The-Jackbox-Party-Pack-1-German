@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "kleine,adipöse,ältere,bildhübsche,sterbenskranke,chaotische,stinkende,tote,idiotische,betrunken,rothaarige,getüpfelte,depressive,magersüchtige,blonde",
+      "v": "Fässer,Särge,Unfallwägen,Schubkarren,Wassermelonen,Schaufensterpuppen,Grills,Einkaufswagen,Trampoline,Urinale,alte Schulbusse,Badewannen,Tische,alte Woks,Sofas,Puppenhäuser,Mülleimer",
       "n": "Suggestions"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "hässliche",
+      "v": "hässliche Menschen",
       "n": "CorrectText"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Laut einer Studie der Universität Jena sind die Menschen mit den einprägsamsten Gesichtern, <BLANK> Menschen.",
+      "v": "Laut einer Studie der Universität Jena aus dem Jahr 2014 haben <BLANK> die einprägsamsten Gesichter.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "unattraktiv,unattraktive",
+      "v": "unattraktive,unattraktive Menschen,unattraktive Personen,Hässliche,hässliche Personen",
       "n": "AlternateSpellings"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "358883_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

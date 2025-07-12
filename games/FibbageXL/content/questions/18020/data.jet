@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nackt trainiert,laut singt,rückwärts läuft,Alkohol trinkt,barfuß joggt,Käse isst,tanzt,im Regen trainiert,nachts trainiert,Videospiele spielt,Milch trinkt,meditiert,Tee trinkt,Yoga macht,kalt duscht,Musik hört,spät schläft,früh aufsteht,langsam läuft,schnell geht",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimdienste",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Furby",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die NSA gab 1999 eine merkwürdige Mitteilung heraus, die allen Angestellten verbot, <BLANK> mit in ihre Büros zu bringen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Furby,Furby,Furbys,Furby Puppe,Furby Puppen,Furbypuppe,furbypuppen,Furbies,einen Furbie,ein Furbie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

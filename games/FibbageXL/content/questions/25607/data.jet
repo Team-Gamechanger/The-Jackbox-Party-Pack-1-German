@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dreckige Windel,Alufolie in der Mikrowelle,Essensschlacht,überfluteter Schokoladenbrunnen,Magen-Darm-Grippe,verdorbene Muscheln,betrunkener Faustkampf,verliebte Truthähne,zwei Babys,eine Tasse,billiger Champagner,Fans von Justin Bieber,Mambotanz,Abführmittel im Kuchen,Tischfeuerwerk,Ein Indoor-Hundeschlitten-Rennen,30 Flaschen Wodka,der royale Papagei,Ein Zauberer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schaden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein betrunkenes Eichhörnchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Ursache für einen Schaden von mehr als £300 im Jahr 2015 im privaten <i>Honeybourne Railway Club</i> in Worcestershire, England.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "betrunkenes Eichhörnchen,Eichhörnchen betrunken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

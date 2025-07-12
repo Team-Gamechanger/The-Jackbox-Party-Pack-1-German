@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Käse-Weitwurf,Abwasserschwimmen,Bart aufplustern,Langstrecken-Naseputzen,Popel basteln,Teppich verlegen,Wettbrechen,Haferflocken-Wrestling,Schneckenrennen,Glas essen,Wettniesen,Ameisenrennen,blind Dart spielen,um die Wette weinen,Drachen jagen,bis eine Million zählen,Granaten jonglieren,Bibelquiz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sport",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zeh-Wrestling",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die seltsame Sportart, die jedes Jahr ihre Weltmeisterschaft im englischen Fenny Bentley austrägt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zehen-Wrestling,Zeh Wrestling,Zehen Wrestling,Wrestling mit Zehen,Wrestling von Zehen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

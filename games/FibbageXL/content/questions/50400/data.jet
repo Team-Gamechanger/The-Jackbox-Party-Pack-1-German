@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Krötenwanderung,Friedenstaube,Bananenrepublik,Betonkopf.Flitzekacke,Knautschzone,Kopfkissenpolitik,Quadratlatschen,Badehose,Schnarchnase,Schreibtischtiger,Denkfalte,Plaudertasche,Zitterpartie,Atomkrake,Spielspaß,Verwässern,Entschuldigung,Brotaufstrich",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sprache",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ellenbogengesellschaft",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das kuriose Wort des Jahres der Gesellschaft für deutsche Sprache im Jahr 1982.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ellbogengesellschaft,Ellenbogen-Gesellschaft,Ellbogen-Gesellschaft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

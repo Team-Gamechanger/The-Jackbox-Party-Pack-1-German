@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,17 +12,17 @@
     },
     {
       "t": "S",
-      "v": "mastrubieren,sexting,husten,rülspen,furzen,fotografieren,sändigen schniefen,Stricken,Jodeln,herumspringen,Simsen,schnitzen,kochen,gurgeln,kaugummi kauen,schluckauf,urinieren",
+      "v": "schreien sie,erbrechen sie Blut,verbinden sie sich zu einer Riesenameise,fliegen sie weg,werden sie unsichtbar,schießen sie Laser aus ihrem Hintern,küsse sie sich,riechen sie wie Speck,friere sie sich ein,glühen sie grün,werden sie radioaktiv,schrumpfen sie,fangen sie an zu tanzen,lassen sie das Raubtier niesen,beginnen sie zu weinen,essen sie ihre eigenen Köpfe,kitzeln sie den Angreifer,sitzen sie die Gefahr einfach aus",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Illinois",
+      "v": "Gerichte",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Gähnen",
+      "v": "gähnte",
       "n": "CorrectText"
     },
     {
@@ -32,22 +32,21 @@
     },
     {
       "t": "S",
-      "v": "In Illinois wurde ein Zuschauer wegen <BLANK> während eines Gerichtsverfahrens zu sechs Monaten Gefängnis verurteilt.",
+      "v": "Im US-amerikanischen Bundesstaat Illinois wurde ein Zuschauer zu sechs Monaten Gefängnis verurteilt, weil er während einer Gerichtsverhandlung <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "gähnen musste,gegähnt hat",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "318731_0f",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "318728_2",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

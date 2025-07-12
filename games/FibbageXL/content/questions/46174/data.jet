@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wespen,kaltes Wasser,Elektroschocks,Vögelgeräusche,Wachhunde,angenehmen Keksduft,Tinte,eine Taube,E-Mail-Kettenbriefe,Babyweinen,Beyonce-Musik,das eigene Schnarchen,Pizzateig,Benzin,leise Geräusche,mehr Feuer,Helium,wütende Schlangen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Minecraft",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Paarung von Papageien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Entwickler des Videospiels <i>Minecraft</i> lösten 2017 eine Kontroverse aus, nachdem Fans die Darstellung von <BLANK> im Spiel kritisierten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "der Paarung von Papageien, Papageienpaarung, der Papageien-Paarung, der Fortpflanzung von Papageien, der Vermehrung von Papageien, des Paarungsverhaltens von Papageien, Papageien, Papagei",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

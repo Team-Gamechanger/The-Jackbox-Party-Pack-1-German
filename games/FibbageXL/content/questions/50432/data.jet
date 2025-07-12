@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bluttransfusion,Zitronensaft trinken,an einer Katze schnüffeln,Schlag ins Gesicht,ein Grashüpfer-Smoothie,Bauchnabel-Akupunktur,Roboterlungen,Eistee-Gurgeln,ein induzierter Herzinfarkt,Knoblauchsaft,Bild von Jesus,Kaffeeeinlauf,Viagra,Zungenrollen,ein Traumjournal,eine Tracht Prügel,Purzelbäume,eine Tafel Schokolade",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schluckauf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rektalmassage",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dr. Francis M. Fesmires todsicheres Mittel gegen Schluckauf.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "rektal massage,anusmassage,anus massage,Analmassage,Anal Massage",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Teddybären,Tanten,Süßigkeiten,Regierungsvertreter,Kaffeetassen,Frischgeschiedene,Duschvorhänge,Käse,Brillen,Einen Vorgesetzten,Kinder,Eine Fake-Hochzeit,BHs,Nasen,Zahnbürsten,Goldfische,Katzen,Einen Backofen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geheimes Gold",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "menschlichen Fäkalien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nach Angaben des U.S. Geological Survey sind Hunderte von Millionen Dollar an Gold und anderen Edelmetallen in <BLANK> versteckt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "menschlichem Kot,menschlichen Exkrementen,Fäkalien,Ausscheidungen,Stuhlgang,Kot,menschlichen Abfällen,Fäzes",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

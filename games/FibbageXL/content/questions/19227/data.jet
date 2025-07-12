@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "John Lennon,Dick & Doof,seiner nicht toten Frau Beatrice,Leitungswasser,im Dienst verstorbenen Schädlingsbekämpfern,Marilyn Monroe,The Rolling Stones,Gaius Iulius Caesar,Donald Trump,Scheren,Faxgeräten,Planet Erde,Stop-Motion-Animation,Insektenkundlern,Prinzessin Diana,Bananenbrot,Frankensteins Monster,Helmut Schmidt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Braukunst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "geräucherten Walhoden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Für eine begrenzte Zeit im Jahr 2015 verkaufte die isländische Mikrobrauerei Stedji ein kurios klingendes Bier, das mit <BLANK> aromatisiert war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "geräuchertem Walhoden,geräucherte Walhoden,Walhoden,geräucherten Testikeln vom Wal,geräucherten Wal-Testikeln,Testikeln vom Wal,Wal-Testikeln,Wal Hoden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

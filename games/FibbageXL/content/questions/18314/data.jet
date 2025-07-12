@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Socken,Regenschirm,Quietscheentchen,Zahnbürsten,Kaffeetassen,Schlüssel,Fahrrad,Krawatten,Wäscheklammer,Handtaschen,Hut,Kopfhörer,Haarspangen,Stofftier,Gartenzwerg,Brief,Toilettenpapier,Katzen,Flaschen,Kartoffelzaun",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "G'schichten aus dem Tiergarten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ottern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2015 fand ein vom Aussterben bedrohter Affe im britischen <i>Bristol Zoo Gardens</i> ein tragisches Ende, als er versehentlich von <BLANK> gefressen wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fischottern,Fisch Ottern,Otter,Einem Rudel Otter,Einem Otterrudel,Hungrigen Ottern,Einigen Ottern,Wassermardern,Wassermarder,Einem Wassermarder",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

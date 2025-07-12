@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jongleur,Veganer,ein Schüler,Zauberer,eine Meerjungfrau,Linkshänder,keine Frau,ein Profikoch,Programmierer,blind,im Rollstuhl,Franzose,ein Oktopus,Dichter,Doktor der Physik,ein Superheld,Perückenmacher,Korbflechter",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Paarung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Tinderprofil",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem Versuch, es zur Paarung zu bewegen, wurde einem kenianischen Breitmaulnashorn namens Sudan <BLANK> gegeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Tinder-Profil,Tinderprofil",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

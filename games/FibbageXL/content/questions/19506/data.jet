@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pudding,Orangenschalen,Lehm,Bildern von sich selbst,Bratensoße,Müll,Straßenkindern,Zuckerwatte,Eis,Fallschirmen,Knochenstücken,fünf hässlicheren Kleidern,Maschendraht und Marshmallows,Steuerformularen,ihren eigenen Haaren,Erotikmagazinen,edler Unterwäsche,Glühbirnen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Vasektomien",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Waffenschein",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2008 sollten in der indischen Stadt Shivpuri mehr Männer zu einer Vasektomie verleitet werden, indem sie im Gegenzug <BLANK> erhielten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Waffenscheine,eine Waffenlizenz,Waffenlizenzen,Waffenlizenz,Waffenschein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

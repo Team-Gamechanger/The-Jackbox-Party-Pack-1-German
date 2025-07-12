@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "anzünden,selbst lehren,stets gratulieren,nur kritisieren,andauernd herunterreden,in sich selbst verlieben,selbst nerven,nur mit kochendem Wasser waschen,mit 35 einsperren,schminken,im Bordell erniedrigen müssen,bunt anmalen,selbst anmalen,täglich nur fünfmal anschauen,tätowieren,selbst streicheln,täglich rasieren müssen,gegenseitig Kinderbücher vorlesen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Königliche Titel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sabberer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im späten 12. und frühen 13. Jahrhundert wurde das mittelalterliche Königreich León von einem Monarchen regiert, der gemeinhin als Alfons der <BLANK> bekannt war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sabbernde,Saberer,Sabernde,Speichelnde,Speicheler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

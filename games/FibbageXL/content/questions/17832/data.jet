@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aus Kissen besteht,freundlich und effizient ist,auf einem Schrottplatz liegt,im Dunkeln leuchtet,von Robotern betrieben wird,auf einem Vulkan steht,auf einem Piratenschiff liegt,nur nachts geöffnet hat,auf einem Friedhof liegt,von Pinguinen bewacht wird,kopfüber hängt,in einem Flugzeugwrack ist,von Affen geleitet wird,immer brennt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auf Verhandlungsbasis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Atem",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein amerikanisches Onlinecasino zahlte auf <i>eBay</i> 523 US-Dollar für ein Glas, gefüllt mit Angelina Jolies <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hauch,Ausgeatmeter Luft,Luft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

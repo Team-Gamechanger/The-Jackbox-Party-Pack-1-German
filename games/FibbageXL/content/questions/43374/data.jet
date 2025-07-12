@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Land verlassen,Rente,ein Ehrenamt,Seniorenrabatte,in ein Altersheim umziehen,bezahlten Urlaub,in einem Hockeyteam spielen,einen neuen Ausweis,eine Steuerrückzahlung,ein persönliches Treffen,sich scheiden lassen,ihn als Anwalt,ihn zu einem Volksfest einladen,das Rezept für sein Leibgericht,mit dem Häkeln anfangen,den Namen ändern,eine kostenlose kanadische Flagge,einmal etwas Ruhe und Frieden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kinderschmuck",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fliegenden Penissen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Um Krankheiten fernzuhalten, mussten Kinder aus dem antiken Rom „Fascina“, Amulette in Form von <BLANK>, tragen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Penissen,Penes,fliegenden Penes,einem Penis,einem fliegenden Penis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

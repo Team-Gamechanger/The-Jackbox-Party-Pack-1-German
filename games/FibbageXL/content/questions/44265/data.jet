@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schönem Haar,Seinem Nachnamen,Freiem Oberkörper,Australischem Akzent,Kleinen Hunden,Drei Brustwarzen,Masern,Einem Star Wars-Tattoo,Überbiss,Hasenzähnen,Eintrag bei der italienischen Schufa,Üppigem Nasenhaar,High Heels,Mehr als zwei Scheidungen,Gesichtstätowierung,Über tausend Twitterfollowern,Haarigen Rücken,Schöner Gesangsstimme",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Finnland",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "billige Pizza",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die finnische Polizei startete im Jahr 2015 eine merkwürdige Kampagne in den sozialen Medien, in der sie die Öffentlichkeit aufforderte, jeden zu melden, der <BLANK> verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pizza,günstige Pizza,preiswerte Pizza,Billigpizza,billige Pizzen,Pizzen,günstige Pizzen,preiswerte Pizzen,Billigpizzen,billige Pizzas,Pizzas,günstige Pizzas,preiswerte Pizzas,Billigpizzas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

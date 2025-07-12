@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Modelleisenbahn,einer Mumie,einem Traktor,einem Wildschweinrudel,einem goldenen Besen,einer Villa,Löwen,einer Laserpistole,einer Granate aus dem Zweiten Weltkrieg,einem Buch über Schauspiel,einem Raumschiff,einem zwei Meter Bleistift,einem diamantbesetzten Diadem,einem Gameboy,einem Kürbistransporter,einem Milchbetrieb,einem UFO",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zahnmedizin",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Flaschenöffner",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Werbeagentur Ogilvy & Mather hat eine Gruppe argentinischer Rugbyspieler mit speziellen Zahnimplantaten ausgestattet, die auch als <BLANK> dienen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bieröffner,Kronkorkenöffner,Flaschen Öffner",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

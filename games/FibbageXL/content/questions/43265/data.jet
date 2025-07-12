@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Das Vermögen,Den Kleidungsstil,Das Zuhause,Das Haustier,Den Humor,Die Knie,Den Rasen,Die Frisur,Das Schreien,Die Stimme,Die Karriere,Den Atem,Das Lachen,Die Brusthaare,Den Wortschatz,Den riesigen Zylinder,Den Oberlippenbart,Die Größe,Die Augenbrauen,Den Dünndarm,Die Unterschenkel,Den Hinterkopf",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "„Wichtige“ Forschung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Telefon",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem bizarren Experiment aus dem Jahr 1929 gelang es zwei Forschern aus Princeton, eine Katze in <BLANK> zu verwandeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Telefone,das Telefon,ein Festnetztelefon",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

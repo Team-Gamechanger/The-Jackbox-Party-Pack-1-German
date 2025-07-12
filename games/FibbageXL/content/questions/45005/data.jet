@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schlechten Atem hat,langweilig ist,schmatzt,hässliche Flossen hat,kannibalische Tendenzen hat,große Zähne hat,ein kleines Blasloch hat,kopfüber schwimmt,voller Seepocken ist,blind ist,sehr verspielt ist,ungewöhnlich schwimmt,nett zu Menschen ist,aggressiv ist,süchtig nach Krabben ist,andauernd furzen muss,gerne Seifenblasen macht,zu langsam schwimmt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Dänische Singles",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zimt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In Dänemark wird eine unverheiratete Person an ihrem 25. Geburtstag von Freunden mit <BLANK> beworfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

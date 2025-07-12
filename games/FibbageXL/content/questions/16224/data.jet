@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Cupcakes,Oma,verbrannten Haar,Pommes,einem Gefängnis,Hummus,verfaulten Eiern,Whiskey,toten Fisch,alten Schuhen,frischen Blumen,Zitrone,Orange,Schwefel,Stinktier,Sumpfwasser,Furzen,Büffelsauce,Lakritze",
+      "v": "Suppe,Schlamm,Chips,Schokolade,Kuchen,Kinder,Haare,Joghurt,Felsen,Wanzen,Donuts,Kuchen,Schweinekoteletts,Kokos-Curry-Suppe,Pizza,Centstücke,Lakritze,Reiswaffeln",
       "n": "Suggestions"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2013 startete die Firma Dell eine Rückrufaktion, nachdem sich Kunden darüber beschwert hatten, dass ihre Notebooks nach <BLANK> rochen.",
+      "v": "Im Jahr 2013 startete die Firma <i>Dell</i> eine Rückrufaktion, nachdem sich Kunden beschwert hatten, dass ihre Notebooks nach <BLANK> rochen.",
       "n": "QuestionText"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "359125_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

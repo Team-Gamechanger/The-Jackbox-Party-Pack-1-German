@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Albert Einstein,Marilyn Monroe,einer Ente,Abraham Lincoln,Rapunzel,Satan,Batman,Super Mario,einem Mittelfinger,ALF,Pikachu,Harry Potter,einem einäugigen Stachelschwein,dem Nesquik-Hasen,dem Glöckner in Notre Dame,Freddy Krueger,einem Clown,einem Hintern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Um die Wette",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aufblasbaren Sexpuppen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei der jährlich in Russland stattfindenden „Bubble Baba-Challenge“ versuchen die Teilnehmer, mit <BLANK> den Fluss Vuoksi zu überqueren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sexpuppen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

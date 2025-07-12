@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Furzgerüche,Millennials,eingewachsenen Zehennägel,Milchhäute,Kugelschreiber,Salamistangen,Rückenhaare,Vorliebe für 90er Musik,Weihnachtsmänner,Bigfoot-Schwangerschaften,vollen Windeln,Flugzeugtoiletten,Eichhörnchen-Telepathie,Augenringe,Mid-Life-Crisis,Cargoshorts,deutschen Blätter-Glasschüsseln,erotischen Kornkreise",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "99",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wassermelonen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wer den oder die Ex zurückgewinnen will, sollte vielleicht nicht dem Beispiel eines Studenten der Henan-Universität in China folgen. Er schenkte seiner ehemaligen Freundin 99 <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Melonen,Wassermelone,Melonenstücke,Honigmelonen,Zuckermelonen,Wassermelonenstücke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

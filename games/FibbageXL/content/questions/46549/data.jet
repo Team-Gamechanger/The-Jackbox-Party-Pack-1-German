@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gerettete Pitbulls,Ärzte,Amerikaner,Hologramme,Doubles von Will Smith,Männer namens Alexei, Menschen mit sechs Fingern,seine Verwandten,unhöfliche Roboter,Hippies,Einhörner,Kobolde,Lemuren,Australier,Meerjungfrauen,Marsianer,Blinde,Witwen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Selbstgemachte Statuen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "toten Käfern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "1975 schuf der japanische Bildhauer Yoneji Inamura eine Statue aus 20.000 toten Käfern als Denkmal zu Ehren von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Käferleichen,tote Käfer,toter Käfer,Käfer,Insekten,toten Insekten,toter Insekten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

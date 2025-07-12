@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Selfie-Sticks,E-Saiten für Gitarren,Büsten von US-Präsidenten,Senf-Flaschen,einzelne Socken,verschimmelte Kartoffeln,Staubsauger-Roboter,gefälschte Führerscheine,4K-Fernseher,Haargummis,getragene Turnschuhe,Bratensoße,Trichter,VR-Brillen,Duftbäume,einzelne M&Ms,beleidigende Horoskope,Marienkäfer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Abwehr",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "explodieren sie",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ameisen der Art <i>Colobopsis saundersi</i> verfügen über einen einzigartigen Abwehrmechanismus: Wenn sie bedroht werden, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "detonieren sie,sprengen sie sich in die Luft,gehen sie in die Luft,gehen sie hoch,sprengen sie sich",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

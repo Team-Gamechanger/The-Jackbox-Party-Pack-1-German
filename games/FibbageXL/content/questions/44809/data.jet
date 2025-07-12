@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zahnspangen,Arschgeweihe,Kopfhörer,Baseballkappen,Flammentätowierungen,Leuchtflossen,Pornonamen,Hoffnung,Seaworld-Tickets,Warnglocken,Kopfschmerz-Tabletten,kostenlose Mittagessen,Krankenkassenkarten,Kochkurse,weichere Zähne,Selbsthilfekurse,eigene Mixtapes,Brillen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Waren-Rückrufe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Golfbällen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2017 musste eine amerikanische Marke ihre tiefgefrorenen Röstis zurückrufen, weil sie vermutlich mit <BLANK> kontaminiert waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Golf Bällen,Golf Ball Bestandteilen,Golfball-Bestandteilen,Golfball Bestandteilen,Golf Ball Materialien, Golfball-Materialien,Golfball Materialien,Golf Ball Teilen,Golfball-Teilen,Golfball Teilen,Teilen von Golfbällen,Teilen von Golf Bällen,Bestandteilen von Golfbällen,Bestandteilen von Golf Bällen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

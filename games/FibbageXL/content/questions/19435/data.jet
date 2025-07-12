@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kuh,Lokomotive,Hochhaus,Mit dem großen Hintern,Feind,Große Liebe,Muss sterben,Als Präsidentin,Der Teufel,Godzilla,Mit großem Panzer,Großer Durchfall,Mumie,Geist,Vom anderen Vater,Thor,Baum,Schneemann",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sexualkunde",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Intelligenz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sapiosexuelle stehen auf <BLANK> einer Person.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Die Auffassungsgabe,Auffassungsgabe,Den Geist,Geist,Das Gehirn,Gehirn,Das Hirn,Hirn,Die Weisheit,Weisheit,Die Klugheit,Klugheit",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

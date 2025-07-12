@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Parkplätzen,Taschenlampen,Lollipops,Ferngläsern,Computern,Koffern,Getränkeautomaten,Rollstühlen,Kühlschränken,Mikrofonen,Schweißgeräten,Deorollern,Feuerlöschern,Raumschiffen,Straßenbahnen,Badehosen,Jeanshosen,Baggern,Kassetten,Lockenwicklern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fotobeweis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Maya-Elf",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2023 postete der mexikanische Präsident Andrés Manuel López Obrador ein Bild, auf dem angeblich <BLANK> zu sehen sein soll.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Maya-Elfe,eine Elfe,ein Elf,ein Alux,eine Alux,ein Mayaelf,eine Mayaelfe,eine Aluxe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

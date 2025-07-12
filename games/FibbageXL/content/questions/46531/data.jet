@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem erwartungsvollen Blick,genug Bargeld,einem Furz,Spargel,YouTube-Videos,Bildern seiner Mutter,einem Alligatorkostüm,Lidschatten,einem frisch getöteten Stinktier,Poesie,Eiswürfeln,einem Hubschrauber,heißem Wachs,Erdnussbutter,einer Puppe,dem Grundgesetz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Super-Kameras",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "geschlossene Bücher lesen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Es mag unmöglich erscheinen, aber Forscher am MIT und Georgia Institute of Technology haben eine spezielle „Terahertz-Kamera“ entwickelt, die tatsächlich <BLANK> kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ins Innere von Büchern sehen,nicht geöffnete Bücher lesen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

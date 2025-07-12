@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dem Wetter,Ihrem Mittagessen,Ihrer Laune,Ihrem Blutzuckerspiegel,Der Mona Lisa,Angela Merkels Hosenanzüge,Dem Radioprogramm,Promigeburtstagen,Der Flugzeuganzahl,Ihrem Kontostand,Ihrem Suchverlauf,Der Anzahl an Eilmeldungen,ihrer Haarfarbe,ihrer Fruchtbarkeit,der Mondphase,den Sternzeichen,ihrer erhaltenen Post,ihrem Chamäleon,ihrer Hautfarbe,ihrem Muttermal",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sammelwut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Heißluftfritteusen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ende 2024 warnten britische Verbraucherschützer vor Datenklau unter Anderem durch smarte chinesische <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Heißluftfritteusen,Airfryer,Air Fryer,Heißluft-Fritteusen,Luftfritteusen,Luft-Fritteusen,Air-Fryer,Heissluftfritteusen,Heißluft Fritteusen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

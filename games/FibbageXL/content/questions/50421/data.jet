@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pantomimen,Straßenkünstler,Schneckenbesitzer,Baguetteträger,Touristenführer,Weinverkoster,Karikaturen-Zeichner,Akkordeonspieler,Baskenmützennäher,Fahrradkuriere,Kioskbetreiber,Croissant-Bäcker,Kaninchenzüchter,Taubenzüchter,Straßenmusikanten,Straßenkehrer,Hundefriseure,Geologen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auf die Plätze...",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kellner",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Berufsgruppe, die nach 13 Jahren Pause im März 2024 wieder zu ihrem kuriosen Wettlauf durch Paris angetreten ist.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kellnerinnen,Kellner und Kellnerinnen,Kellnerinnen und Kellner,Pariser Kellner,Bedienungen,Ober,Gastronomiebedienstete,Gastronomiemitarbeiter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Erotikbuch,ein Therapeut,ein sexy Wandkalender,ein auffälliger Hut,Nagellack,Küss-Unterricht,ein Fitnesstrainer,eine Hinternmassage,ein Teller mit Austern,eine pinke Perücke,ein Bierfass,eine erotische Hotline,ein Boxspringbett,Viagra,Yoga-Training,500g Sauerkirschen,Calvin-Klein-Parfüm,eine professionelle Zahnreinigung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Große Pläne",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Eis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Geoffrey Pyke war ein militärischer Erfinder, der vor allem für seinen seltsamen Vorschlag bekannt ist, Flugzeugträger aus <BLANK> zu bauen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eis und Sand,Sand und Eis,Eis und Sägespähnen,Eis und Sägemehl,Sägespähnen und Eis,Sägemehl und Eis,gefrorenem Sand,gefrorenem Sägemehl,aus gefrorenen Sägespähnen,Eisberge,Eisbergen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

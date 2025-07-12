@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zuckerwatte,Muscheln,einer Handgranate,Ladekabeln,Glühbirnen,alten USB-Sticks,Kohle,alten Toupets,Kameras,Hundehaar,Hirschgeweih,Mett,einem Schädel, Löffeln,Zugsitzen,einer portablen Musikbox,Nutella,Stier-Kacke,menschlichem Haar,Magneten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "IKEA",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "240 Panzerminen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Mitarbeiter eines polnischen <i>IKEA</i> waren vermutlich ziemlich baff, als sie im Juli 2024 <BLANK> in ihrem Warenlager fanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "zweihundertvierzig Panzerminen,240 Anti-Panzer-Minen,240 Landminen,zweihundertundvierzig Panzerminen,240 Antipanzerminen,240 Panzer-Minen,240 Sprengkörper",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

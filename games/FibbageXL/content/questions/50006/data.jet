@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "anschreien,waschen,weiterverkaufen,werfen,infragestellen,beerdigen,während des Schlafens verwenden,in Kontakt mit Sauerstoff bringen,zu sehr genießen,rasieren,kritisieren,aufschrauben,tauschen,kitzeln,laden,im Flugzeug benutzen,mit Kopfhörern benutzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Trendsetter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Meteoriten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die pariser Modemarke Coperni bietet ein ganz besonderes Produkt in ihrem Sortiment an: Eine Handtasche bestehend aus <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Meteroit,einem Meteoriten,Astroiden,einem Astroid,einem Astroiden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

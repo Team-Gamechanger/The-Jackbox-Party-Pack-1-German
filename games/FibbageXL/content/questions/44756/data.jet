@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schweineschlachter,Fahrtrichtungsanzeiger,Pferdestriegler,Seilspringer,Buchverbrenner,Spielverderber,Eierwerfer,Brandstifter,Raser,Trinker,Duscher,Rapper,Nudelmacher,Maler,Kaffeetrinker,Hinternwischer,Dachdecker,Samenspender",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Guter Zweck",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Esel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die einzigartige Wohltätigkeitsorganisation Longhopes findet ein Zuhause für ungewollte <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hausesel,Wildesel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

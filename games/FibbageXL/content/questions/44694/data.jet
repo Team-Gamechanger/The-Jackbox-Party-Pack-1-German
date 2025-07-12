@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "auf Katzen schießen,Mäntel verbrennen,Lumpen anziehen,Käfer verspotten,Schwerter schlucken,Kühe rasieren,Häuser mit Eiern bewerfen,Kleidung verkehrt tragen,nackt ringen,Kauderwelsch reden,Waisenkindern Münzen zuwerfen,Maisfelder anzünden,an Schlangen lecken,in Teer baden,Rote Bete verschenken,den ganzen Tag nur Pilze essen,Schneemänner küssen,sich Blau anmalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Persönlichkeiten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steinen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 veröffentlichte <i>Marketing Theory</i> eine kuriose Studie, in der die Persönlichkeiten von <BLANK> bewertet wurden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Felsen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

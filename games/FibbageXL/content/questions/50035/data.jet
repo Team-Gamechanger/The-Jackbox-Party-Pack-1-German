@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Teenager,Hundetrainer,Priester,Sportler,Babysitter,Klempner,Karikaturkünstler,Opernsänger,Tote,Babysitter,Radfahren,Obdachlose,Straßenkünstler,LKW-Fahrer,Babys,Millionäre,Pantomimen,Schuhputzer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Internet-Katzen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hitler",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2006 wurde eine Webseite veröffentlicht, die Katzen zeigt, die wie <BLANK> aussehen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Adolf Hitler",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

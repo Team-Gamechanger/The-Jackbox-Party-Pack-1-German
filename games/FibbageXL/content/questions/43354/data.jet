@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "alten Bunkern,verlassenen U-Bahn-Tunneln,Zahngold amerikanischer Bürger,Elektronikschrott,Mount Rushmore,Area 51,ausgedienten Satelliten,den Tresoren der Vatikanbank,Teddybären,ungeöffneten Pokémon-Karten,ausrangierten U-Booten,Schweizer Käse,Disney-Freizeitparks,verlorenen Flugzeugen im Bermuda-Dreieck,Fast-Food-Fritteusen,alten Matratzen,Nordkorea,amerikanischen Schulgebäuden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tierreich",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihren eigenen Penis abbeißen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bananenschnecken betreiben manchmal „Apophallie“. Das bedeutet, dass sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ihren Penis abbeißen,ihren Pimmel abbeißen,ihren Penis abbeissen,den Penis abbeißen,sich den Penis abbeißen,sich den eigenen Penis abbeißen,sich ihren eigenen Penis abbeißen,sich ihren Penis abbeißen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Sterblichkeit,den kommunistischen Klassenfeind,Krieg,ihre Grundschulschwärmerei,Übergewicht,den Teufel,Reichtum,Schreibmaschinen,Unterdrückung,Weltraumforschung,ihre Mutter,Badehosen,Clowns,ein freundliches Kamel,Fäuste,den großartigen Geschmack von Zucker,die Weltwirtschaftskrise,Tausendfüßler",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Römer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Urin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ihr denkt, ihr zahlt zu viele Steuern? Dann habt ihr wohl nicht unter dem römischen Herrscher Vespasian gelebt, der Steuern für <BLANK> erhob.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pipi,Pisse,Harn,Urinieren,Pinkeln,das Urinieren,das Pinkeln,Pissen,das Pissen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

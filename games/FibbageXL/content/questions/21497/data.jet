@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Umarmungen,Pasta,Klamotten,Lieder,Poesie,Kupferdraht,Bücher,Massagen,Baumsamen,Baseball-Karten,Autogramme,Fahrräder,Rezepte,ein Kompliment,Blumen,Wein,Violinen,den Eintritt ins Militär,150kg Walnüsse pro Jahr",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sumo",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Baby zum Weinen bringt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine alljährliche Tradition des Nakizumo-Festivals ist, dass Sumoringer darum wetteifern, wer zuerst <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Baby zum Weinen bringt,ein Baby Weinen lässt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

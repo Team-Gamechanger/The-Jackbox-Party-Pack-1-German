@@ -12,17 +12,17 @@
     },
     {
       "t": "S",
-      "v": "Strippen,Essen,Trinken,Klatschen,Küssen,Singen,Kichern,Malen,Schlafen,Furzen,Rülpsen,Golfen,Jonglieren,Weinen,Mastrubieren,Schwitzen,Reden,Schreien",
+      "v": "rohe Eier,Pferdeaugen,ganze Schweine,Stücke Schwefel,Toilettenrollen,abgeschnittene Fingernägel,Marmorblöcke,Kuh-Lebern,Löffel seines eigenen Blutes,Truthahnfedern,Paar Unterhosen,Goldstücke,Schierlingsbeeren,Walrossdärme,Bananenschalen,Büschel seiner eigenen Haare,Murmeln,Diener",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Frankreich",
+      "v": "Straßburg",
       "n": "Category"
     },
     {
       "t": "S",
-      "v": "Tanzen",
+      "v": "tanzen",
       "n": "CorrectText"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 1518 wurden Hunderte von Menschen in Straßburg in einen bizarren Zustand versetzt, der sie nicht mit dem <BLANK> aufhören liess.",
+      "v": "Im Jahre 1518 wurden Hunderte von Menschen in Straßburg in einen bizarren Zustand versetzt, der sie nicht mehr aufhören ließ zu <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "zu Tanzen",
       "n": "AlternateSpellings"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "350459_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

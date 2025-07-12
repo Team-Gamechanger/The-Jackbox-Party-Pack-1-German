@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Wodkaflaschen,Hämmer,Münzen,Zahnpasta,Marmor,Würmer,Unterwäsche,Zähne,Weizen,Zitronen,Pistolenkugeln,Seife,Haare,Hamburger,geheime Notizen,Kartoffeln,Knochen,Apfelscheiben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alter",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ohrenschmalz",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wie bestimmen Wissenschaftler das Alter eines Blauwals? Ganz einfach, sie zählen die Schichten von dessen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ohrwachs,Ohrenschleim,Ohrenschmalzes,Ohrenablagerungen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

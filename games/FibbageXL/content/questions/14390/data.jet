@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chinchillas,überfahrene Tiere,Schlangen,Baguettes,Stöcke,Dingos,Schrotflinten,Bienennester,Kinder,Straßenschilder,Feuerwerksraketen,Tastaturen,Schubkarren,Käse,Schuhkartons,Luftgitarren,Bürostühle,Bierkästen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gefängnisausstattungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "warmem Duschwasser",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In der Zeit bis 1963, in der Alcatraz noch in Benutzung war, war es das einzige Gefängnis der Vereinigten Staaten mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Heißen Duschen,Beheizten Duschen,Heißem Wasser,Warmen Duschen,Warmem Wasser,Heißem Duschwasser,Warmwasser,heißer Dusche,warmer Dusche,beheizter Dusche",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

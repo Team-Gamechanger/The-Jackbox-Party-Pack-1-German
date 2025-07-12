@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Küssen des Bodens,Pflanzen einer Kaktee,Das Probekosten,Darauf springen,Darauf pinkeln,Eine Befragung der Nachbarn,Mischen mit Fanta,Das Anstellen von Musik,Zwanzigminütiges backen,Googeln,Das Beobachten von Vögeln,An der Haut reiben,Das Beschütten mit Kamillentee,Das Pflanzen von Knoblauch,Anschreiben der Lokalregierung,Beschmieren mit Sonnencreme,Anschreien,Verteilen von Rotkohlsud,Wurmzählungen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Diamant",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wissenschaftler gehen davon aus, dass mehr als ein Drittel des fernen Planeten Janssen aus <BLANK> besteht..",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Diamanten,reinem Diamant,Diamond",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

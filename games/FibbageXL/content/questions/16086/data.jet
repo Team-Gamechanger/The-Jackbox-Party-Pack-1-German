@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bananen,offenen Fenstern,Hosen,winzigen Spinnen,Puzzlen,Pfeilen,tropfenden Wasserhähnen,klebrigen Händen,Senf,Kalendern,Butter,knarrenden Dielen,aus dem Himmel stürzenden Flugzeugen,Hautausschlägen,Katzen,Ziegen,Kerzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schuldig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Kondom",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "1960 wurde Paul McCartney in Hamburg festgenommen, nachdem er <BLANK> anzündete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Einen Gummischutz,Einen Gummi Schutz,Einen Gummiüberzug,Einen Gummi Überzug,Einen Gummi Über Zug,Ein Präservativ,Ein Verhütungsmittel,Ein Verhütungs Mittel,Ein Präventivmittel,Ein Präventiv Mittel,Kondom,Kondome,Gummischutz,Gummi Schutz,Gummi Überzug,Gummi Überzug,Gummi Über Zug,Präservativ,Verhütungsmittel,Verhütungs Mittel,Präventivmittel,Präventiv Mittel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

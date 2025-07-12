@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mülltrennung,Kommunalwahlen,das Ehrenamt,Beerdigungen,Geldwäsche,Sonnenbrillen,Leitungswasser,öffentliche Sicherheit,Straßenbau,Windkraftanlagen,Lobbyismus,Datenschutz,Kartelle,Subventionen,den Schutz von Eulen,Katzenhaltung,das Abwassersystem,das Bildungssystem",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wald und Wiesen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "über 100kg Pasta",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Bewohner der amerikanischen Stadt Old Bridge staunten nicht schlecht, als sie plötzlich <BLANK> in einem Wald vorfanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mehr als 100kg Pasta,über 100kg Nudeln,mehr als 100kg Nudeln,über 100kg Spaghetti,mehr als 100kg Spaghetti,Pasta-Haufen,Nudel-Haufen,Spaghetti-Haufen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

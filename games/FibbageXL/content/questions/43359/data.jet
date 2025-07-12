@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "adoptiert,Millionäre,eigentlich Zwillinge,zu Hause,hochbegabt,unter Hypnose,Schlafwandler,bereits verstorben,erschöpft,Teil eines Regierungsexperiments,blond,muskulös,alt,Träger seltener Gene,in einem Flugzeug,Nachfahren von Adligen,dumm,chronisch müde",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wohnungssuche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hintern von Seegurken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Viele Perlfische leben in <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Seegurken-Hintern,Anus von Seegurken,After von Seegurken,Kloake von Seegurken,Kloaken von Seegurken,Enddarm von Seegurken,Enddärmen von Seegurken,Po von Seegurken,Darmausgang von Seegurken,Darmausgängen von Seegurken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

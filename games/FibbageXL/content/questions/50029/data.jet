@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Schere,ein Autoradio,einen Mord,eine kurze Hose,ein Messer,einen Zungenkuss,eine duschende Frau,ein Motel,einen BH,ein weinendes Baby,eine Mikrowelle,eine Bettdecke,eine tote Frau,einen Türspion,einen Kadaver,ein Telefon,eine Strumpfhose,einen Nippel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verbotene Handlungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tischkickern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein in den 1960er-Jahren in der Türkei erlassenes Verbot führte dazu, dass die Herstellung, der Verkauf und das öffentliche Benutzen von <BLANK> verboten wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tischfußball,Tischfussball,Kickern,Krökeln,Wuzzeln,Balankan,Zoistsn,Töggelä,Jöggelä,Hackersche,Knack",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

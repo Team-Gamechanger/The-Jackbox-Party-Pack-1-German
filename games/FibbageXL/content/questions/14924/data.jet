@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "betrügen,anschreien,waschen,weiterverkaufen,werfen,misstrauen,anfassen,infragestellen,beerdigen,während des Schlafens verwenden,fallen lassen,zu sehr geniessen,rasieren,kritisieren,aufschrauben,tauschen,kitzeln",
+      "v": "betrunken sind,Fernsehen gucken,fast tot sind,schlafen,viel essen,Pornos anschauen,singen,auf einem Fahrrad fahren,schlecht gelaunt sind,Sport gucken,Haustiere haben,Mini-Golf spielen,mit Fremden darüber reden,ins Gefängnis gehen,nur Fisch essen,nicht schlafen,lockere Kleidung tragen,in warmen Klimazonen leben",
       "n": "Suggestions"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Im Kleingedruckten des iPod Shuffles befand sich folgender Hinweis: “Den iPod Shuffle nicht <BLANK>”.",
+      "v": "Im Kleingedruckten des <i>iPod Shuffle</i> befand sich folgender Hinweis: „Den iPod Shuffle nicht <BLANK>“.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "fressen",
+      "v": "fressen,verspeisen,verzehren",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "330554_3",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "330551_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

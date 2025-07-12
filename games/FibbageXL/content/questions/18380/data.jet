@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pyramide, Königin, Bratpfanne, Kaffeemaschine, Waschmaschine, Bierflasche, Schokolade, Brezel, Schande, Apotheke, Diskothek, Schublade, Kartoffel, Currywurst, Autobahn, Banane, Zwiebel, Steckdose, Rolltreppe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hühner",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schnee",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sir Francis Bacon erkrankte schwer und verstarb nach einem Experiment, bei dem er ein Huhn mit <BLANK> füllte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

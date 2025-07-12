@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ohne Unterwäsche herumlaufen,einen ganzen Schinken in sechs Minuten essen,ihre Schwester küssen,eine Kugel mit den Zähnen fangen,Gitarrenunterricht nehmen,die Herr-der-Ringe-Bücher lesen,eine Woche nicht trinken,eine Nacht in einem Spukhaus verbringen,ihre Körperhaare rasieren,ein Kind adoptieren,zwei Katzen adoptieren,Portugiesisch lernen,an der Hochzeit eines Fremden teilnehmen,ihre Seele aufgeben,vor einem Clown urinieren,nackt durch einen öffentlichen Park stolzieren,jede Woche eine Ente füttern,jeden Tag ein Gedicht schreiben",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wissenschaft",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "BHs",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013, nach 15 langen Jahren, kam eine Studie des französischen Professors Jean-Denis Rouillon zu dem Schluss, dass <BLANK> völlig nutzlos sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Büstenhalter,Bra,Bras,BH",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

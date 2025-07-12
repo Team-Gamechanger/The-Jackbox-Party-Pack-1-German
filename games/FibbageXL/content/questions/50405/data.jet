@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tsunami-Alarm,ein Drohnenschwarm,ein Stromausfall,ein Fisch-Tornado,ein gestrandeter Wal,ein betrunkener Bürgermeister,eine Schleim-Überschwemmung,Barbara Schöneberger,ein verirrter Heißluftballon,ein ausgebüxter Elefant,300 Handgranaten,plötzlicher rosa Nebel,ein Vulkanausbruch,ein Wikinger-Reenactment,ein Kreuzfahrtschiff-Stau,eine Invasion von Quallen,eine Ufo-Sichtung,Seifenblasen-Weltrekordversuch",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feuerwerk",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Masturbierendes Walross",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Verhinderte im Jahr 2023 das Silvesterfeuerwerk der englischen Küstenstadt Scarborough.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Walross,ein masturbierendes Walross,Walross,onanierendes Walross,ein onanierendes Walross,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

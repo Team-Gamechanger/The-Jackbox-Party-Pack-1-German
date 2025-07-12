@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "geliebt,betrogen,aufgezogen,ausgeraubt,getötet,verheiratet,abserviert,getauft,gegessen,entführt,verhaftet,im Fechten gelehrt,erschossen,verführt,mit Kuhdung abgeworfen,geohrfeigt,frisiert,vergiftet",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auf der Flucht",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monopoly-Spielen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Während des Zweiten Weltkriegs verhalfen die Briten ihren Soldaten zur Flucht aus deutschen Gefangenenlagern, indem sie Kompasse, Feilen und Karten in <BLANK> versteckten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "monopoly,monnopoly,monoppoly,Brettspielen,Brett Spielen,Spielen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

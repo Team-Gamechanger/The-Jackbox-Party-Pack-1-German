@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Eine Bong,Eine Pistole,Eine Machete,Eine Crackpfeife,Ein Theremin,Ein Furzkissen,Ein Handy,Ein ferngesteuertes Spielzeugauto,Seine Playstation 3,Einen MP3-Player,Eine Espressomaschine,Eine Datingseite,Einen Gameboy,Eine Mikrowelle,Eine Röntgenbrille,Einen Rückenkratzer,Pornoseiten,Einen Handstaubsauger",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fast Food",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Linkshänder",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einem Werbegag in 1998 kündigte <i>Burger King</i> an, dass ihre Whopper jetzt <BLANK> seien.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "linkshändig",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "McDonald's,Gefängnis,Schlachthaus,Bordell,Supermarkt,Zirkus,Comedyclub,Flughafen,Nagelstudio,Escape Room,Freizeitpark,Raumschiff,Flughafen,Modeladen,Piratenschiff,Militär,Schlüsseldienst,Autohandel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Baustelle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cannabis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Green Built ist ein Unternehmen, das ein feuerfestes, umweltfreundliches Baumaterial aus <BLANK> herstellt und verkauft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hanf,Marihuana,Weed,Cannabispflanzen,Hanfpflanzen,Marijuana",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

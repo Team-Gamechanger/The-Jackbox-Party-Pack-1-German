@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "versteinerter Big Macs,angeknabberter Currywürste,politischer Anstecker,vergessener Socken,Museumsmäuse,verbeulter Blechdosen,DDR-Souvenirs,Sprühkäse,Foto-Toilettensitze,an Computerviren,vergessener Handyladekabel,Zinsoldaten,kurioser Postkarten,an UFO-Fotos,bizarrer Fahrradteile,Pausenbrotdosen aus den 80ern,anzüglichen Weihnachtsbaumschmucks,Briefmarken von Mikronationen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wahlk(r)ampf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Nashorn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Einwohner der brasilianischen Stadt Sao Paulo waren mehr als überrascht, als 1958 <BLANK> die Stadtratwahl gewonnen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Nashornbulle,ein Nashornweibchen,ein Rhinozeros,das Nashorn,das Rhinozeros,ein Rhino",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

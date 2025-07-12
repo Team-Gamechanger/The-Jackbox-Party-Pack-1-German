@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schottland: Nüchtern sind wir nie,Hauptsache nicht England,Dudelsäcke inklusive,Kilts für jedermann,Regen als Lifestyle,Highlands und Hangover,Mehr Schafe als Menschen,Schlösser ohne Ende,Whisky ist Kultur,Haggis schmeckt anders,Nebel mit Charakter,Wo Männer Röcke tragen,Bei uns spukt's garantiert,Besser als Irland,Nessie grüßt herzlich,Unser Wetter ist speziell,Fast wie England,Kälter als gedacht,Einfach anders hier,Immer noch unabhängig",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Entscheidungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pinkeln müssen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie der niederländischen Universität Twente aus dem Jahr 2011 ergab, dass Menschen bessere Entscheidungen über ihre Zukunft treffen, wenn sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine volle Blase haben,pissen müssen,aufs Klo müssen,auf die Toilette müssen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

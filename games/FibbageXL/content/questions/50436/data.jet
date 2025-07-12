@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bienenhonig,Kaktusfrucht,Maiskolbenblättern,Rindenmulch,aus Kürbissen,aus Algenwasser,aus Kastanien,Eicheln,Plankton,Hanfpflanzen,aus Bambussprossen,aus Wüstensalbei,Piniennadeln,Ahornsirup,Brennnesseln,aus Wildkräutern,aus Hasenpfoten,aus Spinnen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Whiskey",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Krabben",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Daraus stellt der US-Amerikaner Will Robinson in seiner Destillerie Whiskey her, um die Artenvielfalt zu schützen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Strandkrabben,Gemeine Strandkrabben,Grüne Krabben,Kraben,Carcinus maenas,invasiven Krabben,einer invasiven Krabbenart,aus Krabben,aus Strandkrabben,aus Gemeinen Strandkrabben,aus der Gemeinen Strandkrabbe,aus Strandkrabben,aus Kraben,aus invasiven Krabben,aus einer invasiven Krabbenart",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

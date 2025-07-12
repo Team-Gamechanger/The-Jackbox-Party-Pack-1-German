@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Präsident,winzig,belgisch,aus Sellerie,Mechaniker,Albaner,Auftragsmörder,nackt,Jesus,elektrisch aufgeladen,von einem anderen Planeten,aus Metall,drei Meter groß,Babys,Meerjungfrauen,Kinder,hochintelligent,Politiker",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Oper",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zu furzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Opernsängerin Amy Herbst behauptet, sie habe aufgrund einer Operation ihren Job in der Oper von Nashville verloren, da sie dadurch nicht mehr aufhören könnte <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zu pupsen,pupsen,furzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

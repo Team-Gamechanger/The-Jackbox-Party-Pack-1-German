@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Bierbrauerei,ein Wasserrutschenpark,Minigolfanlage,Pizzeria,ein Escape Room,eine Karaokebar,Spielcasino,Achterbahn,ein Streichelzoo,Bowlingbahn,ein Wanderzirkus,eine Eisdiele,Riesenrad,eine Lasertag-Arena,Zeltlager,Geisterbahn,Trampolinhalle,ein Wachsfigurenkabinett",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Europäische Union",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Digitale Beach-Party",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wurde im Jahr 2023 von der EU betrieben, um neue Investitionen in Entwicklungsländer zu bewerben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Digitale Beachparty,Digitale Beach Party,Beach-Party,Beach Party,Beachparty,24h-Beach-Party,24h-Beachparty,Digitale 24h-Beach-Party",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

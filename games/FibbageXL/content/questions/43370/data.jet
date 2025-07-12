@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Affen,Tom Cruise und Brad Pitt,Bud Spencer und Terence Hill,einer britischen Zirkustruppe,Ben Stiller und Owen Wilson,Finger-Puppen,Peter Jackson selbst,Rugby-Spielern,den Backstreet Boys,Schweinen,Pinguinen,Schneemännern,den Muppets,den Schlümpfen,den Simpsons,Ministerpräsidenten,Hasen,Monty Python",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wiener Elefanten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachtsbäume",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Einmal im Jahr dürfen die Elefanten im Wiener Tiergarten Schönbrunn <BLANK> fressen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bäume,Tannenbäume,Lichterbäume,Christbäume,Weihnachts Bäume",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

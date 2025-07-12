@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pupsen,zu tanzen anfangen,explodieren,weinen,verschwinden,schmelzen,wachsen,schreien,zittern,sich erbrechen,schrumpfen,gelb werden,flüstern,sich ausziehen,wegrennen,ein Lied singen,Gänsehaut bekommen,diesen anstarren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Selbstverteidigung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Einem Händedruck von Donald Trump",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die <i>Relson Gracie Jiu-Jitsu Academy</i> veröffentlichte ein Lehrvideo, in dem gezeigt wird, wie man sich vor <BLANK> schützen kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Einen Handschlag von Donald Trump,Donald Trump,Einen Händedruck von Donald Trump,Einem Handschlag von Donald Trump,Einem Händedruck von Trump,Einem Handschlag von Trump,Trump",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

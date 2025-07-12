@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hobbygärtner,Straßenmusiker,Imker,Schachgroßmeister,Würstchenverkäufer,Postbote,Tierarzt,Graffitikünstler,Tauchlehrer,Bäcker,Taxifahrer,Feuerwehrmann,DJ,Straßenkünstler,Zauberer,Comiczeichner,Friseur,Eisverkäufer,Sportkommentator,Puppenspieler",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Playmobil",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Martin Luther",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Überraschenderweise hält eine kleine <i>Playmobil</i>-Figur von <BLANK> den Rekord für die am schnellsten verkaufte Figur der Firma.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Martin Luthor,Luther,M. Luther",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tulpen,Energydrinks,Emo-Rock,Paprika,Ukulelen,Stuntmen,Dichtern,Pommes,Fußballern,Bleistiften,Speck,Armbanduhren,Donutlöchern,Go-Karts,Jonglierern,Flip-Flops,Clowns,Haustierschlangen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fundstücke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Vulkan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der 20. Februar 1943 war ein schicksalhafter Tag für den mexikanischen Bauern Dionisio Pulido. Er warf einen Blick auf sein Maisfeld und war schockiert, als er <BLANK> erblickte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nen Vulkan,Vulkane,einen brandneuen Vulkan,einen neuen Vulkan,einen entstehenden Vulkan,einen neu entstehenden Vulkan,die Geburt eines Vulkans",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ein Schweizer Käsehersteller,Haribo,Der Vatikan,Ein Zirkus,Eine Fahrschule,eine Hundefriseur-Kette,Subway,Lego,IKEA,Nintendo,Duolingo,TripAdvisor,Wikipedia,Die CSU,eine Oktoberfest-Brauerei,die WC Ente,Daniela Katzenberger,Jan Hofer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Crowdfunding",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "PornHub",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Hat im Jahr 2015 versucht, über Crowdfunding eine Reise ins Weltall zu finanzieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Porn Hub,Pornhub.com,Pornhub.net,Pornhub.de,die Webseite Pornhub",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

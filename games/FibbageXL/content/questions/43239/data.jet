@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benutzter Seife,Knete,Toten Insekten,Shampoo,Eiscreme,Popeln,Ihren Tränen,Bier,Fischeiern,Kakerlakenmilch,Entenfedern,Diesel,Lampenöl,ihrem Blut,Kaffee,ihrer Muttermilch,Schweiß,Zehennägeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stoßgebete",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Der Herr der Ringe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Urgroßmutter aus Brasilien verwechselte sie mit dem Heiligen Antonius und betete so jeden Tag zu einer <i><BLANK></i>-Figur.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Elrond,Herr der Ringe,LOTR",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

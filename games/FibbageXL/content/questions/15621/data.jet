@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einen Transvestit,einen Autoradio,einen Mord,eine kurze Hose,ein Messer,einen Zungenkuss,eine duschende Frau,ein Motel,einen BH,ein weinendes Baby,eine Mikrowelle,ein Unterlippenbärtchen,eine tote Frau,einen Türspion,einen Kadaver,ein Telefon,eine Strumpfhose,einen Nippel",
+      "v": "einen Löwen reitet,Französisch spricht,Klavier spielt,Risotto macht,Gebärdensprache nutzt,programmiert,Tiere zähmt,eine Sprengfalle baut,einen Zug fährt,mit dem Schwert kämpft,Zaubersprüche wirkt,die Zukunft liest,Schlösser plant,ein Zauberwürfel löst,einen Slam Dunk macht,preisgekrönte Filme produziert,Webseiten baut,klingonisch spricht",
       "n": "Suggestions"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "<i>Psycho</i> war der erste amerikanische Film, der <BLANK> zeigte.",
+      "v": "Alfred Hitchcocks Thriller-Klassiker <i>Psycho</i> war der erste amerikanische Film, der <BLANK> zeigte.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "eine toiletten spülung,eine wasserspülung,eine wasser spülung",
+      "v": "eine toiletten spülung,eine wasserspülung,eine wasser spülung,eine Klospülung,eine spülende Toilette,ein spülendes Klo,ein spülendes WC,eine WC-Spülung,eine WC Spülung",
       "n": "AlternateSpellings"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "345600_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

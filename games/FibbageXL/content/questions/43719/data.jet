@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dosensuppen,lebenden Schlangen,Bechern mit Urinproben,Kaffeetassen,Sabd,altbackenem Brot,Wurfsternen,kostenlosen Kugelschreibern,Quittungsrollen,Lasagne,Aktenordnern,Skorpionen,Lochern,Kaugummi,Fleischklopfern,Macarons,Holzlöffeln,Schlagsahne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Klein aber fein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Models",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Auf die Einwohnerzahl gerechnet ist das kleine Estland der weltweit führende Ursprung von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fotomodels,Supermodels,Topmodels,Fotomodellen,Mannequins,Top Models,Super Models",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

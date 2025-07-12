@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "auf der Toilette saß,eine Tiefkühlpizza zubereitete,den Rasen mähte,im Garten Unkraut jätete,vorgab tot zu sein,einen Hotdog-Esswettbewerb gewann,ihre Schwester heiratete,aus dem Gefängnis ausbrach,sich den Rücken waxen ließ,eine Darmspiegelung bekam,mit Lachsen jonglierte,aus einer Kanone geschossen wurde,einen Müllmann erschlug,einen Fallschirmsprung machte,eine Schlägerei hatte,ein Tattoo ihrer Mutter bekam,sich vom Trinken übergab,auf Entenjagd war",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Natürliche Schönheit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Essiggurken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kurioserweise soll Kleopatra ihr gutes Aussehen auf <BLANK> zurückgeführt haben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Ernährung mit Gurken,Gurken,Gurken essen,Essiggurken essen,Gewürzgurken,saure Gurken,eingelegte Gurken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

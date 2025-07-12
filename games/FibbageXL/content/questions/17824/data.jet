@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Godzilla,eine nichtdetonierte Atombombe,die Unschuld,der Jungbrunnen,das eigene Selbst,ein CO2-neutrales Restaurant,ein riesiger Schmetterling,ein mysteriöser Piratenschatz,ein echter Samurai,eine echte Meerjungfrau,die Hölle,ein Schokoladenvulkan,die weltgrößte Katze,ein UFO,der größte Mülleimer der Welt,nichts,der beliebteste Mensch der Welt,der größte Affe der Welt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Immer diese Amis",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Mundharmonikas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein 52-jähriger Mann aus Manatee County, Florida, wurde verhaftet, nachdem er den Beifahrer in seinem Auto erstochen hat, weil er ihm angeblich <BLANK> gestohlen hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Mundharmonika,die Mundharmonika,Mundharmonikas,mehrere Mundharmonikas,Harmonikas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

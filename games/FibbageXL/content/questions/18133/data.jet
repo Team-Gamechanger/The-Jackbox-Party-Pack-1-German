@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein Molkenbad nehmen,Nackt tanzen,im Schlamm ringen,mit Dreck eingerieben werden,im Regen stehen,Essensreste tragen,mit Müll beworfen werden,im Matsch rollen,mit Pudding übergossen werden,durch Schlamm kriechen,mit Farbe bemalt werden,mit Federn beklebt werden,in Honig getaucht werden,in Mehl gewälzt werden,mit Öl begossen werden,mit Tinte beschmiert werden,mit Sahne bedeckt sein,mit Marmelade beschmiert werden,mit Joghurt übergossen werden,mit Ketchup besprüht werden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mindesthaltbarkeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Frösche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bevor Kühlschränke erfunden wurden, benutzten einige Russen einen seltsamen, aber effektiven Trick, um Milch vor dem Verderben zu schützen. Sie legten <BLANK> in ihre Milchkübel.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Frosch,froschkröte,kröte,Kröten,Froschkröten,Fröschchen,Lurche,lebende Frösche",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

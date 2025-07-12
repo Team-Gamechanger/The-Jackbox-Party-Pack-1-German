@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rolando,Grimace,Reifbert,Gummilinus,Michelandus,Chaz,Herr von Wheely,Vulcano,Boo-Boo,Monsignore Michelin,Graf Gummibert,Kugelmann,Shim-Sham,Carson,Gluck,Gustavo,Tiresias,Pumpington",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Maskottchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bibendum",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der merkwürdige offizielle Name des <i>Michelin</i>-Männchens.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bib",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

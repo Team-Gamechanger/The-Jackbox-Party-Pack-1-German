@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Karotten,Thunfisch,Übertöpfe,Karpfenschwänze,geschnittene Tomaten,Chorizo,Fliesentische,Kabel,Vorhänge,Spielzeug,Müll,Schlangenkiefer,Milchzähne,Karnevaltickets,Stühle,Ukulelen,Tubas,billige Fernseher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kämpfe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pappröhren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die in der seltsamen Kampfsportliga CTFL durch Teilnehmer verwendete Waffe.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kartonrohr,Papprohr,Papphülse,Kartonhülse,Zewa-Rolle,Zewa-Rollen,Papierrollen,Küchenrollen,Klopapierrollen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

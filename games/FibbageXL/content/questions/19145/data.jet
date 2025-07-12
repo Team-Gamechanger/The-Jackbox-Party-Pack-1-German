@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bananer,Bananling,Zacke,Einzling,Haken,Klaue,Digit,Tentakel,Antenne,Bango,Depp,Mitglied,Schwert,Ding,Klops,Stock,Nano-Nane,Gelbchen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Banane",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Finger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Bezeichnung für eine einzelne Banane in einer Staude.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fingers,ein Finger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

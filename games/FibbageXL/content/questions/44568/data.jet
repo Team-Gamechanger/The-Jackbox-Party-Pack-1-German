@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "abzudanken,eine Diät zu machen,die Steuern zu senken,mehr zu Lächeln,ein Instrument zu lernen,Make-up zu tragen,auf Opium zu verzichten,einen Erben zu zeugen,sich ein Hobby zuzulegen,zum Friseur zu gehen,die Klappe zu halten,Geschichte zu studieren,abzunehmen,Gras anzufassen,hohe Schuhe zu tragen,den Namen ihres Mannes anzunehmen,Russisch zu lernen,mit den Witzen aufzuhören",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Pflichtlektüren",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Filmemacher",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Neben seiner Tätigkeit als Diktator von Nordkorea, schrieb und veröffentlichte Kim Jong-il ein Buch mit durchdachten Ratschlägen für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Filmmacher, Filme macher,Film macher,Filmschaffende,Filmproduzenten,Filmproduzentinnen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

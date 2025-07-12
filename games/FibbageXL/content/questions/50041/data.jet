@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Blindenschrift lesen,Gewichte heben,den Tisch decken,malen,Candy Crush spielen,einen Zauberwürfel lösen,putzen,einen Joint rollen,Spaghetti kochen,eine Waffe reinigen,Gitarre spielen,baden,urinieren,sprechen,jonglieren,Rasenmähen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Lebensmittel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hoden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Wort „Avocado“ stammt aus der Sprache Nahuatl, wo es „<BLANK>“ bedeutet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Der Hoden,die Hoden,Grüne Hoden,Grüner Hoden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

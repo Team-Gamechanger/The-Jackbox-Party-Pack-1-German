@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schimmel in der Wohnung,dreckige Kleidung,keine Windeln,keinen Partner,keine Zahnpasta,irgendwo keine Toilette,Verspätung,zu viele Freunde,keine Salami,Atemnot,zu viel geschlafen,keine Freiminuten,Urinstein,kein Bewusstsein,Glück,zu viel Speichel,leere Batterien",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Öffentliche Gesundheit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Bandwurm",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Abteilung für öffentliche Gesundheit in Iowa sprach eine amtliche Warnung aus, nachdem eine Frau mittels <BLANK> versuchte, an Gewicht zu verlieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Band Wurm,Zestode,Band-Wurm,Cestode,Bandwürmer,Band Würmer,Band-Würmer,Zestoden,Cestoden,Bandwürmern,Einem Band-Wurm,Einem Band Wurm,Einen Bandwurm,Einen Band-Wurm,Einen Band Wurm,Bandwurm,Mehreren Bandwürmern,Band-Würmern,Band Würmern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

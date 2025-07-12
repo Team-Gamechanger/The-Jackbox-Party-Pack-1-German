@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Waschmaschine,Angela Merkel,Baumarkt,Steuererklärung,Gartenzwerge,Sockenwolle,Bahnverspätung,Currywurst,Fahrkartenautomat,Leberwurst,Berliner Mauer,Apfelstrudel,Biergarten,Dackel,Kaffeepause,Brezel,Ampelkoalition,Mülltrennung,Bürokratie,Schrebergarten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hobbys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Esel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jemand, der „Onolatrie“ praktiziert, mag <BLANK> wirklich sehr.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Esel,Maulesel,die Esel,Hausesel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

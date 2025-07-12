@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Falscher Vollmond,Meteoritenstaub,UFO-Sichtung,Ein verirrter Wanderzirkus,Ein Stromausfall,Eine Herde durchgedrehter Ziegen,Mondfinsternis,mysteriöses Vibrieren im Boden,ein Synthesizer,Eine umherirrende Musikkapelle,Ein Elektrischer Dosenöffner,Ein Heißluftföhn,3 Gartenzwerge,eine Drohne,Garagentor-Quietschen,Kuh-Roboter,Bürostühle,Schneebesen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schaf",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Konsum von 100kg Cannabis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Führte bei einer griechischen Schafherde zu einem „seltsamen Verhalten“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "100kg Cannabis,100 kg Cannabis,100kg Kannabis,100 kg Kannabis,Konsum von 100 kg Cannabis,Konsum von Cannabis,Cannabis-Konsum,Cannabis,Kannabis,Der Konsum von 100kg Cannabis,Cannabis-Konsum von 100kg,Verzehr von 100kg Cannabis,Fressen von 100kg Cannabis",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

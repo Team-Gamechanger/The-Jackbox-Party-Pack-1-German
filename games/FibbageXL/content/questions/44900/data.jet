@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vizepräsidentin,persönliche Köchin,Chauffeurin,politische Gegnerin,Klavierlehrerin,Hofnärrin,Krankenschwester,Bogenschießtrainerin,Hundesitterin,Studienkollegin,Trainingspartnerin,Masseurin,Pflichtverteidigerin,Leibwächterin,Sicherheitsberaterin,Friseurin,Kabinettsberaterin,Mathe-Nachhilfelehrerin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geldsorgen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ratten die sein Geld fraßen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der kolumbianische Drogenboss Pablo Escobar verlor schätzungsweise 2 Milliarden US-Dollar durch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ratten,Wasserschäden,Wasserschaden,Ratten die sein Geld gefressen haben,Geldfressende Ratten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

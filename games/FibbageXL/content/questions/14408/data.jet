@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ungewöhnliche Maissorten,scharfe Objekte,Origami-Kreationen,Chipssorten,Beinprothesen,Tumore,halb aufgegessene Sandwiches,Portraits aus Klebezetteln,Sektgläser,Schildkrötenpanzer,fliegende Untertassen,Gemüseskulpturen,falsche Schnurrbärte,Fingernägel,Computermäuse,singende Fische,Aschenbecher,Märchenbücher",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Indische Seifenopern",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hitler",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Von 2011 bis 2013 lief in Indien eine Seifenoper mit einem ungewöhnlichen Titel, der wortwörtlich übersetzt <i>Große Schwester <BLANK></i> lautet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

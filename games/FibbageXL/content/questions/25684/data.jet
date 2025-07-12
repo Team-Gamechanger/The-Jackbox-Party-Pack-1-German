@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schwedische Massagen,Hundekot,ABBA-Lieder,Kröten lecken,Grammatik korrigieren,Zehennägel essen,Fußgeruch,alleine sein,Bauchnabel,unnötige Operationen,Fallschirmspringen,Arztbesuche,Babys adoptieren,Milchzähne,Schnäppchen kaufen,Tattoos,gewürgt werden,Treppensteigen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Psychologie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Metal-Fans",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Einer kuriosen Studie der US-amerikanischen Humboldt-Universität folgend, gehören <BLANK> zu der Gruppe von Menschen, die mit ihrem Leben am zufriedensten sind.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Metler,Metaler,Rock Fans,80er Metaler,Metal Fans,Fans von Heavy Metal,Heavy-Metal-Fans,Heavy Metal Fans",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Der Herr der Ringe,Fernsehdokumentationen,Schach,Lesebrillen,Baretts,Espresso,Cafes,Büchereien,das Nachdenken,Enzyklopädien,hypothetische Fragen,Kreuzworträtsel,Karikaturen,Gedichte,Bleistifte,das Internet,Moleküle,Gehirne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Entdeckungen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine verlorene Stadt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Als ein türkischer Mann in der Region Kappadokien 1963 sein Haus renovierte, war er überrascht, <BLANK> zu finden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine untergegangene Stadt,eine antike Stadt,eine verborgene Stadt,eine vergessene Stadt,eine versunkene Stadt,eine unterirdische Stadt,eine alte Stadt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

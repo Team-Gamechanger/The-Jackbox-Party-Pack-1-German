@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einer Tasse,einem EC-Karten-Lesegerät,einer Muschel,einem Koffer,einer Perücke,einem Wischmop,einem Sandwich,einem Smartphone,einem Flaschenöffner,einem BH,einem Kühlschrankmagneten,einem Hustenbonbon,einer Bahncard,einer Holz-Pommesgabel,einem Pfirsichkern,einer VHS-Kassette,Kopfhörern,einem Tiefkühl-Baguette,seiner Hose,einer Tüte voller Hundekot",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Guten Morgen!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein riesiges Containerschiff",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Norweger Johan Helberg staunte nicht schlecht, als er morgens aus dem Fenster schaute und plötzlich <BLANK> in seinem Garten sah.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein großes Containerschiff,ein gewaltiges Containerschiff,ein riesiger Container-Frachter,ein enormes Frachtschiff,ein Riesencontainerschiff,ein Containerschiff,ein Container-Schiff,ein Container Schiff,ein Containerfrachter,ein Container-Frachter,ein Container Frachter,ein Frachter,ein riesiger Frachter",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

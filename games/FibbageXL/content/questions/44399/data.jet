@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Werfen von Kot,das Motorradfahren,Bier,Putin,die benachbarten Erdmännchen,Pommes,das Stehlen von Geldbeuteln,Sonnenbrillen,das Tragen von Schuhen,Ohrringe,Kaffee,Popcorn,Die Simpsons,Fanta,Pizza,pinke Haare,Poker,Rapmusik",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tiefe Wunden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "blau leuchteten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei der Schlacht von Shiloh im Jahr 1862 stellten verletzte Soldaten schockiert fest, dass einige ihrer Wunden <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "blau waren,blau wurden,blau zu leuchten begannen,begannen blau zu leuchten,blau leuchten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

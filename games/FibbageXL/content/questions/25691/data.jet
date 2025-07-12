@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Van,Shakespeare,Sebastian,Constantine,Knirps,Picasso,Garfield,Karen,Beethoven,Erika,Monika,Odysseus,Jesus,Bart,Wombat,Einstein,Milhouse,Millard",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Milhouse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mussolini",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der zweite Vorname von <i>Simpsons</i>-Charakter Milhouse Van Houten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Musolini,Mussulini,Mussulinni,Musolinni,Musoulini,Mousolini",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

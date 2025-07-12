@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pferderennen,Telefonbetrug,Beerdigungen seiner Männer,eine Koffer-Verwechslung,seine Scheidungen,den Bau eines eigenen Schlosses,Restaurant-Besuche,den Verlust eines Spindschlüssels,Sportwetten,ein Investment in Kodak,den Kauf von Katzenstreu,erfolglose Golfturniere,seinen Zwillingsbruder Toby Escobar,die Jagd nach Vampiren,sogenannte Pizza-Partys,Rundungsfehler,die Vermarktung seines eigenen Desserts,versehentlich gezahlte Steuern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Übersetzungsfehler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Klitoris",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine kleine Stadt in Nordspanien versuchte, Online-Anzeigen für ihr Food Festival 2015 zu schalten. Leider wurde aufgrund eines <i>Google</i>-Übersetzungsfehlers versehentlich ein <BLANK>-Festival beworben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Klitorisse,Klitoriden,Klitorisfest",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

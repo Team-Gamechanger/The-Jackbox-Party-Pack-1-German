@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Gehirn,Brustvergrösserung,Herd,Sorgen,Feuer,BH,Seele,Küche,Ehemann,Nase,Geschmackssinn,Fernseher,Pferd,Budget,rechte Hand,David Hasselhoff,Gesicht,Hausfrau",
+      "v": "Katzenhaare,Milch,Frösche,Vögel,Reinigungsalkohol,Golfbälle,Feuer,Ahornsirup,Tannenzapfen,Säure,Kaugummi,Fische,Schlangen,Äpfel,iPods,Erdnüsse,Urin,tote Fliegen",
       "n": "Suggestions"
     },
     {
@@ -32,22 +32,21 @@
     },
     {
       "t": "S",
-      "v": "Pam Anderson schrieb ein Kochbuch mit dem Titel <i>Wie man ohne <BLANK> kocht</i>.",
+      "v": "Pam Anderson schrieb ein Kochbuch, in dem sie zeigt, wie man ohne <BLANK> kocht.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Kochbuch,ein Buch,ein Kochbuch,das Buch,das Kochbuch,Bücher,Kochbücher,Koch Buch",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "348373_1",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "348370_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

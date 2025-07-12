@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Suppe,Eiscreme der Zukunft,Kartoffelbrei,eine Gemüsepfanne,Sahnemeerrettich,Frühstücksfleisch,ein Donut,ein Kartoffelchip,ein Müsliriegel,Frischkäse,ein Bonbon,Pizza,eine Lammkeule,Makkaroni mit Käse,Hummus,ein Doritochip,Sauerkraut,ein Chicken Wing",
+      "v": "mit Hunden zu reden,die Zukunft vorherzusagen,Physik zu verstehen,Gedanken von Menschen zu hören,Gedanken zu riechen,das Wetter vorherzusagen,einen Zauberwürfel zu lösen,Pinball perfekt zu spielen,ein Haus zu bauen,sofort zu schlafen,Schach zu spielen,zu jonglieren,zu schweben,Laktose zu verdauen,Stenografie zu schreiben,Latein zu lesen,jedes Land zu benennen,perfekt Kopfrechnen zu können",
       "n": "Suggestions"
     },
     {
@@ -42,12 +42,11 @@
     },
     {
       "t": "A",
-      "v": "337311_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "337308_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Matratzenlager,einem Flugzeugtank,einem Automotor,einem Wasserfall,einer Achterbahn,einem Schweinestall,ihrer Spülmaschine,ihrem Keller,einem Wasserturm,einer Kläranlage,einem Windrad,einem Maislabyrinth,einer alten Kupfermine,einem Koffer,einem Kopfkissenbezug,einer Baumkrone,einem See,einem Tornado,einem U-Boot,einem Standmixer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Doktor-Küsse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Brunnenfigur",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Universitätsstadt Göttingen hat einen eigenartigen Brauch: Frischgebackene Doktoranden küssen nach bestandener Prüfung <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die Gänseliesel,eine Göttinger Brunnenfigur,den Brunnen,einen Brunnen,das Brunnenmädchen,die Statue am Brunnen,die Figur am Marktplatz,die Bronzefigur am Brunnen,eine Bronzefigur am Brunnen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

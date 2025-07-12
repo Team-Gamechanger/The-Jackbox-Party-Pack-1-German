@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Maurice,Günther,Oliver,Dylan,Leopold,Pip,Alexander,Hannibal,Albert,Raphael,Theodor,Ramona,Zacharias,Viktor,Albert,Louis,Jim,Richard,Sam,Olaf,Hans,Günther,Klaus",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Keks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Vorname des Krümelmonsters.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Syd",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Käse-Krone,Der kuhle Kelch,Die milchige Medaille,Der grüne Gummistiefel,Der rote Melkschemel,Die Öko-Kuhglocke,Der weide Weise,Der Bio-Bullentaler,Grashalm in Gold,Der Heuballen-Preis,Das saubere Silokreuz,Grüne Mistgabel,Der blühende Butterbecher,das goldene Tetrapak,der rosa Euter,Green Berta,Nicht-Euter-Ausbeuter-Preis,Albert-Einstein-Preis",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Milch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Die goldene Olga",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Name des niedersächsischen Preises für nachhaltige Milchviehwirtschaft.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Goldene Olga,die Olga,Golden Olga,Die Golden Olga",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

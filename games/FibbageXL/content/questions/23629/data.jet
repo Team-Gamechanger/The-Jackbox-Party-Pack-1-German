@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Ente,ein Straßenhund,ein Lampenschirm,eine Zeichentrickfigur,ein Toter,ein Planet,ein Toaster,eine Kuh,ein Fußballmaskottchen,ein vierjähriges Kind,eine Ziege,ein Schimpanse,ein Kuscheltier,ein Verkehrsschild,ein Traktor,ein Sandwich,ein Zufallsgenerator,ein Baum",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Beschwerden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Seiten von einer Bibel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der äthiopische Herrscher Menelik II. hatte ein ungewöhnliches Mittel gegen Magenbeschwerden. Wenn er sich unwohl fühlte, aß er ein paar <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bibelseiten,Seiten der Bibel,Bibel Seiten,Seiten aus der Bibel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

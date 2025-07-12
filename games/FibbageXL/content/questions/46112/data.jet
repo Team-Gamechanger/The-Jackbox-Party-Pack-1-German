@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Grabsteinen,Spitzenpolitikern,Pizzatoppings,Männern namens Tobias,Vine-Stars,den Minions,Disney-Prinzessinen,Toilettenpapier,Selfies,Vampiren,Donuts,Muppets,imaginären Freunden,Hühnchen,Zootieren,Bäumen,Briten,Socken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Baby-Schule",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "DJ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Natalie Elizabeth Weiss möchte eurem Neugeborenen eine ungewöhnliche Fähigkeit vermitteln. Deshalb hat sie die Baby <BLANK> Schule gegründet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "DJing, Disc Jockey, Discjockey, Diskjockey",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

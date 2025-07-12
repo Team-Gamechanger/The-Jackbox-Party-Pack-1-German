@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Villa,ein Autokino,ein Casino,einen UFO-Landeplatz,einen Freizeitpark,ein Bällebad,einen Golfplatz,ein Hard Rock Cafe,eine Autowaschanlage,eine U-Bahn-Station,ein Segelboot,ein Krankenhaus,eine Nachbildung des Eiffelturms,eine riesige Schere,ein Blumenbeet,einen Strand,eine Keksfabrik,eine Seilbahn",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Papperla-Papst",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kaffee trinken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im 17. Jahrhundert widersetzte sich Papst Clemens VIII. seinen Beratern und verfügte, dass Katholiken fortan <BLANK> dürfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kaffeetrinken,Kaffee konsumieren,Kaffee probieren,Kafee trinken,Kaffe trinken,Coffee trinken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

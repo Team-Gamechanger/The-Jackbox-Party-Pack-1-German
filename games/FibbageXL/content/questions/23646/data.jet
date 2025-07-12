@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Alphabet zu rülpsen,in einer Minute zum Orgasmus zu kommen,sich zu übergeben,Physikaufgaben zu lösen,Spanisch lesen,zu furzen,eine Lasagne zu kochen,Deutsch zu sprechen,Florian Silbereisen anzurufen,Filmzitate wiederzugeben,Gedichte zu schreiben,zu kacken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Diktator-Schönheitsroutine",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "in Delfinblut gebadet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aus dem Glauben heraus, dass er dadurch jung bleiben würde, hat der burmesische Diktator Ne Win manchmal <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "in Delfinblut geschwommen,in Delfinblut getaucht,in Delfin Blut gebadet,in Delfin Blut geschwommen,in Delfin Blut getaucht,Delfinblutbäder gemacht,Delfin Blut Bäder gemacht,Delfinblut-Bäder gemacht",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

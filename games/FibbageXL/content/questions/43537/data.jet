@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Menschen in Finnland und den USA,Senfsorten,Länder,Krankheiten,Bücher,Fernsehsendungen,Videospiele,Kuchen,Flugzeuge,Boote,Menschen mit deutschen Nachnamen,McDonalds,Uhren,Fußballfans,Professoren,Musiker,Wolkenkratzer,Ratten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Auktionsschätze",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Napoleons Penis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1977 nahm John J. Lattimer an einer Auktion teil und erwarb ein kurioses Stück Geschichte. Denn an diesem Tag wurde er der stolze Besitzer von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dem Penis von Napoleon,Napoleon Bonapartes Penis,Dem Penis von Napoleon Bonaparte,Dem Penis Napoleons,Dem Penis Napoleon Bonapartes",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

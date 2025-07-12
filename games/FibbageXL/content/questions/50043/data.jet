@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dinosaurier,Kobolde,Wale,Holznymphen,Lavamenschen,Yetis,Wolpertinger,Zombies,Indianer,goldene Glitzerfrösche,Fans von Björk,Ratten,Geister,Maden,Krokodile,Monster,winzige Pandas,Zeitreisende",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zur See",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Dezember 2022 verschwand aus dem Bodensee eine 800 Kilogramm schwere Edelstahlkugel voller <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

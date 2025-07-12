@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "narzisstischen Nashörnern,Lottoscheinen,bewaffneten Roombas,Roboterfrauen,Turnern,Big Macs,mechanischen Giraffen,Bumerangs,Briefen,Comicbüchern,Straußen,Kampfgorillas,Babys,wütenden Vätern,selbstfahrenden Autos,Zitteraalen,Murmeln,Playstations",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "NASA",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gummihuhn",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Camilla Corona, die an fünf Missionen zum Rand des Weltraums teilnahm, war die erste <BLANK>-Astronautin der NASA.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

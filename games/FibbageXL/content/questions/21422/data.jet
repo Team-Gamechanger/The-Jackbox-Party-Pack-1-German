@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benzin,Ethanol,Dünger,Gold,Bier,Wasser,Stahl,Aluminium,sauren Regen,Hustenmedizin,Whisky,WD-40,Leim,Kohlenmonoxid,Meth,Farbe,Augentropfen,Kokain",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schmuggler",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hamburger",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 versuchte ein chinesischer Reisender seine Haustier-Schildkröte an Bord eines Flugzeugs zu schmuggeln, indem er sie als <BLANK> tarnte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Burger,Cheeseburger,einen Hamburger,einen Burger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

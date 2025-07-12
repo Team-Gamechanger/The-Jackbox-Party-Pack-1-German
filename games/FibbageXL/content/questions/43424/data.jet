@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Stoppuhr,Funkgeräte,Kompass,GPS-Tracker,Pulsmesser,Thermometer,Wasserwaage,Bluetooth-Lautsprecher,Zahnarztterminplaner,Smartphones,Miniatur-Kameras,Trillerpfeife,Schrittzähler,Luftfeuchtigkeitsmesser,Funkchips,Höhenmesser,Powerbanks,Notrufknöpfe",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Komponisten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "erblindet",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Einigen Historikern zufolge wurden die Komponisten Bach und Händel beide vom selben Mann <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "blind,made blind,rendered blind",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

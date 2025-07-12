@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Reis,billigen DVDs,Gürteln,Telefonbüchern,Darts,Hotdogs,Glasscherben,Pferdehaaren und Kaugummi,Batterien,Hirschgeweihen,Vogelfutter,Fischgräten,Kassenzetteln,Taschentüchern,Asche,benutzter Unterwäsche,Knallfröschen,Nussschalen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Goldene Möwe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Brüste",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>McDonald's</i> überlegte in den 1960er Jahren, das Logo mit den goldenen Bögen abzuschaffen, als ein Designer meinte, die Bögen erinnerten die Kunden an <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Busen,Möpse,Titten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

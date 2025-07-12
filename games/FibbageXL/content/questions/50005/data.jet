@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sein Schwert,seinen Kolostomiebeutel,seine Schrotflinte,sein Einhornkuscheltier,sein Bierfass,seinen Pelzmantel,sein Kind,seine Donuts,sein Auto,seinen Glücksbringer,seine Kamera,sein Tretrad,sein Abendessen,seine Handcreme,seine Oma,seinen schwulen Freund,seinen Baseballschläger,seinen Rasenmäher,seine Frau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kinderkram",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Super-U-Bahnen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Um die Geburtenrate in Südkorea zu erhöhen, plant die Regierung <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "U-Bahnen,Metros,U-Bahn-Linien,neue Super-U-Bahnen,neue Metros,neue U-Bahn-Linien,eine neue Super-U-Bahn,eine neue Metro,eine neue U-Bahn-Linie,eine Hochgeschwindigkeits-U-Bahn",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

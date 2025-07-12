@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Babys,Tote,Hunde,Katzen,Mäuse,Astronauten,Nonnen,Geister,Schwangere,Fische,Gefängnisinsassen,Piraten,Wassermelonen,Puppen,Hasen,Elfen,Gewichtheber,Sumoringer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Verkehrskontrollen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Porno geschaut hat",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In Berlin-Wannsee wurde ein 77-jähriger Mann wegen überhöhter Geschwindigkeit angehalten. Dabei fiel dem Polizeibeamten auf, dass er während der Fahrt <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pornos anschaute,Pornos sah,Pornos angeschaut hat,Pornovideos angeschaut hat,Pornovideos anschaute,Pornovideos sah,ein Pornovideo sah,ein Pornovideo anschaute,ein Pornovideo angeschaut hat,Schmuddelfilme anschaute,Schmuddelfilme sah,Pornos schaute,einen Porno schaute,Pornofilme schaute,Pornos sah,einen Porno sah,nen Porno sah,einen Pornfilm sah",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

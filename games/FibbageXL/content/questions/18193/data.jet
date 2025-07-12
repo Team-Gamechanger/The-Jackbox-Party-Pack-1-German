@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Drachenschatz,eine Goldmine,ein Dinosaurierskelett,eine geheime Botschaft,einen antiken Tempel,einen verborgenen Palast,ein Piratenversteck,ein altes Königsgrab,einen römischen Schatz,eine versunkene Bibliothek,eine geheime Gruft,eine heilige Reliquie,eine unterirdische Festung,eine versiegelte Kammer,eine antike Schatzkammer,ein byzantinisches Bad,ein altes Gefängnis,eine Grabkammer,einen Geheimtunnel,eine Höhlenmalerei",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Babys",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Namen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Für nur 35.000€ wird die Schweizer Firma <i>Erfolgswelle</i> <BLANK> für das eigene Baby finden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Name,ein Namen,einen Name,Name,Namen,den idealen Namen,den perfekten Namen,einen Babynamen,einen perfekten Namen,einen idealen Namen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

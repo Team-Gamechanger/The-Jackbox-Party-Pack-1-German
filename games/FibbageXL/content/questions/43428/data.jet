@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Steakmesser,BHs,EC-Karten,Parfüm,Handtaschen,Laptops,Motorräder,Pfefferspray,Fallschirmsprünge,Wein,Make-up,Schlagringe,Tangas,Pistolen,Taschenmesser,Viagra,Deodorant,Goldzähne",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "ABBA-Garderobe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ihre Steuern zu senken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Den Mitgliedern der Band ABBA zufolge, waren ihre ausgefallenen Kostüme nicht nur ein modisches Statement. Sie waren auch dazu gedacht, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Steuern zu senken,ihre Steuern zu reduzieren,Steuern zu reduzieren,ihre Steuerlast zu senken,Steuerlast zu senken,Steuergeld zu sparen,ihnen Steuergeld zu sparen,weniger Steuern zahlen zu müssen,weniger Steuern bezahlen zu müssen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

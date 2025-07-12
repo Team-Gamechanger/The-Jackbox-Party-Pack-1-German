@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vaginas,Herzen,Bienenstöcke,Pfeile,Finger,Katzen,menschliche Köpfe,perfekte Kugeln,Hühner,Schneemänner,Schornsteine,Micky Maus,Schwerter,Katzen,Hintern,gespitze Lippen,Kreuze,Schädel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hello Kitty",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bier",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 brachte Hello Kitty „<BLANK> mit Fruchtgeschmack“ als brandneue Produktlinie auf den Markt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Alkohol,Alkoholische Getränke",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

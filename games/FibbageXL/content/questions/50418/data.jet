@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ziviler Ungehorsam,Schnarchen,Facebook-Sucht,Eifersucht auf Haustiere,Fußgeruch,exzessives Netflixen,unterschiedliche Essgewohnheiten,Meinungsverschiedenheiten über Memes,Geschirrspülen ohne Vorspülen,Smartphone-Nutzung im Bett,mangelnde Körperhygiene,Unordnung,Konflikte mit den Schwiegereltern,verschiedene Temperaturvorlieben,Socken auf dem Boden,Streits über Fußball,Toilettensitz-Position,Spoiler zu Filmen und Serien",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hassliebe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Candy Crush",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wurde im Jahr 2018 von rund 17.000 geschiedenen Paaren in Ägypten als Scheidungsgrund angegeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Candy-Crush,Candy Crush Saga,Candy-Crush-Saga,CandyCrush,Handyspiel Candy Crush",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

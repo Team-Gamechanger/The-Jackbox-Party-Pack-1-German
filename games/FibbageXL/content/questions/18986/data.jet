@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mord,Impfgegner,Furry,Schwarzäugige Erbsen,Pelz,Kannibalisten,Tentakel,Hintern-Anfassen,Orgien,Marionetten,Penis,Müllverspeisungs,Schimmel,Zehennägel,Soziopathen,Schwarze Magie,Mittelalter-Toiletten,Google Translate",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Loch Ness",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Golfbälle",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2009 entdeckten Wissenschaftler bei der Erkundung von Loch Ness per U-Boot unerwartet hunderttausende <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Golfball,Golf-Bälle,Golf Bälle,Golfkugeln,Golf-Kugeln,Golf Kugeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

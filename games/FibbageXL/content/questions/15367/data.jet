@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Mussolini Imitator,Faschismus-Model,Bauchredner,Vertreter,Grabschänder,Clown,Aktmodell,Fischer,Hundepsychologe,Filmkritiker,Synchronschwimmer,Rennfahrer,Friseur,Autoverkäufer,Feuerwehrmann,Kindergärtner,Karikaturist,Pantomime",
+      "v": "fliegen kann,hungrig wird,Wasser trinken muss,zusammenbricht,stirbt,sich paart,kacken muss,erbrechen muss,sich in einen Geist verwandelt,den Besitzer anschreit,furzt,schlafen muss,verrückt wird, etwas töten will,ausrutscht,Kopfschmerzen kriegt,aggressiv wird,verschwindet",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Mussolini",
+      "v": "Wie der Vater..?",
       "n": "Category"
     },
     {
@@ -32,21 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Romano Mussolini, Sohn des faschistischen Diktators Benito Mussolini trat nicht in die Fußstapfen seines Vaters. Er verdiente seinen Lebensunterhalt als <BLANK>.",
+      "v": "Romano Mussolini, Sohn des faschistischen Diktators Benito Mussolini, trat nicht in die Fußstapfen seines Vaters. Er verdiente sein Geld als <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "jazz musiker",
+      "v": "jazz musiker,Jazz-Pianist,Jazz Pianist,Musiker,Pianist,Künstler,Jazz-Künstler",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "339726_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

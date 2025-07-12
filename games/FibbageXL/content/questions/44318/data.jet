@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Whiskey,harte Drogen,Hyperventilations-Tüten,Lachgas,Taschentücher,Flugtickets,Kopfhörer,Videospiele,Ritterrüstungen,Schilde,Guinness-Bier,Guinness,Bibeln,Fish and Chips,Beruhigungspillen,Einwanderungsformulare,Boxsäcke,Pornos",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wal-Qual",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "schlecht singt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Seit 1989 verfolgen Wissenschaftler den „einsamsten Wal der Welt“, der ihrer Auffassung nach so einsam ist, weil er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "schief singt,komisch singt,singt,echt schlecht singt,krumm singt,ein schlechter Sänger ist",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

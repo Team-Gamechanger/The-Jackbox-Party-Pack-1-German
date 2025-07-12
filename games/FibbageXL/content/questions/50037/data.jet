@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jongliert,eine Rakete startet,mit Computern arbeitet,einen Zauberwürfel löst,Schlittschuh läuft,Akupunktur anwendet,klingonisch spricht,einen Hubschrauber fliegt,Breakdance tanzt,Basketball spielt,schweisst,ein Schwein schlachtet,Karten zählt,ein Lagerfeuer entzündet,einen Sattelzug fährt,funkt,Bilder entwickelt,jagt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Mozart",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Leck mich im Arsch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Kanon des weltberühmten Komponisten Wolfgang Amadeus Mozart trägt den wundervollen Namen „<BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Leck mich am Arsch,Leck mir den Arsch fein recht schön sauber",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

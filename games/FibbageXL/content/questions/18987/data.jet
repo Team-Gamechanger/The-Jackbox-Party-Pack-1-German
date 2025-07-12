@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Game of Thrones,Elvis,Zyklopen,Kakteen,Anglerfische,Stefan Raab,Pudding,Mülltonnen,Bergsteigeroutfits,Bauchrednerpuppen,Zahnärzte,Eiswürfel,Steuerberater,Illuminaten,Candy Crush,Operationen,U-Boote,Telefonzellen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Drogenverstecke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seiner Windel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "2008 wurde ein Mann aus New Orleans verhaftet, als die Polizei 200 Gramm Heroin in <BLANK> entdeckte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Windel,Windeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

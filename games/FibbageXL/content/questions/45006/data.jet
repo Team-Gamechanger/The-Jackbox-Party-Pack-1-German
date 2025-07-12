@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zeitungen,Weisheiten,Mammutfleisch,Brotlaibe,Mais,Popcorn,Kaffee,Floppy Disks,Horoskope,Lakritz-Kaugummi,Echsen,medizinische Abschlüsse,Kerzen,Insektenspray,Milch,Zugtickets,Lamafutter,Stephen-King-Romane",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japanische Feste",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Stahlpenis",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Kanamara Matsuri ist ein jährliches japanisches Fest, bei dem ein Schrein mit <BLANK> durch die Straßen getragen wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Metallpenis,einem Stahldildo,einem Metalldildo,einem Penis,einem Dildo,einem Phallus,einem Metallphallus,einem Stahl Penis,einem Metall Penis,einem pinken Penis,einem pinken Phallus,einem Holzpenis,einem Holzphallus,einem Holz Penis, einem Holz Phallus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

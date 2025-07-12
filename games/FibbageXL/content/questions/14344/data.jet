@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kiefernzapfen,Weizenbrot,Baumwollsocken,Brieftaschen,Isolierpaste,Rollkragenpullover,Wetterfahnen,Filzhütte,Enten,Silos,Jeanshosen,Stroh,Bingo,Schlamm,Mikrofone,Bärte,Soße",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kanadischer Alkohol",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Zeh",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Downtown Hotel im kanadischen Dawson City bietet einen einzigartigen Cocktail an, der <BLANK> enthält.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Einen eingelegten Zeh,Zeh,Zehen,Eingelegten Zeh,Eingelegte Zehen,Menschlichen Zeh,Menschliche Zehen,Mumifizierten Zeh,Einen mumifizierten Zeh",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

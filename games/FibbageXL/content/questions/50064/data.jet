@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "25-Teller-Nudelessen,Sackhüpf,Katzentrainings,Kuchenback,Schrei,Telefonier,Schönheits,Foto,Rennfahr,Schnelltippen,Bügel,Tieftauch,Schlagzeug,Busfahr,Wrestling,Stepptanz,Trompetenbau,Wäsche zusammenfalten,Fibbage,Reise",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Weihnachten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "von einer Katze gefressen werden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Zu Weihnachten bekommen Kinder in Island traditionell Kleidung geschenkt, damit sie nicht <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "von Katzen verspeist werden,von der Katze verzehrt werden,vom Kater gefressen werden,Katzen-Beute werden,Katzenfutter werden,von Katzen verschlungen werden,Katzen-Mahlzeit werden,Katzen-Mahlzeiten werden",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

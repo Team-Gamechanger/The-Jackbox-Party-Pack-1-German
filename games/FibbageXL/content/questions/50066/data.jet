@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Baumstamm,einem Schlafsack,einem Kleiderbügel,einem Pfandautomaten,einem Hundehaus,seinem Briefkasten,einem Vogelhaus,einem Tresor,einem Aquarium,einem Gymnastikball,einem Schuhkarton,einer Regentonne,einem Dönerhalter,einer Trompetenöffnung,einem Würstchenglas,einer Nudelrolle,seinem Kleiderschrank,seinem Kamin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Erste Hilfe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "frisches Brot riechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einer Studie haben Forscher der französischen Universität der Südbretagne herausgefunden, dass Menschen eher bereit sind, Fremden zu helfen, wenn sie zuvor <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "frisches Brot riechen können,frisches Brot gerochen haben,frischgebackenes Brot riechen,frisch gebackenes Brot riechen,gebackenes Brot riechen, gebackenes Brot riechen können,Brot riechen,Brot riechen können,Brot gerochen haben,den Duft von Brot riechen,den Duft von Brot gerochen haben,den Duft von Brot wahrgenommen haben,den Duft von Brot wahrnehmen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

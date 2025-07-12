@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lecker,vegan,koscher,gratis,unsichtbar,mit Schokolade überzogen,ohne Käse,in Schweden illegal,dreieckig,Big Macs,auf dem Mars erhältlich,doppelt so groß,nicht mehr erhältlich,leuchtend im Dunkeln,nur noch virtuell,mit Gold belegt",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sicherheit geht vor",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Aliens",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Londoner Versicherungsunternehmen Grip verdiente Anfang der 2000er stattliche 4 Millionen Pfund mit dem Verkauf einer bizarren Police, die Kunden vor <BLANK> schützte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Außerirdischen,Weltraumkreaturen,UFOs,U.F.O.s,Weltraumaliens,Alienentführungen,Alien Entführungen,UFO Entführungen,U.F.O. Entführungen,Weltraumentführungen,Weltraum Entführungen,Entführungen von Aliens,einer Entführung durch Aliens,einer Alienentführung,einer Alien Entführung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Langweiler,Grausame,Impotente,Furzer,Alberne,Betrunkene,Stotterer,Ungeschickte,Gruselige,schüchterne Typ,Doofie,Billige,Ignorante,Widerwärtige,Narr,Tänzer,Freche,nicht königliche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ausgefallenes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "toten Katzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Seid ihr echte Fashionistas? Selbst wenn, werdet ihr niemals die berühmte Kate Fearing Strong schlagen, die 1883 einen New Yorker Ball in einem Kleid aus <BLANK> besuchte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Katzen,ausgestopften Katzen,Katzenfellen,präparierten Katzen,verstorbenen Katzen,Katzenkadavern,toten Miezen,toten Kätzchen,toten Katern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

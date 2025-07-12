@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gehirn,Brustvergrößerung,Herd,Sorgen,Feuer,BH,Seele,Küche,Ehemann,Nase,Geschmackssinn,Fernseher,Pferd,Budget,rechte Hand,David Hasselhoff,Gesicht,Hausfrau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Archäologie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Klappstuhl",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Archäologen in Rothenburg ob der Tauber sorgten für Furore in der Fachwelt, als sie <BLANK> im unglaublichen Alter von 1.400 Jahren fanden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Stuhl,einen Campingstuhl,Campingstühle,Klappstühle,einen Klapp Stuhl, Klapp Stühle,einen Camping Stuhl,Camping Stühle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

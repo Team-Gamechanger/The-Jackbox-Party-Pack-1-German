@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Venustränen,Erde,Schwefel,Laser,Quecksilber,Schwarze Löcher,Regenbogen,Zucker,Glitzerkugeln,Lava,Eiszapfen,Seifenlauge,Öl,Essigsäure,Sonnenstaub,Sprudelwasser,Buttermilch,Salzwasser",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Regenschauer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Diamanten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Was es auf dem Planeten Neptun regnet.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Diamant,Brillianten,Brilliant,Edelsteine,Edelstein,Diamantregen,Diamantenregen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

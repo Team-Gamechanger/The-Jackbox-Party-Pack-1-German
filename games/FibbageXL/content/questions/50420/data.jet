@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ein Reagenzglas,Ein ausgehöhlter Meteorit,ein Autobahn-Leitpfosten,ein Grenzstein,ein Molotow-Cocktail,Ein Goldfischglas,Ein alter Tresor,Eine umfunktionierte Rakete,Eine Waschmaschinentrommel,Ein stillgelegter Atomreaktor,Eine begehbare Schneekugel,Ein Aquarium voller Sand,Eine riesige Salzkristallformation,Eine leere Weinflasche,Eine hässliche Standuhr,Der Kühlschrank eines Kumpels,Ein Schließfach im Fitnessstudio,Ein alter Kaugummiautomat,Eine alte Telefonzelle",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ewige Ruhe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Eine Pringles-Dose",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die letzte Ruhestätte des verstorbenen Chemikers Fredric J. Baur.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pringles-Dose,Eine Pringlesdose,Pringlesdose,Eine Pringels Dose,Pringels Dose,Eine Chipsdose,Chipsdose",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Facebookprofile,dumme Namen,ihre Texting-Gewohnheiten,Kreuzworträtsel,ihre Emoji-Verwendung,ihr schiefes Lächeln,veraltete Wörterbücher,überhöhte Selbstansprüche,quietschende Türscharniere,haarige Ohren,ihre Zeugnisse,Blutdurst,Albträume,ihre Kochkünste,schlechtes Benehmen,ihre Tollpatschigkeit,ständiges Lügen,Disco-Fieber",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brandschutz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "schmerzendes Gas",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2009 erfand ein japanisches Forscherteam einen Feueralarm, der statt lauter Geräusche <BLANK> ausstößt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gas,brennendes Gas,stechendes Gas,Wasabi-Gas,Wasabi,Schmerzgas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

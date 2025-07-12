@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fingern,Hundepenissen,AAA-Batterien,M&Ms,menschlichen Augenbrauen,Zehennägeln,Goldfischen,Tropfen Blut,rohen Eiern,Seesternen,Diamanten,Giftpilzen,Kakerlaken,Katzenpfoten,Lakritzstangen,Chicken Wings,Maden,Seifenstücken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Fitness-Tricks",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Schimpfwörter benutzt",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Studie der Keele University in Großbritannien aus dem Jahr 2017 behauptet, dass man besser in Form kommt, wenn man <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Schimpfwörter verwendet,Flüche benutzt,flucht,Kraftausdrücke benutzt,Kraftausdrücke verwendet,Flüche verwendet,Schimpfwort benutzt,Kraftwörter benutzt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

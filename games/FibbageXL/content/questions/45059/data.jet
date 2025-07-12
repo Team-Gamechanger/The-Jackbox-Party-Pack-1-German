@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kristallen,Zauberen,Büffeln,Wölfen,Bettlaken,Früchten,der Sphynx,Autos,Schaufensterpuppen,Avataren,Sims,Pornos,Piraten,Hydranten,Honigmelonen,Einhörnern,Kentauren,Aliens",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Studentenleben",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Atomkraftwerk",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Reed College in Oregon ist die einzige Universität der freien Künste weltweit mit einem Studentenbetriebenen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nuklearreaktor,bombe,Stromreaktor,Elektrizitätswerk,nuklear,atom,kernkraftwerk,kraftwerk",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

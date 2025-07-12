@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "ein toter Hund,eine Smartphone App,ein Geist,ein Teddybär,eine Kiefer,ein Skelett,ein Kissen mit Aufdruck,ein Wassertank,ein Poster von Celine Dion,ein Schuh,ein unsichtbares Kaninchen,ein Dinosaurier in einem Museum,Elvis Imitator,eine Katze,eine Tasche voller Perücken,eine Barbiepuppe,ein Wischmopp mit einer Schürze,ein Haufen schmutziger Unterwäsche",
+      "v": "sauren Regen,Staub vom Jupiter,einen radioaktiven Meteoriten,einen abstürzenden Mond der Venus,ein Space-Shuttle-Bauteil,ein Mondkalb,ein Schwarzes Loch,den Nikolaus,einen abstürzenden Satelliten,ein Loch in der Ozonschicht,ein UFO,Venusglitzer,Merkurwolken,den Todesstern,Bienen,radioaktiven Schnee,einen Wetterballon,Konfetti",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Glücklich",
+      "v": "Heirat",
       "n": "Category"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Ein Mann aus Watertown, New York, behauptet, dass er seit über 25 Jahren glücklich mit seiner Frau Teagan verheiratet ist, die seltsamerweise <BLANK> ist.",
+      "v": "Ein Mann aus New York behauptet, seit 1986 glücklich mit seiner Frau Teagan verheiratet zu sein, die seltsamerweise <BLANK> ist.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "eine Puppe im Rollstuhl",
+      "v": "eine Puppe im Rollstuhl,eine Schaufensterpuppe",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "353057_0",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "353054_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

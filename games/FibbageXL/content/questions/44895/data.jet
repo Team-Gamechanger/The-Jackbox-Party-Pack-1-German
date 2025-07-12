@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vier Halfpence,einen Geist,ein Pfund Fleisch,ein Neugeborenes,eine Krawatte,ein Sandwich,eine Opernmaske,eine bunte Perücke,eine Posaune,ein Fahrrad,Penicillin,eine Leiche,eine Tulpe,auch ein exotisches Tier,eine Pistole,einen seltenen Diamanten,eine Flasche Eigenurin,einen lustigen Hut",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Alligatoren",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Tuba",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 war das Leben noch einfach. Wir hatten genug Freizeit, um herauszufinden, dass man mit <BLANK> einen Alligator erregen kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem B,Tuba,der Tuba,Tubas,B auf einer Tuba",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

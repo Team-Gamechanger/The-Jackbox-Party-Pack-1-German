@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Verkleideten Ninjas,Nonnen,Olympia-Athleten,Cosplayern,Mumien,Pantomimen,Samurai,Nudisten,Sushiköchen,Polizeihunden,Parlamentariern,Schauspielern,Einsamen Jackbox-Übersetzern,Familienmitgliedern,Kindern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Aberglaube",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bluten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Mittelalter wurde die „Bahrprobe“ bei Ermittlungen angewendet, die in dem Aberglauben begründet ist, dass die Leiche eines Mordopfers in Anwesenheit des Täters <BLANK> würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mit dem bluten anfangen,zu bluten anfangen,das bluten beginnen,zu bluten beginnen,das bluten anfangen,blutet",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

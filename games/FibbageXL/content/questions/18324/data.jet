@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Stuntman, Zauberer, Kampfsport, Yoga, Meditation, Jonglier, Akrobatik, Parkour, Schwimm, Kunst, Breakdance, Model, Poetry-Slam, Taucher, Rennfahrer, Schach, Gesangs, Schauspiel, Ballett, Fechten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Winzig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pinguin-Pullovern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Alfie Date, ein 109-jähriger Australier, verbrachte seine Freizeit mit der Herstellung von winzigen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pinguinpullovern,pinguin pullis,pinguinpullis,pinguin Klamotten,pinguinklamotten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

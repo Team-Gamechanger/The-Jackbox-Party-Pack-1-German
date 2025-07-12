@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "polnisch zu schreien,ununterbrochen zu lachen,Brände zu stiften,Gott zu leugnen,sich selbst zu geißeln,nur noch nackt herumzulaufen,Schlafzuwandeln,zu Breakdancen,sich zu küssen,kürzere Kleider zu tragen,Steine zu backen,nicht mehr zu blinzeln,zu Flüstern,monatelang zu weinen,tagsüber zu schlafen,der Armee beizutreten,vegan zu werden,Nester zu bauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Reiner Wein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Katzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der japanische Getränkehersteller <i>B&H Lifes</i> hat einen alkoholfreien Wein speziell für <BLANK> hergestellt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kätzchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Drogen,Barbiepuppen,Welpen,VHS-Kassetten,Umarmungen,Gartenarbeit,Eiswürfel,Bibeln,Autos,Steaks,Panzermunition,Strumpfhosen,Menschliche Schädel,Messer,iPads,Maßgeschneiderte Lederjacken,Bargeld,Sammelkarten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heldenhaft",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Eichhörnchen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Doreen Green ist eines der seltsamsten Mitglieder der Avengers. Ihre Superkraft ist die Fähigkeit, <BLANK> zu kontrollieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eichhoernchen,Wilde Eichhörnchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

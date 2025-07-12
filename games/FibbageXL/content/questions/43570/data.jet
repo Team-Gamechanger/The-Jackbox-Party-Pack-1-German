@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine kleine Katze,eine Kreidetafel,einen Regenschirm,Kaffeepulver,einen Funkmast,eine Lampe,einen Korkenzieher,ein Vakuum,eine Zeitbombe,einen Plattenspieler,einen Hund,eine Uhr,einen Computer,eintausend Einzelteile,einen Dosenöffner,einen Anwalt,ein Genie,eine Ente",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Royaler Tratsch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monopoly",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Prinz Andrew verriet, dass die Royal Family <BLANK> nicht spielen darf, weil es „zu gemein“ wird.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

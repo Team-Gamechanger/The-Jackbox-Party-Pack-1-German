@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem menschlichen Oberschenkel,einer goldenen Bong,einem Kristallschädel,einer Gewehrpatrone,einer Dose aus Platin,einer Papiertüte,einer griechischen Urne,einem Diamantring,einem Traum,dem heiligen Gral,einer Milchkanne,einem Wikingerhelm,einem Schafsmagen,einem Geier-Ei,einem Urinal,einem Feuerwehrschlauch,einem Golfball,einem Schildkrötenpanzer",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeitstraditionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mit Schleim bedeckt sein",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine alte schottische Hochzeitstradition besagt, dass das Paar, als Vorbereitung auf die Ehe, <BLANK> muss.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mit Schleim überzogen sein,mit Schleim beschmiert sein,mit Schlamm bedeckt sein,mit Schlamm überzogen sein,eingeschleimt sein,verschleimt sein,verschlammt sein",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

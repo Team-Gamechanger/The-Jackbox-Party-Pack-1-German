@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mussolini-Imitator,Faschismus-Model,Bauchredner,Versicherungsvertreter,Grabschänder,Clown,Aktmodell,Fischer,Hundepsychologe,Filmkritiker,Synchronschwimmer,Rennfahrer,Friseur,Autoverkäufer,Feuerwehrmann,Kindergärtner,Karikaturist,Pantomime",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Handwerkliche Begabung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Bahnverspätung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Claudia Weber aus Moosburg versteigerte im Jahr 2019 einen selbstgestrickten Schal für 7.550€, dessen Farbgebung sich nach <BLANK> richtete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bahnverspätung,der Zugverspätung,der Verspätung ihrer Bahn,der Verspätung ihres Zuges,Verspätung,ihrer Verspätung mit der Bahn,Zugausfällen,den Zugausfällen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

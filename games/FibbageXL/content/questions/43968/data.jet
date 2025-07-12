@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ein T-Rex-Knochen,eine Pistole,eine Wunderlampe,eine seltene Puppe,ein Nierenstein,ein Klodeckel,ein Fabergé-Ei,Hitlers Zigarrenetui,ein Meteorit,ein versteinertes Gänseei,versteinerte Dino-Kacke,ein Uranstab,ein Goldklumpen,ein Stück Mondgestein,der Hope-Diamant,eine Spionage-Kamera,eine Walrippe,der kleine Finger seines Vaters",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Star Trek",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "die Mondlandung",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "15 Menschen in Ottawa haben sich bei ihrem lokalen Fernsehsender beschwert, als eine Folge <i>Star Trek</i> durch <BLANK> unterbrochen wurde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "die Mond Landung,Apollo 11,die Apollo-Mondlandung,die erste Mondlandung,eine Mondlandung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

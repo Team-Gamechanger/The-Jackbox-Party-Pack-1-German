@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ein Ultraschallgerät,Mit Minecraft-Befehlsblöcken,Ein Herzschrittmacher,Eine digitale Türklingel,ein Hochdruckreiniger,Tesafilm,Weinfässer,Staubsaugerroboter,1000 Drohnen,Barcode-Scanner,QR-Codes,Tintenstrahldrucker,Oszillographen,Durch Energiesparlampen,Schwangerschaftstests,Mondgestein,Mikrowellen,Smarte Sonnenbrillen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "<i>Doom</i>",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Darmbakterien",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Medium, auf dem die Wissenschaftlerin Lauren Ramlan den Videospiel-Klassiker <i>Doom</i> zum Laufen brachte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Escherichia coli,simulierten Darmbakterien,e coli Bakterien,ecoli Bakterien,Bakterien,Escherichia coli Bakterien,coli Bakterien,Darm Bakterien,Darm-Bakterien,simulierten Bakterien,simulierten Darm Bakterien,Kolibakterien,Koli-Bakterien,Koli Bakterien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

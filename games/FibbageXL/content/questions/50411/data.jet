@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Kondompackung,Shisha-Kohle,eine Handgranate,ein überhitzter Gartenzwerg,brennende Gummienten,Explodierende Thermoskanne,ein heißgelaufener Schrittzähler,Ein feuerspuckender Briefkasten,eine explodierende Wurstdose,400 Glühwürmchen,ein Eichhörnchen,ein Zwergkaninchen mit Jetpack,ein Wasserkocher,ein brennendes Wildschwein,ein Nagelknipser,ein Blitzer,eine Flasche Spülmittel,ein Vibrator",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brandgefährlich!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Brennendes Falkenpaar",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Verursachte im September 2023 einen Brand auf einem Feld in Niederkirchen in Rheinland-Pfalz.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Zwei brennende Falken,Brennende Falken,zwei Falken,Falken,ein brennendes Falkenpaar",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

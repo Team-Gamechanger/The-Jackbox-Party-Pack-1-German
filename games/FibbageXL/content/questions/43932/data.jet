@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eigenen Kot essen,ihren Zwilling töten,explodieren,bis zum Tod niesen,sich mit sich selbst paaren,ihr Inneres nach außen kehren,eine zweite Vagina erhalten,Stacheln bekommen,masturbieren,Gold erbrechen,ihr Hirn essen,ihre Zunge verschlucken,Säure bluten,Albträume bekommen,ihre Kinder essen,einen zusätzlichen Kopf bekommen,sich tot noch fortpflanzen,sich klonen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleine Inselstaaten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Kokosnuss",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2013 nahm die Polizei auf den Malediven einen Verdächtigen fest, der sich in der Nähe eines Wahllokals aufhielt und der schwarzen Magie verdächtigt wurde. Bei dem Verdächtigen handelte es sich um <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ne Kokosnuss,Kokosnüsse,die Kokosnuss",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

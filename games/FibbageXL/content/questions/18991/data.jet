@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bier,Gummistiefel,Didgeridoo,Hut,Sonnenbrillen,Barbiepuppen,Surfbrett,Schaf,Kiwi,Strandkorb,Garnelen,Schuh,Ehering,Kugelschreiber,Küchenschwamm,Eier,Toilettenpapier,Bürgermeister",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Unglückliche Einbrüche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sumoringern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im März 2006 wollte ein Mann in Osaka in Japan einen Einbruch nahe eines Tempels begehen, wurde allerdings von 20 <BLANK> festgenommen, die zufälligerweise im Gebäude waren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Wrestlern",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

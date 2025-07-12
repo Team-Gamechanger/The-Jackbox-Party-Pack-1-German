@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Robotern,Speichel,menschlichem Fleisch,essbarer Unterwäsche,Pferdemist,Süßigkeiten,Geldscheinen,Luft,Büroklammern,Schmutz,Maden,Gläsern,Uran,Motoröl,Pappe,Fischaugen,Holz,Federn",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "WD-40",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kaugummi",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In einer Liste mit mehr als 2000 Anwendungsmöglichkeiten für <i>WD-40</i> wird unter anderem aufgeführt, dass es „<BLANK> von Bettwäsche entfernen kann“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gum,Kau Gummi,Kau-Gummi,klebendes Kaugummi",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

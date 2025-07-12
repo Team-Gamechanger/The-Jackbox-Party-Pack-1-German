@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nicht zu sehr zu schwitzen,Ausländer zu nerven,Kinder zu erschrecken,die Elektronik zu stören,ihre Fans zu verwirren,Chanukka zu feiern,ihre Eltern zu ärgern,Spielzeugfirmen anzulocken,Elton John zu verspotten,Schallwellen zu verstärken,Farbblindheit zu erkennen,als Fallschirme zu dienen,Bühnenlichter zu reflektieren,sie höher springen zu lassen,als Schlafanzüge zu dienen,Armut zu beenden",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Londoner Ecken",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "kleinste Polizeistation",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Am Londoner Trafalgar Square verbirgt sich in einer dekorativen Leuchte Großbritanniens <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "kleinste Polizeiwache,winzigste Polizeistation,kleinste Polizeistelle,kleinste Polizeidienststelle,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

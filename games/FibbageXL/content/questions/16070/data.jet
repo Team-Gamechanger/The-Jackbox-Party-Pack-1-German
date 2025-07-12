@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Plastikflaschen,Argentinien,ihren Mund,den Ozean,Gruppen,Gedanken,das Desert,die Gassen,den Pool,ihre Gärten,in Höhlen,ein Waschbenken,ihre Betten,ihre Autotanks,die Hose,Becher",
+      "v": "masturbierte,telefonierte,hustete,rülpste,furzte,Fotos machte,rauchte,strickte,jodelte,Netflix schaute,SMS schrieb,kochte,eine Holzfigur schnitzte,seine Zähne putzte,Kaugummi kaute,Schluckauf hatte,pinkelte",
       "n": "Suggestions"
     },
     {
@@ -32,22 +32,21 @@
     },
     {
       "t": "S",
-      "v": "Im Jahr 2009 hat eine brasilianische Umweltgruppe eine Kampagne gestartet, in der die Menschen dazu auffordert wurden in <BLANK> zu pinkeln, um den Regenwald zu retten.",
+      "v": "Im Jahr 2009 startete eine brasilianische Umweltschutzorganisation eine Kampagne, die Menschen dazu aufrief, in <BLANK> zu pinkeln, um den Regenwald zu retten.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "duschen",
+      "v": "duschen,die Badewanne,die Duschkabine,beim Duschen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "355501_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "355498_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

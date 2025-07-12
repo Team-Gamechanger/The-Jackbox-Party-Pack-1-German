@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beim Nagel kauen,an einem Wurfstern,an einer Baseballkarte,beim Dartspielen,beim Essen von Popcorn,an seiner Mikrowelle,an seiner Weltmeisterschafts-Trophäe,an den Zähnen seines Glückshasen,bei einem Kartentrick,beim Rasenmähen des Spielfelds,an einer Autogrammkarte,beim Öffnen einer Champagnerflasche,an seiner Trillerpfeife,bei einem Schwertkampf,an einem zerbrochenen Baseballschläger,an einem McDonald's-Göffel,an seinem Glücksstein",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zum Angriff!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dildos",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Dezember 2016 versuchte ein Mann erfolglos, ein Geschäft in San Bernardino, Kalifornien, auszurauben. Die Angestellten vertrieben ihn, indem sie ihn mit <BLANK> bewarfen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dildo,Sexspielzeug,Kunstpenisse,Kunstpenissen,Vibratoren,Dildoes,Gummischwänze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

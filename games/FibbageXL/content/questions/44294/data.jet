@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Taschentüchern,Ausgedruckten Tinderprofilen,Kondomen,Big Bang Theory DVDs,Wodka,Strohhalmen,Frisch gewaschener Unterwäsche,Laserpointern,Wurfsternen,Bibeln,Magazinen für Erwachsene,Alkoholfreiem Bier,Munition,Küken,Kätzchen,Joghurt,Goldbarren,Ihren Jahrbüchern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Exotisch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einen Hund",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im 18. Jahrhundert kostete der Eintritt zu den exotischen Tieren in der Londoner Royal Menagerie drei Halfpence. Aber man konnte das Eintrittsgeld umgehen, indem man <BLANK> mitbrachte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "seinen Hund,Hunde,Hund,eine Katze,seine Katze,Katze,Katzen,einen Kater,seinen Kater,Kater,einen Hund oder eine Katze,Hund oder Katze",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "der Mutter,dem Auto,dem Hund,der heimlichen Geliebten,der Gitarre,dem Schloss,dem Lieblings-Kartenspiel,dem Adoptivsohn,der Katze,dem Sekretär,dem Boot,der Perücke,dem Künstlernamen,der Frau",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Online-Shopping",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seine Kirche",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Andreas Schweimer versuchte <BLANK> für 395.000€ auf <i>Kleinanzeigen</i> zu verkaufen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eine Kirche,ein Gotteshaus,sein Gotteshaus,die Kirche,Kirche,ein Kloster,sein Kloster,das Kloster,ein Pfarrhaus,sein Pfarrhaus,das Pfarrhaus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

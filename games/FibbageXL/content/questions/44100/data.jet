@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Leiche,Tapete,Vogelscheuche,Schaufensterpuppe,Pflanze,Attrappe,Statue,Puppe,Kulisse,Requisite,Geräuschkulisse,Zeitmaschine,Wetterstation,Antenne,Kamera,Parkuhr,Brücke,Sendestation,Anrufbeantworterin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Münchener Anfälle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sudokus machte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Dezember 2015 berichteten Forscher der Universität München über den seltsamen Fall eines Studenten, der jedes Mal Anfälle bekam, wenn er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ein Sudoku machte,Sudokus löste,ein Sudoku löste,Sudoku-Puzzles machte,Sudoku-Puzzle machte,ein Sudoku-Puzzle machte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

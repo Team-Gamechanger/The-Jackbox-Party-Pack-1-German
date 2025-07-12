@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem grünen Typen den sie traf,ihrer Arbeit in der Leichenhalle,einem verrückten Junggesellinnenabschied,klassischen Hollywoodfilmen,Vollidioten,Nikola Tesla,ihrem Onkel Frank,der ersten efolgreichen Herz-OP,sich selbst,einem polnischen Märchen,einer zusammengenähten Marionette,ihrem riesigen Ehemann,einem Huhn ohne Kopf,einem wiederbelebten Hund,ihrem Wasserkocher,einer Lebensmittelvergiftung,einer bayerischen Erzählung,einem Traum über Aliens",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Delikatessen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fischsperma",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die japanische Delikatesse „Shiraku“ sollte man nur bestellen, wenn man unbedingt <BLANK> essen möchte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fischspermien,Fischsamen,Fisch Sperma,Fisch-Sperma,Sperma von Fischen,Spermien von Fischen,Sperma von Fische,Fisch Samen,Fisch-Samen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

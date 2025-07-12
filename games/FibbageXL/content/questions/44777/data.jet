@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Aale,Eiskaffee,schrille Hüte,Fernsehzeitschriften,Energydrinks,schicke Stifte an Kinder,abgelaufene Suppe,knochenlose Chicken Wings,Follower,Pepsi bei Demonstrationen,Klausurlösungen,Hoffnung,Hotdogs,Steine mit Wackelaugen,die finnische Verfassung,zahnmedizinische Leistungen,Bücher über den eigenen Erfolg,Computermäuse",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geschäftsideen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "britischer Luft",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Unternehmer Leo De Watts verdiente in China eine beträchtliche Stange Geld mit dem Verkauf von 115$-Flaschen gefüllt mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Luft aus England,englischer Luft,Engländischer Luft,Luft aus Großbritannien,Großbritannischer Luft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

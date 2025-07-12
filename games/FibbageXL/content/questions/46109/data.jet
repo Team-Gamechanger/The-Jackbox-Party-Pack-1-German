@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Geburtstagen,zwei Planeten,zwei Wassermolekülen,Greg und David,parkenden Autos,Kontinenten,Paartänzern,Paragraphen,den eigenen Ohren,Badezimmer und Küche,Sätzen,Männern in Whirlpools,Milch- und Nicht-Milchprodukten,den großen und kleinen Organen,den Schneidezähnen,Käsescheiben,Regentropfen,Schmetterlingsflügeln",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Akrobaten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pizza",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tony Gemignani ist der 12-fache Meister in der ungewöhnlichen Sportart <BLANK>-Akrobatik.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pizzawurf, Pizza werfen, Pizzen, Pizzas",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

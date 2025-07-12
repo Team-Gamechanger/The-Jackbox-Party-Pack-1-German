@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Winston Churchills Zigarren,Einem Löffel der Apollo 11,Marilyn Monroes Strumpfhosen,Albert Einsteins Pfeife,Hitlers Rasierer,John F. Kennedys kleinem schwarzen Buch,Einer Toilette aus Alcatraz,Dem ersten Reißverschluss,Dem ersten aufgezeichneten Orgasmus,Einer falschen Mona Lisa,Einem 3 US-Dollar-Schein,Einer antiken Schnabeltasse,Charlie Chaplins leerem Tagebuch,Einer anatomisch korrekten Barbiepuppe,Einem versteinerten T-Rex-Kackhaufen,Einem Mammutbaum,Einem BH aus dem antiken Ägypten,Der ersten Plastikflasche",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haiprobleme",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Twitter-Accounts",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Um die Anzahl der Haiangriffe zu reduzieren, haben Forscher der australischen Regierung im Jahr 2014 über 300 Haien <BLANK> gegeben.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Twitter-Account,Twitter-Zugang,X-Zugang,X-Accounts,X-Account,Twitter Accounts,Twitter Account,Twitter Zugang,X Accounts,X Account,X Zugang",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

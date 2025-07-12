@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Strohmännern,Supermodels,Taschentuchverpackungen,Briefkästen,Schafen,Großmüttern,Fenstern,Zelten,Puppen,Socken,Geldautomaten,Pferden,Hunden,Kaffeekannen,Ziegen,Furbys,Geistern,Furrys,Kaninchen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zuckrige Freuden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fliegenfängern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Süßwarenhersteller Katjes produzierte in seinen ersten Jahren keine Süßigkeiten, sondern handelte mit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fliegenpapier,Honigstreifen,Fliegenfänger",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

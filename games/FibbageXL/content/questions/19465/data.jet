@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Eisbärensterben,die Erderwärmung,die Erdrotation,Ölbohrungen,Bienensterben durch Roboterbienen,das Meckern der Leute,die Sonne vom Scheinen,Meteoriten mit Lasern,jammernde Hippies,SUVs auf den Autobahnen,Massentierhaltung,falsche Mülltrennung,Geländewagen beim Starten,den Drang nach Zigaretten,Styroporpartys,Müllschiffe beim Ablegen,Zahnpasta mit Glitzerpartikeln,Pizzakartons",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Achsel-Liebe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Apfelstück",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im 19. Jahrhundert gab es in Österreich einen Brauch, bei dem alleinstehende Frauen während eines Tanzes <BLANK> in ihrer Achselhöhle aufbewahrten und anschließend einem Mann schenkten, der es ihnen angetan hatte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Apfel,Apfelstück,Apfelschnitz,einen Apfelschnitz,Äpfel,Äpfelstücke,Apfelschnitze,eine Apfelscheibe,ein Stück Apfel\n",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

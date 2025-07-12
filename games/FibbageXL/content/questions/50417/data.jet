@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Aus einem Gullydeckel,in einer Baumkrone,in einer Wurstkammer,im Pandagehege,aus einer Kirchenglocke,in einem Spielautomaten,unter einer Bowlingbahn,in einem gigantischen Grill,in einer Gulaschkanone,im Müllschluckerschacht,in einem Kaugummiautomaten,aus dem Supermarkt-Kühlregal,in einer Werbetafel,unter der Rolltreppe,aus einer Toilette,in einem Briefkasten,Shopping-Center-Karussell,Telefonzelle",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Feuerwehr",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Aus einer Packstation",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der kuriose Ort, an dem im August 2024 ein Jugendlicher von der Dortmunder Feuerwehr gerettet werden musste.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "in einer Packstation,in der Packstation,aus der Packstation,aus einem Paketautomaten,in einem Paketautomaten,im Paketautomat,aus dem Paketautomat,Aus einer Paketstation,in einer Paketstation,in der Paketstation,aus der Paketstation,Packstation,Paketstation,Paketautomat,eine Packstation,ein Paketautomat,eine Paketstation,eine DHL-Packstation,aus einer DHL-Packstation,in einer DHL-Packstation,in der DHL-Packstation,aus der DHL-Packstation",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

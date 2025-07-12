@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Bibel,eine Zahnbürste,dreiundzwanzig Kämme,eine Wasserflasche,ein Nasenhaar,ein Plüschtier,einen Liebesbrief,ein Messer,einen Schlüsselanhänger,einen Kochlöffel,einen Kassenzettel,Toilettenpapier,ein Kissen,eine Unterhose,Zahnräder,einen Geldbeutel,eine Gardine,einen Zirkel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "China",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ins Gefängnis zu gehen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "In China gibt es eine kuriose Praktik namens „Ding Zui“, bei der reiche Menschen jemanden dafür bezahlen für sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "in den Knast zu gehen,ihre Gefängnisstrafe abzusitzen,hinter Gitter zu gehen,in das Gefängnis zu gehen,in ein Gefängnis zu gehen,eine Gefängnisstrafe abzusitzen,eine Gefängnisstrafe zu verbüßen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

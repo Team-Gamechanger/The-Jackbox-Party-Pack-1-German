@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gedanken fotografieren,unsichtbare Krankheiten erkennen,bewegte Fotos aufnehmen,Snapchat-Filter lebendig machen,anständige Aufnahmen bei schlechtem Licht machen,verborgene Farben sehen,Verschmutzungsgrade messen,Gerüche reproduzieren,die Zeit anhalten,Erinnerungen aufzeichnen,Flüche aufheben,interdimensionale Signale empfangen,Träume filtern,Spiegelbilder manipulieren,Paralleluniversen scannen,Erinnerungen löschen,Sehschwäche korrigieren,Hunde fliegen lassen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Reaktionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bärtigen Männern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Gruppe Wissenschaftler verschiedenster US-amerikanischer Universitäten schrieb 1999 einen wissenschaftlichen Bericht über die Reaktionen von Katzen auf Fotos von <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Männer mit Bart,Männern mit Bart",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

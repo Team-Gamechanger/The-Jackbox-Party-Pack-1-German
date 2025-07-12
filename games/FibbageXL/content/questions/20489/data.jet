@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Einem Goldfisch,Magneten,Fitness-Ratgebern aus 1911,Kaugummi,Einem Blutegel,Ihrem Staubsauger,Einem Roboter,Katzen,Einem Gymnastikball,Zuckerfreiem Hustensaft,Röntgenstrahler,Proteinshakes",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Frustrierte Käfer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sich zu betrinken",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein bahnbrechender Bericht aus dem Jahr 2012 behauptete, dass sexuell frustrierte Fliegen dazu neigen würden, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Alkohol zu trinken,Mehr Alkohol zu trinken,Mehr zu trinken,Alkohol zu konsumieren,Mehr Alkohol zu konsumieren,Zu viel Alkohol zu konsumieren",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

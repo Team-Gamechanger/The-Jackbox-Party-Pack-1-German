@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihn hasst,ihn als Erstes gesehen hat,sein Kleinkind mitbrachte,sich übergeben musste,bis zum Ende dranbleibt,ihn vollständig zitieren kann,einen besseren Film drehen kann,einen seltenen Gendefekt hat,während der Vorführung heiratet,ihn bei einer Hochzeit vorführt,ihn an Halloween anschaut,sich in einen Vampir verwandelt,einen Geist gesehen hat,einen Werwolf tötete,den Film verflucht hat,den Film boykottiert,sich als Skelett verkleidet,das Ende vorher errät",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Billiard",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "explodierten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Billardspiel zu Beginn des 20. Jahrhunderts hatte eine beunruhigende Besonderheit: die Billardkugeln <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "explodierte,explodierten spontan,detonierten,zerplatzten,gingen in die Luft",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

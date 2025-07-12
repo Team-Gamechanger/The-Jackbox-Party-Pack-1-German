@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fußwege,Leitungswasser,ihre eigenen Fingernägel,Kaffee,Baskenmützen,Unhöflichkeit,Lärm,schlechtes Fernsehen,Bärte,Baguette,Luft,Unterwäsche,Arbeit,schlechte Nachrichten,Die Guardians of the Galaxy,Frankreich,Abgaße,Stopp-Schilder",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Darm-Alarm",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "explodieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 schrieb ein französisches Ärzteteam einen Artikel, in dem es Ratschläge für Darmspiegelungen gab, um zu verhindern, dass die Patienten <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "hochgehen,implodieren,in die Luft gehen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

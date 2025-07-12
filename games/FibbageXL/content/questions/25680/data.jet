@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fingernägel auf der Tafel,schreiendes Baby im Flugzeug,knirschende Zähne,Zahnarzt-Bohrer,Unehrliches Lachen,Autoalarm,Straßenbahn in der Kurve,Einwahlmodem,Presslufthammer,bellender Hund,Vuvuzelas,Wecker,Brechende Knochen,Quietschende Schuhe,sterbender Papagei,laute Telefongespräche,Nase putzen,räuspern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schreckliches",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Erbrechen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das schrecklichste Geräusch laut einer Studie der englischen Universität Salford.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Brechen,sich übergeben,kotzen,Übergeben",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

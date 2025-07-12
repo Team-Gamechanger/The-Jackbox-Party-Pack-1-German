@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Zirkusbären,eine aufblasbare Sexpuppe,ein Skelett,einen Truthahn,eine Fliegengittertür,einen Tischtennistisch,einen Basketballkorb,ein Trampolin,einen Baby-Elefanten,eine Bauchtänzerin,einen Whiskey-Brennkessel,eine Palme,ein Solarium,eine Discokugel,einen Papageien,ein Riesenrad,ein Ballett,einen aufblasbaren Swimmingpool",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Barbie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Angela Merkel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bei der 60. Nürnberger Spielwarenmesse präsentierte <i>Mattel</i> eine ungewöhnliche Adaption eines Spielzeugklassikers: die <BLANK> Barbie.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Angella Merkel,Kanzlerin von Deutschland",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

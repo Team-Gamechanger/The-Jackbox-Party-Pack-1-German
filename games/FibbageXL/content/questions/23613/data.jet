@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Einem Krokodil,Nilpferden,Haien,Babyfröschen,Einem Delfin,Anderen bedrohten Affen,Seinem Tierwärter,Walrossen,Piranhas,Bakterien,Seinen Kindern,Seinen Eltern,Schulkindern,Englischen Touristen,Einem Blindenhund,Einem Tintenfisch,Hummern,Einer alten Dame",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Haut",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Trommeln",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der tschechische General Jan Zizka gab seinen Truppen vor seinem Tod den Befehl, dass seine Haut entfernt und zur Herstellung von <BLANK> verwendet werden soll.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kriegstrommeln,einer Trommel,einer Kriegstrommel,der Trommel,der Kriegstrommel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

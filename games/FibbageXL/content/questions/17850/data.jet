@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Handgranaten,Kondome,Zigaretten,Maschinengewehre,Bomben,Bierflaschen,Schlagringe,Särge,Uniformen,Sprengstoff,Panzer,Minen,Kampfflugzeuge,Raketen,Helme,Granaten,Patronen,Pistolen,Gewehre,Munition",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Japanische Kochbücher",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kondomen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein merkwürdiges japanisches Kochbuch, das 2014 veröffentlicht wurde, enthält nur Rezepte, die mit <BLANK> zubereitet werden.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Kondom,Präservativen,Gummis,Verhütungsmitteln,Durex",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

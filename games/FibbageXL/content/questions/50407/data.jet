@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Holzkühe,Steinschläge,Falsche Schneewehen,Schaf-Roboter,Neue Autobahntoiletten,Nebelmaschinen,Verwirrende Schilder,Pseudo-Polizeikontrollen,Umleitungen, Falsche Wettervorhersagen,Heuwagen-Blockaden,Tarn-Schranken,Falsche Veranstaltungen,Rabattgutscheine für Abwesenheit,Berggeister,Maultier-Paraden,Falsche Funklöcher,Lawinenwarnungen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schweiz",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Künstliche Staus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wird vom Schweizer Kanton Graubünden genutzt, um Touristen von kleinen Landstraßen fernzuhalten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Künstlicher Stau,Fake-Staus,Fake-Stau,Stau-Simulationen,Gefälschte Staus,Simulierte Staus,Stausimulationen,Stau-Fälschungen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

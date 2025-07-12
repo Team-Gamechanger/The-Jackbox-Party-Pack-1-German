@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schlafstörungen,Höhenangst,Seekrankheit,Schnarchen,Heiserkeit,Migräne,Depressionen,Zahnschmerzen,Schluckauf,Lampenfieber,Flugangst,schlechte Laune,Sonnenbrand,Heimweh,Prüfungsangst,Platzangst,Computerviren,Rückenschmerzen,Katzenhaarallergie,Winterblues",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schottische Slogans",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Willkommen in Schottland",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2007 gab Schottland 125.000 Pfund für eine neue Tourismus-Werbekampagne aus. Das Ergebnis war der verlockende Slogan: „<BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Welcome to Scotland,Scotland welcomes you,Herzlich willkommen in Schottland",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

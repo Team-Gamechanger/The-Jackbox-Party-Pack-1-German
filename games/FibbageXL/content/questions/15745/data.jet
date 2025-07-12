@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ihre Mundflora,Käse,Cannabis,Nasenhaar,Bier,Einsamkeit,Raufasertapete,Wasser,Keramik,Unterwäsche,ihre eigenen Haare,Glas,Papier,Paris,Gras,Schokolade,Käse,Lügen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Badehosen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hodenfressender Fische",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein Kopenhagener Professor riet männlichen Schwimmern aus Skandinavien dazu, ihre Badeanzüge wegen <BLANK> gut zu verschnüren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hoden fressende Fische,Hodenfressende Fische,Hodenfresser-Fische,Hodenfresser-Fischen,Hoden fresser Fischen,Eierfresser-Fische,Eier fresser Fische,Eierfressender Fische,Eier fressender Fische,Fischen die Hoden fressen,Fischen die Eier fressen,Testikelfressender Fische,Testikelfresser-Fische,Testikel fresser Fische,Testikel fressender Fische,Fischen die Testikel fressen,Testikelfressender Fischen,Testikel fressender Fischen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

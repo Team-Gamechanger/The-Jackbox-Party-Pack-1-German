@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Sexspielzeug,Furby,Seepferdchen,Playmobilmännchen,Walbaby,Meerschweinchen,Brautkleid,Trampolin,Zelt,Plüscheinhohrn,Wiesbachhorn,Katzenklo",
+      "v": "Gummibändern,Brusthaaren,Spaghetti,Bananenschalen,einem Buchhalter,Essstäbchen,Zahnseide,Teebeuteln,dem Neffen,Büroklammern,Stachelschweinen,Alkoholikern,Regenwürmern,Nasenhaaren,Gefängnisinsassen,Rennmäusen,Politikern,Katzen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Florida",
+      "v": "Strandgut",
       "n": "Category"
     },
     {
@@ -32,21 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Ein ca. 2,5 Meter großes <BLANK> wurde 2011 an einem Strand in Florida an Land gespühlt.",
+      "v": "Ein ca. 2,5m großes <BLANK> wurde 2011 an einem Strand in Florida angespült.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "lego männchen",
+      "v": "lego männchen,lego,klemmbaustein,klemmbaustein männchen",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "320006_1",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

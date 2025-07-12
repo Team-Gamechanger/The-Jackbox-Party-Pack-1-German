@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Hut,königlichen Roben,Vorhängen,Handtüchern,einem Buch,einem Wandteppich,Armeeumhängen,tschechischen Flaggen,einer Decke,Hosenträgern,Gummibändern,einem Stiefelpaar,einer Leinwand,einer Tischdecke,einem Schal,Geigensaiten,Kaugummi,einer Schatzkarte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Legalisierung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Haareschneiden zu Hause",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Senator des US-Bundesstaates Tennessee schlug Anfang 2017 einen Gesetzesentwurf vor, der <BLANK> legalisieren würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Haareschneiden zuhause,Haarschneiden zuhause,Haarschneiden zu Hause,Das Haareschneiden zu Hause,Das Haarschneiden zu Hause,Das Haareschneiden zuhause,Das Haarschneiden zuhause,Zu Hause Haareschneiden,Zuhause Haareschneiden,Zu Hause Haarschneiden,Zuhause Haarschneiden,Haarschnitte zuhause,Haarschnitte zu Hause,Haushaarschnitte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

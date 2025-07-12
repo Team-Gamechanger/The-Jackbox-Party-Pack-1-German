@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Tasse Kaffee,eine Marmorstatue,eine Kerze,einen Flugzeugsitz,die Farbe eines Gemäldes,eine Ottomane,ein Katzenklo,einen Sandkasten,ein Nasenpiercing,ein Kirchenfenster,eine Windmühle,ein Vogelhäuschen,eine Gürtelschnalle,seinen Körper,einen Bh,einen Smartphone-Akku,ein Plüschtier,eine Sanduhr",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Genetik",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "unkämmbaren Haare",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der seltene genetische Defekt „Pili trianguli et canaliculi“, der vor allem Kinder unter 12 Jahren betrifft, ist besser bekannt als „Syndrom der <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "nicht kämmbaren Haare,nicht frisierbaren Haare,schlecht kämmbaren Haare,schlecht frisierbaren Haare,unfrisierbaren Haare,",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

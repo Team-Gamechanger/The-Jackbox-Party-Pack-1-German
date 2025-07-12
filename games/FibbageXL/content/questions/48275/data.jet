@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "waren aus Holz,leuchteten im Dunkeln,waren magnetisch,enthielten Quecksilber,waren lebendig,rollten von selbst,waren durchsichtig,waren aus Gold,waren radioaktiv,enthielten Sprengstoff,waren aus Glas,machten Geräusche,waren aus Menschenknochen,enthielten Gift,waren verflucht,waren hohl,zersetzten sich,rochen nach Verwesung,waren brennbar,waren hypnotisch",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleingedrucktes",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "1000 Stunden gemeinnützige Arbeit leisten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2017 stimmten Menschen, die sich in England mit <i>Purple Wi-Fi</i> verbinden, unwissentlich einer rechtsverbindlichen Klausel zu, die besagt, dass sie <BLANK> müssen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tausend Stunden Sozialdienst ableisten,1000 Stunden Sozialdienst ableisten,tausend Stunden gemeinnützige Arbeit,eintausend Stunden Sozialdienst ableisten,eintausend Stunden gemeinnützige Arbeit,1000 Stunden ehrenamtlich arbeiten,tausend Stunden ehrenamtlich arbeiten,eintausend Stunden ehrenamtlich arbeiten,1000 Std. für soziale Projekte arbeiten,1000 Std. ehrenamtlich arbeiten,eintausend Stunden für die Gemeinschaft arbeiten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

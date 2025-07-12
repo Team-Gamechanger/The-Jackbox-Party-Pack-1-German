@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Gedichtwettbewerb,einer Umarmung mit Batman,einem Kostümwechsel,einem Rock-Konzert,einer Ballettaufführung,einem Umzug nach Brasilien,einem Tanz mit Wonder Woman,einem Zirkus-Besuch,dem Diebstahl der Kronjuwelen,dem Tragen eines Tutus,einer Hochzeit mit Lois Lane,einem Auftritt in einer Talkshow,einer Teilnahme bei einer Dating-Show\n,Purzelbäumen durch Metropolis,einer Fast-Food-Werbung,einer Wrestling-Karriere,einem Friseurbesuch,der Adoption eines Pinguins",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wunder",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "obszöne Schneemänner bauten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Wunder von 1511 war ein Fest in Brüssel, bei dem die Bürger ihren Unmut über die Regierung zum Ausdruck brachten, indem sie <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Schneemänner mit Genitalien bauten,anstößige Schneefiguren formten,vulgäre Schneeskulpturen errichteten,anzügliche Schneemänner erschufen,pornografische Schneefiguren gestalteten,pornografische Schneemänner gestalteten,unzüchtige Schneeskulpturen aufstellten",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

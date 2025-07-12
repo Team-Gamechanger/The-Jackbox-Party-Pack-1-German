@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "die Dorfhexe,eine lebende Zeitkapsel,eine Ente,eine Schaufensterpuppe,eine professionelle Kuhflüsterin,eine Drittklässlerin,eine Statue,ein Baum,eine pensionierte Stierkämpferin,eine Astronautin,die selbsternannte Alien-Botschafterin,die Dorfuhr,die Erfinderin des Heugabel-Yoga,die Weltmeisterin im Mäusemelken,Kuh-Übersetzerin,eine Bauchrednerpuppe,Weltrekordhalterin im Maiskolben-Weitwurf,die örtliche Wahrsagerin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einspruch",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eine Penispumpe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ein amerikanischer Richter wurde im Jahr 2006 zu einer vierjährigen Haftstrafe verurteilt, nachdem herausgefunden wurde, dass er während mehrerer Prozesse heimlich <BLANK> verwendet hat.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eine Penis Pumpe,Eine Penis-Pumpe,Seine Penispumpe,Seine Penis Pumpe,Seine Penis-Pumpe,Penispumpen,Penis Pumpen,Penis-Pumpen,Penispumpe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

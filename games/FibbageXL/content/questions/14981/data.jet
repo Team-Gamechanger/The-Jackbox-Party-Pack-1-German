@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Taxifahrer,Friseur,Jongleur,Schuhputzer,Rodeo-Clown,Pope John Paul Imitator,tänzer,Hundefriseur,Wrestler,Barista,Boxer,bescheidener Zimmermann,Bergarbeiter,Pantomime,Autoverkäufer,Frühstücksfernsehmoderator,Chef,Vogelflüsterer",
+      "v": "brennt,einen Esel küsst,schläft,Suppe kocht,einen Daumen nach unten zeigt,Sex hat,seine Zunge zu Jesus rausstreckt,eine Ziege schlachtet,Kekse bäckt,in der Nase bohrt,in seinen Schritt greift,seine Zähne putzt,Seifenblasen bläst,eine Kuh melkt,sich rasiert,ein Schwein malt,eine Steinschleuder abfeuert,Dame spielt",
       "n": "Suggestions"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "Als junger Student arbeitete Papst Franziskus in Buenos Aires als <BLANK>.",
+      "v": "Als junger Student hat Papst Franziskus in Buenos Aires als <BLANK> gearbeitet.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "tür steher",
+      "v": "tür steher,Pförtner,Portier",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "331818_1",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "331815_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

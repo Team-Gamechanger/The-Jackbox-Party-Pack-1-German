@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jegliche Form von Jodeln,Der Buchstabe Q,Mittagsschlaf,Das Lied \"Last Christmas\",Bärtige Beamte,Linksverkehr,Kaugummi kauen,Krawatten mit Disneymotiven,Dreifach-Purzelbäume,Schuhe mit Klettverschluss,Das Wort \"eigentlich\",Geheime Keksverstecke,Rückwärtsgehen,Spontanes Singen von Volksliedern,Jojos,Haftnotizen unbekannten Zweckes,Das Tragen bunter Socken,Koffeinhaltige Getränke nach 14 Uhr",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Plettenberg",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kakteen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Wurde aus allen städtischen Gebäuden der Stadt Plettenberg verbannt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kaktuse,Kaktusse,Kaktuspflanzen,Kakteengewächse,Kaktusgewächse,Kaktus",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

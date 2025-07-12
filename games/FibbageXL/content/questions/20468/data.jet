@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "in den Buckingham Palace einbrach,den Mount Rushmore bestieg,behauptete Shakespeares Urenkel zu sein,Alaska für England beanspruchte,Dodos aß,Mark Twains Frau entführte,behauptete es seien die 1890er,den Big Ben in einer Windel erklomm,gefälschte Dinosaurierknochen entdeckte,versuchte zum Mond zu fliegen,Schnurrbärte auf den Mount Rushmore zeichnete,sich in Tutanchamuns Grab schlich,eine ganze Autobatterie aß,Scherzanrufe bei Teddy Roosevelt machte,Dynamit verschluckte,nackt durch Museen lief,lebende Ratten aß,vor dem Weißen Haus schlief",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rekordverdächtig",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pandasex",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Am 3. April 2015 wurde ein spannender Weltrekord aufgestellt. Achtzehn Minuten und drei Sekunden ist nun die längste je gemessene Zeit für <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Panda-Paarung, Panda Sex,Panda-Sex,Paarung von Pandas,die Paarung von Pandas,Pandapaarung,Pandavermehrung,Pandafortpflanzung",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

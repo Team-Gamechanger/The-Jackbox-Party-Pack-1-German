@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Panzertape,Wachs,Gardinen,Gras,Bettlaken,Laub,Kissen,Kassenzetteln,Müll,Briefen,Müllsäcken,Federn,Servietten,Ofenhandschuhen,Plastiktüten,Heftklammern,Tapeten,Socken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Rettungaktionen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Plumpsklo",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Frau aus Michigan musste von der Polizei aus <BLANK> gerettet werden, nachdem sie versucht hatte, ihre <i>Apple Watch</i> zu retten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer Toilette,nem Plumpsklo,ner Toilette,einem Klo,nem Klo,einem WC,nem WC",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

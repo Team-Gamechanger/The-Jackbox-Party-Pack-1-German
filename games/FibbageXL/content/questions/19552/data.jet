@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Schwimmweste,Fallschirm,Schuh,Notration,Geldbeutel,Kugelsichere Weste,Socke,Defibrillator,Telefon,VR-Brille,Rucksack,Spionagekamera,Aktentasche,Gettoblaster,Müslischüssel,Wassersieb,Granate,Bierzapfanlage",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Hochzeitsdrama",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rechnen konnte",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine Braut in Uttar Pradesh, Indien, stürmte von ihrer Hochzeit, als ihr Bräutigam nicht <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mathe konnte,addieren konnte,rechnete",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

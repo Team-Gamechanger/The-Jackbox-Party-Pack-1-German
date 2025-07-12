@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einen Apfel essen,Knoblauch riechen,in den Vollmond schauen,einen Wurm berühren,Salz auf die Zunge streuen,rückwärts gehen,eine Zwiebel unter dem Kopfkissen platzieren,ein Ei balancieren,Kaffeesatz lesen,drei Mal husten,Basilikum kauen,in Essig baden,eine Münze schlucken,Meerrettich einreiben,einen Regenwurm zerteilen,Spinnennetze sammeln,Kerzenwachs tropfen,in Milch schwimmen,Brennnesseln pflücken,Mondwasser trinken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Berühmt werden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "von Brücken sprang",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Schon mal von Larry Donovan gehört? Er versuchte in den 1880er Jahren berühmt zu werden, indem er wiederholt <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Brückensprünge machte,von Brücken in die Tiefe sprang,sich von Brücken stürzte,von Brücken stürzte,von hohen Brücken sprang,von Brücken ins Wasser sprang",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

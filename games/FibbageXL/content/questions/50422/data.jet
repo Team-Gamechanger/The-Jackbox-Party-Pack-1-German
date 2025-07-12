@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ein Gartenzwerg-Schauer,Eine explodierende Bierdose,ein Papierflieger aus Karton,Wütendes Känguru,Wutentbrannter Papagei,Ein vom Wind getragenes Trampolin,ein Meteorit,ein Teil der ISS,gefrorener Urin,Eine Weihnachtsbaumkanone,eine Jesusstatue,ein Känguru mit Kettensäge,Eine umherfliegende Brotdose,ein geworfener Ehering,Eine Eisscholle von vorbeifliegendem Flugzeug,Ein fliegendes Geodreieck,ein Schildkrötenpanzer,eine Waffeleisen-Explosion",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schaden",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ein aus dem Himmel fallender Fisch",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Beschädigte im Juli 2024 die Windschutzscheibe von Cynthia und Jeff Levine aus New Jersey.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fisch der aus dem Himmel fliegt,Fisch,Fallender Fisch,Fliegender Fisch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

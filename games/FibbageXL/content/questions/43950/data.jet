@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "betrunkener Teenager,Hinterwäldler,Nudisten,Vogelscheuchen,Vampirfledermäuse,Freimaurer,Harry-Potter-Fans,Politiker,verliebter Pärchen,radioaktiver Hirsche,Jonglierer,Labyrinthe,Maler,riesiger Hasen,Weltkriegsbomben,Drogendealer,Tunnel der Mafia,Bauern",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Zigaretten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Atombombe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 1952 war der US-Amerikaner Ted Taylor der erste Mensch, der sich eine Zigarette mit <BLANK> anzündete.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Atombomben,einer Bombe",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

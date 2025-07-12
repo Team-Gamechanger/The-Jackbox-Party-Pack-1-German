@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Münzen,Quietscheenten,Bierkrüge,Schuhe,Autoreifen,Eheringe,Schlüsselanhänger,Totenköpfe,Plastikflaschen,Kugelschreiber,Kronkorken,Fischskelette,antike Statuen,Nessie-Stofftiere,Pappteller,Schnorchel,Zähne,Schnuller",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Sternenhimmel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Astronautenurin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Astronomen berichteten von einem seltsam glühenden Lichtstreifen am Nachthimmel des 9. September 2009. Die NASA teilte mit, dass es sich um <BLANK> gehandelt hätte.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Astronautenpisse,Urin von Astronauten,Pisse von Astronauten,abgeworfenen Astronautenurin,Urin aus dem Space Shuttle,Astronautenurin aus dem Space Shuttle,Astronautenexkremente,Astronautenpisse aus dem Space Shuttle,Astronauten Urin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

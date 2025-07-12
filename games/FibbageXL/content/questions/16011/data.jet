@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Dick Cheney,Marilyn Monroe,Captain Hook,Abraham Lincoln,Walter Matthau,Satan,Batman,Ross Perot,a middle finger,ALF,Pikachu,Mr. Potter,a one-eyed porcupine,Dolly Parton’s breasts,The Hunchback of Notre Dame,Freddy Kreuger,a clown,a butt",
+      "v": "menschlichen Haaren,Gummibändern,Spinnenseide,Getränkedosen,alten Handys,Grillen,Einkaufstüten,Bienenstöcken,Büchern,Trockeneis,Fingernägeln,Bierflaschen,Hühnerknochen,alten Gameboys,gebrauchten Geburtstagskarten,DVDs,Socken,Zucker",
       "n": "Suggestions"
     },
     {
@@ -32,12 +32,12 @@
     },
     {
       "t": "S",
-      "v": "Auf dem nordwestlichen Turm der Washington National Cathedral befindet sich ein Wasserspeier, der <BLANK> ähnelt.",
+      "v": "Auf dem Nordwestturm der Washington National Cathedral befindet sich ein Wasserspeier, der <BLANK> ähnelt.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "",
+      "v": "Vader",
       "n": "AlternateSpellings"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "t": "A",
-      "v": "354223_1",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "schwarze Kleidung tragt,gerne Zehen leckt,Kamele trainiert,Gehirne operiert,tote Sprachen studiert,euch weigert erwachsen zu werden,Hellseher aufsucht,verdorbenes Essen esst,nie badet,Sex aus dem Weg geht,Popel esst,mit Toten redet,einen Putzfimmel habt,nur Baumrinde esst,Blut trinkt,Ohrringe tragt,an griechische Götter glaubt,Termiten esst",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Harte Arbeit",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bettwärmerin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Viktoria Ivachyova hat einen einzigartigen Beruf: Sie arbeitet als „Menschliche <BLANK>“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bettwärmer,Bett-Wärmerin,Bett Wärmerin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

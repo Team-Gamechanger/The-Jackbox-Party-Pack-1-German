@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "politische Gefangene,Comedians,Hacker,aufstrebende Diktatoren,für Touristen in Nordkorea,Pick-Up-Artists,Hundefriseure,seine Gegner,Auftragsmörder,Barbiere,Universitätsabsolventen,Gärtner,zukünftige Politiker,junge Paare,berufstätige Eltern,Eiskunstläufer,Wanderer,Großwildjäger",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Viagra",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jetlag bei Hamstern",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine kuriose Studie eines argentinischen Forscherteams aus dem Jahr 2007 ergab, dass Viagra neben seinen bekannteren Anwendungen auch <BLANK> heilen kann.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jetlag bei Hamster,Hamster-Jetlag,Zeitzonen-Müdigkeit bei Hamstern,Zeitverschiebungs-Symptome bei Hamstern,Hamsterjetlag,Hamster Jetlag",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "David Bowie,eine Wolke,auf Zeitreise,in einer Schneekugel,eine Kartoffel,ein Engel,ein Athlet,ein Schwein,ein Zombie,ein Radiergummi,ein Alien,ein Computerprogramm,ein Cowboy,eine Büroklammer,wieder ein Kind,kugelsicher,ein Segler,eine Ente",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Kleine Helferlein",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pferde",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2011 wurde in den USA die Definition eines „Assistenztieres“ aktualisiert. Als Alternative zu Hunden erlaubt dieses Gesetz auch kleine <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ponys,Ponies,Fohlen,Pferd,Pony,Ponie",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

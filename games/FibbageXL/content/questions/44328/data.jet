@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hitzefrei,Indoor-Seilspringen,Filme im Unterricht,Deodorant,coole Autos,Stimmungsschwankungen,Mikrowellenessen,Fast Food,fettige Haare in der Schule,Duschen in Sporthallen,Kaugummi,Jugendsprache,tanzen,das Wort “cool”,Grimassen,Comicbücher,Kugelschreiber in Klausuren,Schulausfälle",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Erwischt!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pokémon fangen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Oktober 2015, während sie eigentlich einer Debatte im Parlament folgen sollte, wurde die norwegische Ministerpräsidentin beim <BLANK> erwischt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pokemon fangen,Pokémon Go spielen,Pokemon Go spielen,Pokémon spielen,Pokemon spielen,Pokémon Go fangen,Pokemon Go fangen,Pokémons fangen,Pokemons fangen,Pokémon Go auf dem Handy spielen,Pokemon Go auf dem Handy spielen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

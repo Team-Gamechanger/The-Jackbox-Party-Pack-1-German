@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rattenkopf,Lakritzschnecken,Buntsftift,Massagekissen,Pistolenabzug,Gartenschlauch,Zigarrenstummel,Ladeadapter,Schlangenzahn,Gewehrkugel,Türklinken,Vogelnest,Diamanten,Teebeutel,Granaten,Mikrofon,Taschentuch,Salat",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Offizielle Statements",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Reptiloid",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "John Key, der ehemalige Premierminister Neuseelands, erklärte 2014 öffentlich, dass er kein <BLANK> sei.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Reptil,Eidechsenmensch,Eidechsen Mensch,Eidechsenmann,Eidechsen Mann,Reptilmensch,Reptil Mensch,Echsenmensch",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

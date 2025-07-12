@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "zum Baby werden,schnell altern,seine Arme abnehmen,Gedanken von Hunden lesen,jeden Tanzschritt ausführen,Krabben beschwören,einen tödlichen Schnurrbart wachsen lassen,jedes Puzzle lösen,seine Vorfahren beschwören,neue Fashiontrends beginnen,seinen Körper verlassen,Herzinfarkte auslösen,alle Uhren stoppen,sich in eine Ente verwandeln,fünf Sekunden in die Vergangenheit reisen,das perfekte Geschenk raussuchen,sich an alle Geburtstage erinnern,den perfekten Kuchen backen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Spaß mit Chirurgie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Papagei",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ted Richards aus Bristol, England, ist ein Perfektionist. Er ließ sich sein Gesicht und seine Augäpfel tätowieren und seine Ohren entfernen, um wie <BLANK> auszusehen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "sein papagei,eine Papageienart,ein Ara,Papageien",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

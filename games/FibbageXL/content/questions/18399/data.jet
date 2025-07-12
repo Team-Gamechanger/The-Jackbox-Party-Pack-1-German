@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bienenzucht,Regentänzen,Drachenkämpfen,Zahnpflege,Leberwurst,Currywurst,Bratwurst,Bahnfahrten,Musicals,Rockkonzerten,Computerviren,Bürokratie,Steuererklärungen,Postboten,Fußballspielen,Bauarbeiten, Straßenbahnen,Gartenzwergen,Trompetenmusik,Briefmarken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Tequila",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Diamanten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2008 gelang es Wissenschaftlern an der Nationalen Autonomen Universität von Mexiko, Tequila in <BLANK> zu verwandeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Diamant,einen Diamanten,einen Diamant",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

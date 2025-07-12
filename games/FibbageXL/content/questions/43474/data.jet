@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sein persönlicher Fußmasseur,sein Friseur,sein oberster Gutenachtgeschichten-Vorleser,sein Dachs-Sitter,sein persönlicher Waffenreiniger,sein Rückenhaartrimmer,sein Übersetzer,sein Kofferraum-Auslader,seine Mutter,sein bester Freund,sein Toupet-Reiniger,seine falsche Verlobte,sein Fahrradchauffeur,sein immer etwas uncoolerer Freund,sein Hofnarr,sein Therapeut,sein Mikrowellen-Bediener,Premierminister",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Wahrsager",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Spargel",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jemima Packington hat eine besondere und einzigartige Gabe. Sie behauptet, sie könne die Zukunft mithilfe von <BLANK> vorhersagen.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Spargelstangen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

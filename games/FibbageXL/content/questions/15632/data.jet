@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Strip-Club,einer Fernfahrerkneipe,einer Opiumhöhle,einem Wachsmuseum,einem Tierheim,einer Kläranlage,einer Klebstofffabrik,einem Affenschutzgebiet,einem Gefängnis,einer Samenbank,einem Bordell,einer Polizeistation,einem Schlachthaus,einem McDonalds,einer Tierklinik,einem Schwimmbad,einer Windmühle,einem Leuchtturm",
+      "v": "Schlangen,Banditen,Waschbären,Influencern,Vogelspinnen,Waisen,Bären,Ninjas,Drachen,Robotern,Motorradbanden,Schmetterlingen,Astronomen,Vielfrassen,Aalen,Hasen,Models,Schildkröten",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "Miniatur",
+      "v": "Minigolf",
       "n": "Category"
     },
     {
@@ -32,22 +32,21 @@
     },
     {
       "t": "S",
-      "v": "Ahlgrim Acres in Illinois hat unter anderem einen Minigolfplatz, welcher sich seltsamerweise in <BLANK> befindet.",
+      "v": "Der Minigolfplatz Ahlgrim Acres in der Nähe von Chicago hat eine Besonderheit, denn er befindet sich seltsamerweise unter <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "einem bestattungshaus,einem beerdigungsinstitut,einem begräbnisinstitut,einem bestattungsunternehmen",
+      "v": "einem bestattungshaus,einem beerdigungsinstitut,einem begräbnisinstitut,einem bestattungsunternehmen,einem Bestatter",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "345863_0",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "345860_1",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

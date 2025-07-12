@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tattoos,Narben,Monobraue,Bauchnabelpiercing,Armbrust,rausgestreckter Zunge,Zahnspange,Badeanzug,Sonnenbrille,Krawatte,Kuhmaske,Kaffeetasse,Mistgabel,Irokesenfrisur,Zylinder,Maschinenpistole,Topfschnitt,Goldkettchen,Sonnenschirm",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Niagarafälle",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rutschte auf einer Orangenschale aus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bobby Leach, der zweite Mensch, der eine Fahrt über die Niagarafälle überlebte, fand sein Ende auf eine weit weniger spektakuläre Weise: Denn er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "stolperte über eine Orangenschale,stolperte über eine Apfelsinenschale,rutschte auf einer Apfelsinenschale aus,glitt auf einer Orangenschale aus,rutschte auf einer Mandarinenschale aus,stolperte über Zitrusfruchtschalen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

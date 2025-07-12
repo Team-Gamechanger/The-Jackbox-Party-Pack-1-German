@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "eine Fluchtklappe,Nahrungsmittel,einen Welpen,eine Krone,einen Dildo,eine Schokoladentafel,einen seltenen Edelstein,das Skelett eines Hahns,ein Kuchenrezept,einen Geist,ein Gemälde von Da Vinci,einen Sexratgeber,Haustürschlüssel,ein Korsett,eine Zigarette,eine Tretmine,eine Schatzkarte,eine Affenpfote",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Schwanger!",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Frosch Urin injizieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der britische Wissenschaftler Lancelot Hogben war der Erfinder eines seltsamen Schwangerschaftstests. Um festzustellen, ob man schwanger war, musste man nur <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einen Frosch mit Urin spritzen,Froschurin verabreichen,Urin in einen Frosch spritzen,einem Frosch Harn injizieren,Urin einem Frosch spritzen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

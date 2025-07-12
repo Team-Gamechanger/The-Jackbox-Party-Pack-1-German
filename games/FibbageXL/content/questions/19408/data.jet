@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Benzin,Proteinshakes,Yoga,Bier,Stepptanz,Eiscreme,Rappen,Hustensaft,Schnee,Radioaktives Eis,Dating,Baseball-Sammelkarten,Kürbisse,Ehestreitigkeiten,Flugzeugtreibstoff,Benutzte Windeln,Elektrische Rasenmäher,Schnabeltiere",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Heringe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fürzen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Weil Heringe in großen Schwärmen schwimmen, wird angenommen, dass sie mit <BLANK> kommunizieren.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Furzen,Gasen,Pupsen,Blähungen,Darmwinden,Flatulenzen,Blähgeräuschen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

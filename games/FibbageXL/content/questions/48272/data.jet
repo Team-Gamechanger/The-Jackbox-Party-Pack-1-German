@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Abflussreiniger,Fliegenfänger,flexibler Ohrstöpsel,Kaugummi,Reifendichtungsmittel,Haargel,Bleistifthalter,Briefbeschwerer,Poliermittel,flexible Geldbörse,Alternative zu Bratensoße,Gedächtnisstütze,Puddingersatz,Fischentgräter,Haarentferner,Radiergummi,Verdauungsmittel,Käseersatz",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Romantiker",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "verhaftet wurde",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Brandon Thompson ist ein unkonventioneller Romantiker. Er hat seiner Freundin einen Heiratsantrag gemacht, während er <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "festgenommen wurde,eingebuchtet wurde,in Gewahrsam genommen wurde,von der Polizei abgeführt wurde,in Polizeigewahrsam kam,von Polizisten mitgenommen wurde,von Polizisten verhaftet wurde,von Polizisten eingebuchtet wurde",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

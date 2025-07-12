@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Die Deutsche Bahn,das Bundesfinanzamt,die Bundeswehr,der Bundestag,die Bundespolizei,das Rote Kreuz,das Bayerische Umweltministerium,der Bundestag,der niedersächsische Landtag,die CSU,das Ordnungsamt,die deutsche Rentenversicherung,die Arbeitsagentur,die ÖBB,der Wiener Opernball,Die Credit Suisse,Die Österreichische Post,die Schweizer Bundesversammlung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Anime",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Der Vatikan",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Hat Ende 2024 ein Anime-Mädchen namens Luce als offizielles neues Maskottchen vorgestellt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vatikan,die Kirche,katholische Kirche,die katholische Kirche,Kirche,der Papst,der Vatican,der Staat Vatikan,die Vatikanstadt,die Vaticanstadt",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

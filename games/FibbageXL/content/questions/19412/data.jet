@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Blut,Spucke,Eingeweide,Tote Mäuse,Wal-DNA,Kuhfett,Warme Körper,Schwefelsäure,Verrottete Blätter,Comichefte,Bourbon,Motoröl,Curry-Ketchup,Flüssigstickstoff,Cola Light,Küsse,Kuh-Dung",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Käse",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Maden",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die letzte, ungewöhnliche Zutat für die sardinische Spezialität „Casu marzu“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Larven,Würmer",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

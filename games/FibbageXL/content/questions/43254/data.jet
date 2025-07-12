@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "einem Flammenwerfer,Samurai-Schwertern,einem Zauberstab,einem Gameboy Color,Bumerängen,einem Hasenkostüm,einem “Umarme mich”-Schild,einer Heißluftfritteuse,einer Nagelschere,Laser Pointern,einer Machete,einem magischen Amulett,Boden-Luft-Raketen,einer Ente,einer Süßigkeitenbox,einer Kettensäge,einem Dosenöffner,einer rosa Handgranate,einem Einhornkostüm,einer Pride-Flagge,einer Heißklebepistole",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Brathähnchen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sonnencreme",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die Firma <i>KFC</i> gab im Jahr 2016 bekannt, dass sie <BLANK> mit Brathähnchengeruch entwickelt habe.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sonnenschutz,Sonnenmilch,Sonnenschutzmittel",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

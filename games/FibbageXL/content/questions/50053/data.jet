@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rückenmassagen bekommen,konstruktive Kritik erhalten,Affenmilch trinken,Kokain nehmen,einen Facebook-Account haben,mit Enten zusammenleben,lustige Hüte tragen,Privatsphäre haben,Geburtstage feiern,Tattoos haben,Deodorant verwenden,Hamburger essen,Komplimente erhalten,mehr Euter haben,Marihuana rauchen,auf Wasserbetten schlafen,Milch trinken",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "In der Glotze",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ehe-Ring",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Eine DDR-Spielshow aus den Fünfzigern trägt den kuriosen Namen „<BLANK> frei!“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ehering,Hochzeitsring",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

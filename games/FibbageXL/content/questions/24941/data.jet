@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tintenfischaugen,Walhoden,Katzengehirne,Hummerkot,Otterfüße,Kuhherzen,Baby-Mantarochen,Thunfisch-Darmschleim,Ochsenhaut,verlorene Clownfische,Schmetterlingsflügel,Pferdeleber,imaginäre Fische,Meerjungfrauen,Augenlider eines Schweins,die Gebärmutter eines Delfins,Tintenfisch-Tinte,menschlichen Kot",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Ford",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tomaten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Juni 2014 kündigte <i>Ford</i> an, dass sie versuchen würden, neue Autoteile aus <BLANK> zu entwickeln.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tomate,einer Tomate,Tomatten,Tomaten Plastik, einer Tomatten,Tomatte",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

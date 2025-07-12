@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,12 +12,12 @@
     },
     {
       "t": "S",
-      "v": "Strohmänner,supermodels,Taschentuchverpackungen,Briefkästen,Schafe,Omas,Fenstern,Vakuen,Zelten,Puppen,Socken,Geldautomaten,Pferden,Hunden,Kaffekannen,Ziegen,Furbys,Geistern,Furrys",
+      "v": "das Streicheln von Katzen,Holzspäne,Kamelspucke,das Schlagen von Sklaven,Rollen im Sand,Hundeohren,das Rauchen von Feigenblättern,Bäder in Tränen,Schlangengift, Asche-Schnupfen,Palmenharz,ein Seifenverbot,Libellenflügel,Bäder im Blut ihrer Feinde,Katzenurin,Fleischhüte,Krokodilsblut,Elfenbein-Injektionen",
       "n": "Suggestions"
     },
     {
       "t": "S",
-      "v": "1000",
+      "v": "Erregung",
       "n": "Category"
     },
     {
@@ -32,22 +32,21 @@
     },
     {
       "t": "S",
-      "v": "Edward Smith aus Yelm, Washington sorgte in den Medien für Aufmerksamkeit, weil er behauptet hat, er habe Sex mit über 1.000 <BLANK> gehabt.",
+      "v": "Edward Smith aus Yelm erregte Medienaufmerksamkeit, als er behauptete, mit über 1.000 <BLANK> Sex gehabt zu haben.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "automobilen",
+      "v": "Automobilen,fahrzeugen,Kraftfahrzeugen,PKWs,Auto,SUVs,Kfz",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "325065_2",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "325062_2",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

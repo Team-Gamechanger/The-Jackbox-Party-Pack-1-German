@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Frühstücksflocken,Nippel,Gruselfilme,Tapeten,Paarungsverhalten von Pandas,Kaffee,Handy-Gewohnheiten,Möhren,Podcasts,Ausgestorbene Fische,Fiktionale Charaktere,Videospiele,Paraden,Fernsehgewohnheiten,Ellenbogen,Pinguine,Makkaroni,Glücksspiel",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Forschung",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kornkreise",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Das Forschungsgebiet eines „Cerealogen“.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kreise im Feld,Ufo-Landungen,Kreise im Getreide,Getreidekreise",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

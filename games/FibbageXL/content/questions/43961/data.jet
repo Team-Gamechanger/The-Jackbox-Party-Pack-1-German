@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fleischklöpse,Vogelscheuchen,Omelette,Sushi,Pfannkuchen,Wiener Würstchen,Kürbisse,Eiscreme,Erdnüsse,Pizza,M&Ms,Benjamin-Blümchen-Torte,Zuckerstangen,ein Sofa,Marshmallows,Thüringer Klöße,Radieschen,Steak",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Blutrünstige Prinzessinnen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "zu heiraten",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Die im Russland des 10. Jahrhunderts lebende Prinzessin Olga hatte den üblen Ruf, jeden zu töten, der ihr nahelegte, <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jemanden zu heiraten,sich einen Mann zu holen,einen Mann zu finden,einen Ehemann zu finden,sich einen Mann zu holen,nochmal zu heiraten,erneut zu heiraten,sich einen Mann zu suchen,einen Mann zu suchen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

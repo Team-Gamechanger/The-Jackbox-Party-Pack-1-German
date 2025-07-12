@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "höfliche Schilder,Giftstacheln,Wespenstöcke,Stachelschweine,Hundekotbeutel,Schreckschusswaffen,Müllhaufen,giftige Schlangen,tödliche Krankheitserreger,Boden-Luft-Raketen,Bumerangwerfer,Fotos von Blinddarmoperationen,Pfefferspray,rostige Nägel,Maschinenpistolen,Bibeln,Elektrozäune,tote Fische",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gute Küche",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Zwillinge",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Inspiriert von einem surrealen Film eröffnete der russische Gastronom Alexei Khodorkovsky eine Bar, in der ausschließlich <BLANK> arbeiten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "eineiige Zweillinge,identische Zwillinge",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "an seine Mutter dachte,Andreas Gabalier hörte,jodelte,an die Sonne dachte,Hotdogs aß,Französisch sprach,jemanden Stricken sah,schlechte Filme sah,schnarchte,Kinderlachen hörte,die Simpsons anschaute,Drachen steigen ließ,eine Wette verlor,seinen Namen rückwärts sagte,seine Schuhe anzog,Rasen mähte,duschte,Waffeln machte",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Raum",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Augenbrauen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "„Glabella“ ist der wissenschaftliche Fachbegriff für den Raum zwischen <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den eigenen Augenbrauen,Augenbrauen,zwei Augenbrauen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

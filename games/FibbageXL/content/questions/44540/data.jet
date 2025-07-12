@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vergorene Milch trinken,Schokolade essen,Theaterstücke besuchen,tanzen,Schnurrbart tragen,Hunde besitzen,Liebesromane lesen,Strohhüte tragen,Seide tragen,schnipsen,Italienisch sprechen,ihre Wände “cremeweiß” streichen,Spiegel besitzen,Schach spielen,Bier brauen,auf dem Bauch schlafen,ihre Haare zu zöpfen binden,Gabeln besitzen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Antiker Buddhismus",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "selbst mumifizieren",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "„Sokushinbutsu“ ist eine uralte buddhistische Praxis, bei der sich die Mönche <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mumifizieren,allein mumifizieren,in Mumien verwandeln,selbst in Mumien verwandeln",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Autos,Unterwäsche,Flugzeuge,Theaterbesucher,Badewannen,Bankangestellte,Baumhäuser,Sturmjäger,Hunde,Astronauten,Vögel,Urologen,Sehbehinderte,Vogelbeobachter,Panzer,Voyeure,Angler,Die Kanalisation",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Superman",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "der Produktion eines Sextapes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>Action Comics</i> #592 und #593 sind bemerkenswert, weil ein Bösewicht Superman mit übersinnlichen Kräften zu <BLANK> zwingt.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einem Pornodreh,pornografischen Aufnahmen,einem Erotikfilm,sexuellen Handlungen vor der Kamera,der Aufnahme von Erotikvideos,einem pornografischen Video",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

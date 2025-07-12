@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Das Profilbild,Das Schnarchen,Den neuen Freund,Das Tanzen,Die Instagrambilder,Die Kochfähigkeiten,Das Fahrverhalten,Die Videospielkompetenz,Den Freundeskreis,Die Bienenzucht-Fähigkeiten,Das Fußballtalent,Die Treffsicherheit mit Pfeil und Bogen,Die Gedichte,Den Stammbaum,Die Textnachrichten,Die Vorbereitungen auf die Apokalypse,Die Spotify-Playlist,Die Küssfähigkeiten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Königliche Statuen",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ein Pinguin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2005 wurde in Edinburgh eine Statue zu Ehren von Sir Nils Olav errichtet, dem ersten Mitglied der norwegischen Königsgarde, das <BLANK> war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pinguin,ein Kaiserpinguin,Kaiserpinguin",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

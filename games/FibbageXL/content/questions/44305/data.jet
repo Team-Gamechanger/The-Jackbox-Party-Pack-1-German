@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "das Vorspiel,Kerzenziehen,Esssucht,FKK-Strände,Verhütungsmittel,Pfannenwender,Karate,Rauchen,Dinosaurier,Yoga,Bordelle,Flachwitze,den perfekten Pub-Burger,die Flacherde,Tarotkarten,Bier mit Zitronenlimonade,Modestandards in der High School,Meerjungfrauen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Gefälligkeiten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Twitter-Followerin",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2012 schenkte der venezolanische Präsident Hugo Chávez einer 19-jährigen Frau ein neues Haus, nachdem sie seine <BLANK> geworden war.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Twitter Followerin,Twitter-Follower,Twitter Follower,X-Followerin,X-Follower,X Followerin,X Follower,Followern bei Twitter,Follower bei Twitter,Follower bei X,Followerin bei X",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

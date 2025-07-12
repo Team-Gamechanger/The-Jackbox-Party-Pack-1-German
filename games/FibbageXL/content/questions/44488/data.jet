@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Hintern,Affen,Schmerz,Lollipop,Hummer,Thors,Atlantik,Würstchen,Marihuana,Lisas,Socken,Weißer,Thomas',Mörder,Urin,Säure,Ratten,Ketten",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Satte Ratte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jazz genießen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2011 entdeckten US-amerikanische Forscher, dass Ratten, denen Kokain verabreicht worden war, mit größerer Wahrscheinlichkeit <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jazz mögen,Jazz anhören,Jazzen,Jazz hören",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

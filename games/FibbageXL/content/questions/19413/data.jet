@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zigarren,Tangas,Antidepressiva,Früchte,Kondome,Wodka,Seetang,Puppen,Zahnspangen,Lollis,Briefmarken,Tintenkiller,Isotonische Getränke,Essbare Buntstifte,Frostschutzmittel,Zahnschützer,Atemalkoholtester,Aspirin",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Freund und Helfer",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einer Bauchrednerpuppe",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Polizist Bob Geary aus San Francisco startete 1993 eine Wählerinitiative, um eine Sondergenehmigung für das Tragen von <BLANK> im Dienst zu erhalten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "einer Bauchredner Puppe,einer Bauchredner-Puppe,einer Puppe,Handpuppe,einer Hand-Puppe,einer Hand Puppe,Handpuppen,Bauchrednerpuppen,Puppen",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

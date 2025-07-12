@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "von Tieren gebissen werden,eine Schreibmaschine benutzen,den Wetterbericht anschauen,schlafen,sich als Fisch verkleiden,in einem Fahrzeug sitzen,Schüsse hören,beim Arzt sind,in einem Sarg liegen,duschen,ein Pferd streicheln,viel Zucker essen,sich die Haare schneiden,in totaler Finsternis sind,Schluckauf haben,Sport machen,Akten sortieren,wütend sind",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Warenautomaten",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Weihwasser",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der erste Verkaufsautomat der Welt verkaufte <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Weiwasser,geweihtes Wasser,Weih Wasser,Weih-Wasser",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Organhändler,Ganove,Monster,Briefmarkensammler,Roboter,Serienmörder,Braunbär,2er-Schüler,Drache,Stripper,Dämon,Spion,Hund,Mitglied von Imagine Dragons,Clown,Neuseeländer,Kriegselefant",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Herr der Ringe",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "den Beatles",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Laut Regisseur Peter Jackson wurde vor der Produktion seiner <i>Herr der Ringe</i>-Trilogie eine andere Version in Erwägung gezogen, in der die Hauptfiguren von <BLANK> gespielt worden wären.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "den Beatles-Mitgliedern,Beatles,Beatles-Mitgliedern,den vier Beatles,den vier Beatles-Musikern,den vier Beatles-Mitgliedern,der Beatlesband,der Beatles-Band",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

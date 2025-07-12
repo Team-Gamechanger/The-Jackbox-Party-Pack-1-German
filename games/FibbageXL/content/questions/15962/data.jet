@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "singen,erbrechen,Jodeln,rülpsen,schwitzen,urinieren,weinen,sich die Knochen brechen,Zungenbrecher aufsagen,Vogelstimmen imitieren,Zähne verlieren,Beatboxen,spucken,husten,lachen,taub werden,blind werden,die Kontrolle über ihren Darm verlieren",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Einkaufsbummel",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "einem Oktopus",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nicolas Cage verteidigte seinen ungewöhnlichen Kauf von <BLANK> mit der Begründung, dass dadurch sein Schauspiel verbessert werden würde.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tintenfisch,Tinten Fisch,Polyp,Oktopode,Okto Pode,Krake,Kraken",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

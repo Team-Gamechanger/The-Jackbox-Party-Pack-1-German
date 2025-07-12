@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Kackenstock,Habemuss,Leckomio,Kackklo,BH,Hyrule,Klobrill,Hobbiton,Van Nawhite,Zelda,Bumsen,New Oldsville,Dingsda,Troll,Starbucks,Kaiserkarl,Lol Lol",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Übermenschliche Kräfte",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kokain",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Der Superschurke Snowflame aus dem DC-Universum erhielt seine Kräfte durch <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cocain,Crack,Zu viel Kokain,Koks,Zu viel Koks,Eine Kokainüberdosis,Eine Koksüberdosis,Eine Überdosis Kokain,Eine Überdosis Koks",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

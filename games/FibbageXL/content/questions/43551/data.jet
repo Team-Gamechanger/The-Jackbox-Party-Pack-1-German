@@ -1,0 +1,58 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Nonnen,Piraten,den rauchenden Piloten,Pferdeäpfel,eine streunende Katze,ein explodierendes Handy,einen Koala mit Durchfall,einen schmelzenden Nintendo DS,weinende Babys,einen betrunkenen blinden Passagier,einen angeschalteten Toaster,einen Blindgänger,das Eiersandwich des Kopiloten,einen Sodastream,einen Kiffer,eine Heißluftfritteuse,Arnold Schwarzenegger,Mundharmonika-Musik",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Geschenke",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Stressbälle",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nach dem ersten Amtsantritt von US-Präsident Trump beschlossen die Wissenschaftler des Dachverbandes britischer Forschungsräte, ihren amerikanischen Kollegen <BLANK> zu schicken.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Anti-Stressbälle,Anti-Stress-Bälle,Quetschbälle,Stress-Bälle",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}

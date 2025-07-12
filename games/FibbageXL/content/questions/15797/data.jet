@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "jongliert,eine Rakete startet,mit Computern arbeitet,einen Zauberwürfel löst,Schlittschuh läuft,Akupunktur anwendet,klingonisch spricht,einen Hubschrauber fliegt,Breakdance tanzt,Basketball spielt,schweisst,ein Schwein schlachtet,Karten zählt,ein Lagerfeuer entzündet,einen Sattelzug fährt,HAM-Radios verwendet,wrestelt,jagt",
+      "v": "in den Anden überleben,ein Reh füttern,das Haus tapezieren,in Babysprache sprechen,Französisch lernen,Filme anschauen,ein Auto reparieren,ins Weltall fliegen,einen Babyschimpansen großziehen,ein Flugzeug fliegen,Monopoly spielen,nur blaue Sachen verwenden,eine Maus jagen,ein Wochenende im Dschungel verbringen,ein Bootcamp durchstehen,für ihre ganze Familie kochen,einen Roboter bauen",
       "n": "Suggestions"
     },
     {
@@ -32,22 +32,22 @@
     },
     {
       "t": "S",
-      "v": "In den 90ern mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
+      "v": "In den 90er-Jahren mussten Lehrer in Nordkorea seltsamerweise wissen, wie man <BLANK>.",
       "n": "QuestionText"
     },
     {
       "t": "S",
-      "v": "harmonika spielt,ziehharmonika spielt,schifferklavier spielt,handharmonika spielt,handorgel spielt,quetsche spielt",
+      "v": "harmonika spielt,ziehharmonika spielt,schifferklavier spielt,handharmonika spielt,handorgel spielt,quetsche spielt,Akkordeons spielt",
       "n": "AlternateSpellings"
     },
     {
       "t": "A",
-      "v": "349539_3",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {
       "t": "A",
-      "v": "349536_0",
+      "v": "question",
       "n": "QuestionAudio"
     },
     {

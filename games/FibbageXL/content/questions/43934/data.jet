@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "benutzten Kondomen,ihrem eigenen Erbrochenen,Walpenissen,dem Maul von Haien,Atommüll,Hummerkäfigen,zerbrochenen Flaschen,menschlichen Überresten,toten Delfinen,Müllhalden,Vulkanschloten,gefrorenen Gletschern,alten Toiletten,Sandburgen,Delfindärmen,Abwasserrohren,Plastiktüten,Klemmbausteinen",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Stammbäume",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hexen",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Im Jahr 2016 stellte die Wellcome Library in London das Manuskript 3658 online, mit dessen Hilfe Menschen schottischer Abstammung feststellen können, ob sie <BLANK> unter den Vorfahren hatten.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hexer,Zauberer,Magier",
+      "n": "AlternateSpellings"
+    },
+    {
+      "t": "A",
+      "v": "correct",
+      "n": "CorrectAudio"
+    },
+    {
+      "t": "A",
+      "v": "question",
+      "n": "QuestionAudio"
+    },
+    {
+      "v": "",
+      "t": "S",
+      "n": "Stamp"
+    }
+  ]
+}
