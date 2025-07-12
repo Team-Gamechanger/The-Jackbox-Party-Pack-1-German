@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einem Matratzenlager,einem Flugzeugtank,einem Automotor,einem Wasserfall,einer Achterbahn,einem Schweinestall,ihrer Spülmaschine,ihrem Keller,einem Wasserturm,einer Kläranlage,einem Windrad,einem Maislabyrinth,einer alten Kupfermine,einem Koffer,einem Kopfkissenbezug,einer Baumkrone,einem See,einem Tornado,einem U-Boot,einem Standmixer",
+      "v": "ihre Prüfer,einen Frosch,eine Eiche,ein altes Buch,einen Strauß,einen Ziegenbock,ein Schwein,ihre WG-Mitbewohner,ein Hufeisen,eine Schaufensterpuppe,den Hausmeister,ein Reagenzglas,einen Totenschädel,eine Statue von Newton,den Türrahmen des Hörsaals,eine Eule,einen sprechenden Papagei,ein altes Schwert,eine lebende Schildkröte,einen Dudelsack",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "das Autofahren,die Verwendung von Bing,Mathe,Rückwärtssaltos,die Smoothie-Zubereitung,Staffellauf,Mah-Jongg,das Weinen,Telepathie,Tetris,das Streichen,das Anziehen von Hosen,das Notenlesen,das Haareschneiden,das Tanzen,Spanisch,Selbsthass,das Kochen",
+      "v": "Furzgerüche,Millennials,eingewachsenen Zehennägel,Milchhäute,Kugelschreiber,Salamistangen,Rückenhaare,Vorliebe für 90er Musik,Weihnachtsmänner,Bigfoot-Schwangerschaften,vollen Windeln,Flugzeugtoiletten,Eichhörnchen-Telepathie,Augenringe,Mid-Life-Crisis,Cargoshorts,deutschen Blätter-Glasschüsseln,erotischen Kornkreise",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

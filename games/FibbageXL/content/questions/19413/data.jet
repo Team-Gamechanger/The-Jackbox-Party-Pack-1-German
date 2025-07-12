@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Zigarren,Tangas,Antidepressiva,Früchte,Kondome,Wodka,Seetang,Puppen,Zahnspangen,Lollis,Briefmarken,Tintenkiller,Isotonische Getränke,Essbare Buntstifte,Frostschutzmittel,Zahnschützer,Atemalkoholtester,Aspirin",
+      "v": "einem Flammenwerfer,Samurai-Schwertern,einem Zauberstab,einem Gameboy Color,Bumerängen,einem Hasenkostüm,einem “Umarme mich”-Schild,einer Heißluftfritteuse,einer Nagelschere,Laser Pointern,einer Machete,einem magischen Amulett,Boden-Luft-Raketen,einer Ente,einer Süßigkeitenbox,einer Kettensäge,einem Dosenöffner,einer rosa Handgranate,einem Einhornkostüm,einer Pride-Flagge,einer Heißklebepistole",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

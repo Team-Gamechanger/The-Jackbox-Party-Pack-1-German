@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Winston Churchill,Albert Einstein,Marilyn Monroe,Karl Marx,einem Papageien,Thunfischen,einem Clownfisch,Füchsen,der Mona Lisa,Stieren,Pippi Langstrumpf,einer Maggi-Flasche,einem Segelboot,einem Schaf,dem Sonnenuntergang,einem Hund,einer Tomate,Napoleon Bonaparte",
+      "v": "Hitzefrei,Indoor-Seilspringen,Filme im Unterricht,Deodorant,coole Autos,Stimmungsschwankungen,Mikrowellenessen,Fast Food,fettige Haare in der Schule,Duschen in Sporthallen,Kaugummi,Jugendsprache,tanzen,das Wort “cool”,Grimassen,Comicbücher,Kugelschreiber in Klausuren,Schulausfälle",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

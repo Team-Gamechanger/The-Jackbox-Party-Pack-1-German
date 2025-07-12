@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Fremden aus dem Internet,Postboten,Sich selbst,Werwölfen,Fans von Justin Bieber,Geburtstagsclowns,Roboter,Tollwütigen Waschbären,Den eigenen Kindern,Wütenden Ziegen,Sekten,Finanzhaien,Drohnen,Bigfoot,Abhörung,Flyerverteilern,Ninjas,Radiomoderatoren",
+      "v": "einen Zirkusbären,eine aufblasbare Sexpuppe,ein Skelett,einen Truthahn,eine Fliegengittertür,einen Tischtennistisch,einen Basketballkorb,ein Trampolin,einen Baby-Elefanten,eine Bauchtänzerin,einen Whiskey-Brennkessel,eine Palme,ein Solarium,eine Discokugel,einen Papageien,ein Riesenrad,ein Ballett,einen aufblasbaren Swimmingpool",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

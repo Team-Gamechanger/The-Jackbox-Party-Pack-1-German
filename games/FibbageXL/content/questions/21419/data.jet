@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Menschen,Giraffen,Elefanten,Bären,Rehe,Tiger,Schimpansen,Deutsche,Büffel,Faultiere,Pandas,Affen,Kühe,Roboter,Schweine,Golfspieler,Katzen,Löwen",
+      "v": "eine Tasse Kaffee,eine Marmorstatue,eine Kerze,einen Flugzeugsitz,die Farbe eines Gemäldes,eine Ottomane,ein Katzenklo,einen Sandkasten,ein Nasenpiercing,ein Kirchenfenster,eine Windmühle,ein Vogelhäuschen,eine Gürtelschnalle,seinen Körper,einen Bh,einen Smartphone-Akku,ein Plüschtier,eine Sanduhr",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

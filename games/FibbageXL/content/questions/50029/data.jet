@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "eine Schere,ein Autoradio,einen Mord,eine kurze Hose,ein Messer,einen Zungenkuss,eine duschende Frau,ein Motel,einen BH,ein weinendes Baby,eine Mikrowelle,eine Bettdecke,eine tote Frau,einen Türspion,einen Kadaver,ein Telefon,eine Strumpfhose,einen Nippel",
+      "v": "Parkplätzen,Taschenlampen,Lollipops,Ferngläsern,Computern,Koffern,Getränkeautomaten,Rollstühlen,Kühlschränken,Mikrofonen,Schweißgeräten,Deorollern,Feuerlöschern,Raumschiffen,Straßenbahnen,Badehosen,Jeanshosen,Baggern,Kassetten,Lockenwicklern",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

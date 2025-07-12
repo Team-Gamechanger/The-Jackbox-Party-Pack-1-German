@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Windeln,ihrem Urin,Bienen,Entenküken,Chips,Magneten,Spielzeuglastern,vergorener Milch,Tampons,altem Toast,Heuschrecken,Grillanzünder,leeren Joghurt-Bechern,Seifenblasen,Katzenhaar,Bierflaschen,benutztem Badewasser,Wasserbomben",
+      "v": "Fußwege,Leitungswasser,ihre eigenen Fingernägel,Kaffee,Baskenmützen,Unhöflichkeit,Lärm,schlechtes Fernsehen,Bärte,Baguette,Luft,Unterwäsche,Arbeit,schlechte Nachrichten,Die Guardians of the Galaxy,Frankreich,Abgaße,Stopp-Schilder",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

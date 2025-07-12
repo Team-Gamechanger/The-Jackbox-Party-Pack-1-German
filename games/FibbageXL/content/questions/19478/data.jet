@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "der Mond,Lord Voldemort,ein Hai,ein Alien,eine Bowlingkugel,ein Türknauf,eine Grapefruit,sein jüngeres Ich,Couscous,ein Muppet,ein Radiergummi,Jason aus Freitag der 13.,Vincent Van Gogh,ein Leopard,ein Otter,ein Gargoyle,eine Schlange,Nosferatu",
+      "v": "Gummibändern,Brusthaaren,Spaghetti,Bananenschalen,einem Buchhalter,Essstäbchen,Zahnseide,Teebeuteln,dem Neffen,Büroklammern,Stachelschweinen,Alkoholikern,Regenwürmern,Nasenhaaren,Gefängnisinsassen,Rennmäusen,Politikern,Katzen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

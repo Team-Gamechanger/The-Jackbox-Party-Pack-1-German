@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "aus Kissen besteht,freundlich und effizient ist,auf einem Schrottplatz liegt,im Dunkeln leuchtet,von Robotern betrieben wird,auf einem Vulkan steht,auf einem Piratenschiff liegt,nur nachts geöffnet hat,auf einem Friedhof liegt,von Pinguinen bewacht wird,kopfüber hängt,in einem Flugzeugwrack ist,von Affen geleitet wird,immer brennt",
+      "v": "Kleinem Finger,Seele,Lippen,Babys,Socken,Bauchnabelflusen,Abgeschnittenen Fingernägeln,Spucke,Deodorant,Erstem Arbeitsvertrag,Haarbürste,Müll,Stimme,Tränen,Entferntem Muttermal,Plazenta,Badewasser,Aprikosenmarmelade",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

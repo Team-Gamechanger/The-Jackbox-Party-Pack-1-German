@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "betrunkener Teenager,Hinterwäldler,Nudisten,Vogelscheuchen,Vampirfledermäuse,Freimaurer,Harry-Potter-Fans,Politiker,verliebter Pärchen,radioaktiver Hirsche,Jonglierer,Labyrinthe,Maler,riesiger Hasen,Weltkriegsbomben,Drogendealer,Tunnel der Mafia,Bauern",
+      "v": "einem Verkehrsschild,einer Katze,Trockeneis,einem Space Shuttle,Autoabgasen,einem Kaktus,Klapperschlangen-Gift,Senfgas,der Sonne,einem Flammenwerfer,dem Atem eines Feuerschluckers,Reibung,Feuerwerk,einer Kanone,seinen Gedanken,einem Laser,einem Vulkan,dem Magnetfeld der Erde",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

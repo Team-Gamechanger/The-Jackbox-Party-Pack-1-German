@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Stoppuhr,Funkgeräte,Kompass,GPS-Tracker,Pulsmesser,Thermometer,Wasserwaage,Bluetooth-Lautsprecher,Zahnarztterminplaner,Smartphones,Miniatur-Kameras,Trillerpfeife,Schrittzähler,Luftfeuchtigkeitsmesser,Funkchips,Höhenmesser,Powerbanks,Notrufknöpfe",
+      "v": "geliebt,betrogen,aufgezogen,ausgeraubt,getötet,verheiratet,abserviert,getauft,gegessen,entführt,verhaftet,im Fechten gelehrt,erschossen,verführt,mit Kuhdung abgeworfen,geohrfeigt,frisiert,vergiftet",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

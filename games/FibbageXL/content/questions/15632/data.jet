@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Schlangen,Banditen,Waschbären,Influencern,Vogelspinnen,Waisen,Bären,Ninjas,Drachen,Robotern,Motorradbanden,Schmetterlingen,Astronomen,Vielfrassen,Aalen,Hasen,Models,Schildkröten",
+      "v": "einem Strip-Club,einer Fernfahrerkneipe,einer Opiumhöhle,einem Wachsmuseum,einem Tierheim,einer Kläranlage,einer Klebstofffabrik,einem Affenschutzgebiet,einem Gefängnis,einer Samenbank,einem Bordell,einer Polizeistation,einem Schlachthaus,einem McDonalds,einer Tierklinik,einem Schwimmbad,einer Windmühle,einem Leuchtturm",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

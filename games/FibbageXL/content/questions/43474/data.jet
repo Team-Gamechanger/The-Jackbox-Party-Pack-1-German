@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "sein persönlicher Fußmasseur,sein Friseur,sein oberster Gutenachtgeschichten-Vorleser,sein Dachs-Sitter,sein persönlicher Waffenreiniger,sein Rückenhaartrimmer,sein Übersetzer,sein Kofferraum-Auslader,seine Mutter,sein bester Freund,sein Toupet-Reiniger,seine falsche Verlobte,sein Fahrradchauffeur,sein immer etwas uncoolerer Freund,sein Hofnarr,sein Therapeut,sein Mikrowellen-Bediener,Premierminister",
+      "v": "Windeln,ihrem Urin,Bienen,Entenküken,Chips,Magneten,Spielzeuglastern,vergorener Milch,Tampons,altem Toast,Heuschrecken,Grillanzünder,leeren Joghurt-Bechern,Seifenblasen,Katzenhaar,Bierflaschen,benutztem Badewasser,Wasserbomben",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

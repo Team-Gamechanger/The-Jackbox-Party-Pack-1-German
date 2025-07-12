@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "eigenen Kot essen,ihren Zwilling töten,explodieren,bis zum Tod niesen,sich mit sich selbst paaren,ihr Inneres nach außen kehren,eine zweite Vagina erhalten,Stacheln bekommen,masturbieren,Gold erbrechen,ihr Hirn essen,ihre Zunge verschlucken,Säure bluten,Albträume bekommen,ihre Kinder essen,einen zusätzlichen Kopf bekommen,sich tot noch fortpflanzen,sich klonen",
+      "v": "einen Polizisten,den Präsidenten,einen Duftkerzen-Verkäufer,einen riesigen Hund,einen Vierjährigen,einen Zirkusclown,eine Meeresschildkröte,einen Eiscreme-Verkäufer,ein Schaf,einen Jongleur,einen schwarzen Kater,einen BH,einen Mann im Einhornkostüm,ein Spider-Man-Double,Ralph Siegel,einen Affen mit Cowboyhut,ein Hot-Dog-Maskottchen,eine Shampooflasche",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

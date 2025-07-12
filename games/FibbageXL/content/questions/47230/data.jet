@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "McDonald's,Gefängnis,Schlachthaus,Bordell,Supermarkt,Zirkus,Comedyclub,Flughafen,Nagelstudio,Escape Room,Freizeitpark,Raumschiff,Flughafen,Modeladen,Piratenschiff,Militär,Schlüsseldienst,Autohandel",
+      "v": "menschlicher Asche,benutzten Särgen,Kaffeesatz,Tetrapaks,Rattenkot,Fleisch,Kronkorken,Rock ‘n Roll,alten Snickers,Plankton,Schnee,alten Kleinstwägen,verschrotteten Karneval-Attraktionen,Feuer,recycelten iPhones,Zucker,Walross-Stoßzähnen,alten Fußball-Pokalen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

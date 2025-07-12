@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einer Tasse,einem EC-Karten-Lesegerät,einer Muschel,einem Koffer,einer Perücke,einem Wischmop,einem Sandwich,einem Smartphone,einem Flaschenöffner,einem BH,einem Kühlschrankmagneten,einem Hustenbonbon,einer Bahncard,einer Holz-Pommesgabel,einem Pfirsichkern,einer VHS-Kassette,Kopfhörern,einem Tiefkühl-Baguette,seiner Hose,einer Tüte voller Hundekot",
+      "v": "eine IKEA-Filialie,Pinguine beim Rasenmähen,Atlantis,einen Flashmob tanzender Rentiere,eine lebensgroße Rakete aus LEGO,das Nordlicht in Regenbogenfarben,eine Gruppe meditierender Eisbären,das norwegische Parlament beim Grillen,eine komplette Filmcrew,Donald Trump beim Ölsuchen,eine komplette Wikinger-Siedlung,17 tanzende Walrosse,eine Weltkriegsbombe,ein Polizeiauto voller Hühner,ein U-Boot im Tomatenbeet,das örtliche Schwimmbad,ein altes Piratenschiff,knapp 100 orangene Katzen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

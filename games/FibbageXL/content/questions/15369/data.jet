@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Penis,Hamster,Unterwäsche,Sandale,Zahnbürste,Ohr,Lippe,Rückenmark,Fingernagel,Erbe,Großer Zeh,Fußabtreter,Nase,Weinglas,Rückgrat,Nasenhaar,Fahrrad,Geldbörse",
+      "v": "Teddybären,Tanten,Süßigkeiten,Regierungsvertreter,Kaffeetassen,Frischgeschiedene,Duschvorhänge,Käse,Brillen,Einen Vorgesetzten,Kinder,Eine Fake-Hochzeit,BHs,Nasen,Zahnbürsten,Goldfische,Katzen,Einen Backofen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

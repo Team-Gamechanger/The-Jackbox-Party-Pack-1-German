@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Wasserparks,Fitnessstudios,Banken,Museen,Tischtennisplatten,Arcadehallen,Kinos,Massagesalons,Statuen,Spielzeugläden,Aussichtstürmen,Paintball-Arenen,WLAN-Hotspots,Softdrinks,Bunkern,Irish pubs,Handys,Fastfood-Läden",
+      "v": "Steuern zu erlassen,Bier zu brauen,Schiffe zu kapern,Sklaven zu befreien,Könige zu ernennen,Feiertage festzulegen,das Wetter zu kontrollieren,Religionen zu gründen,Namen zu ändern,Musik zu zensieren,Preise festzulegen,Duelle zu führen,Bildung abzuschaffen,Straßen zu benennen,Tiere zu domestizieren,Berufe zu verbieten,Wahlen auszusetzen,Militär aufzulösen,Grenzen zu verschieben,Währungen einzuführen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

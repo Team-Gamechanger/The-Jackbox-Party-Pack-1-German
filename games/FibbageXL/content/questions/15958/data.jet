@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "sauren Regen,Staub vom Jupiter,einen radioaktiven Meteoriten,einen abstürzenden Mond der Venus,ein Space-Shuttle-Bauteil,ein Mondkalb,ein Schwarzes Loch,den Nikolaus,einen abstürzenden Satelliten,ein Loch in der Ozonschicht,ein UFO,Venusglitzer,Merkurwolken,den Todesstern,Bienen,radioaktiven Schnee,einen Wetterballon,Konfetti",
+      "v": "ein toter Hund,eine Smartphone-App,ein Geist,ein Teddybär,eine Tanne,ein Skelett,ein Kissen mit Aufdruck,ein Wassertank,ein Poster von Celine Dion,ein Schuh,ein unsichtbares Kaninchen,ein Dinosaurier in einem Museum,Elvis-Imitator,eine Katze,eine Tasche voller Perücken,eine Barbiepuppe,ein Wischmopp mit einer Schürze,ein Haufen schmutziger Unterwäsche",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

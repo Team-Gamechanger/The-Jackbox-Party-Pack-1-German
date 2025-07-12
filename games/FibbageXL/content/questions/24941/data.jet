@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Tintenfischaugen,Walhoden,Katzengehirne,Hummerkot,Otterfüße,Kuhherzen,Baby-Mantarochen,Thunfisch-Darmschleim,Ochsenhaut,verlorene Clownfische,Schmetterlingsflügel,Pferdeleber,imaginäre Fische,Meerjungfrauen,Augenlider eines Schweins,die Gebärmutter eines Delfins,Tintenfisch-Tinte,menschlichen Kot",
+      "v": "menschlichen Haaren,Gummibändern,Spinnenseide,Getränkedosen,alten Handys,Grillen,Einkaufstüten,Bienenstöcken,Büchern,Trockeneis,Fingernägeln,Bierflaschen,Hühnerknochen,alten Gameboys,gebrauchten Geburtstagskarten,DVDs,Socken,Zucker",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

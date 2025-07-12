@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einen Zirkusbären,eine aufblasbare Sexpuppe,ein Skelett,einen Truthahn,eine Fliegengittertür,einen Tischtennistisch,einen Basketballkorb,ein Trampolin,einen Baby-Elefanten,eine Bauchtänzerin,einen Whiskey-Brennkessel,eine Palme,ein Solarium,eine Discokugel,einen Papageien,ein Riesenrad,ein Ballett,einen aufblasbaren Swimmingpool",
+      "v": "Organspenderin,Leichen,Robotor,pinkäugige,Werwolf,Mutter Maria,nach Wurst riechende,Grabräuberin,Heidi Klum,brennende Hexen,Rentnerin,Stefan Raab,Kriegsnarben,dystopische Zukunfts,Massenpanik,Reizdarm-Syndrom,kotzende,Wolverine",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

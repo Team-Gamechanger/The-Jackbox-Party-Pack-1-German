@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Verkleideten Ninjas,Nonnen,Olympia-Athleten,Cosplayern,Mumien,Pantomimen,Samurai,Nudisten,Sushiköchen,Polizeihunden,Parlamentariern,Schauspielern,Einsamen Jackbox-Übersetzern,Familienmitgliedern,Kindern",
+      "v": "pupsen,zu tanzen anfangen,explodieren,weinen,verschwinden,schmelzen,wachsen,schreien,zittern,sich erbrechen,schrumpfen,gelb werden,flüstern,sich ausziehen,wegrennen,ein Lied singen,Gänsehaut bekommen,diesen anstarren",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

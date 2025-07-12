@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "das Streicheln von Katzen,Holzspäne,Kamelspucke,das Schlagen von Sklaven,Rollen im Sand,Hundeohren,das Rauchen von Feigenblättern,Bäder in Tränen,Schlangengift, Asche-Schnupfen,Palmenharz,ein Seifenverbot,Libellenflügel,Bäder im Blut ihrer Feinde,Katzenurin,Fleischhüte,Krokodilsblut,Elfenbein-Injektionen",
+      "v": "Strohmännern,Supermodels,Taschentuchverpackungen,Briefkästen,Schafen,Großmüttern,Fenstern,Zelten,Puppen,Socken,Geldautomaten,Pferden,Hunden,Kaffeekannen,Ziegen,Furbys,Geistern,Furrys,Kaninchen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

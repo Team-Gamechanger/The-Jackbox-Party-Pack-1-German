@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "ihre Mundflora,Käse,Cannabis,Nasenhaar,Bier,Einsamkeit,Raufasertapete,Wasser,Keramik,Unterwäsche,ihre eigenen Haare,Glas,Papier,Paris,Gras,Schokolade,Käse,Lügen",
+      "v": "Erregten Delfinen,Starken Winden,Meeresschildkröten mit Herpes,Der globalen Erwärmung,Möwenangriffen,Riesigen Seeigeln,Beschwerden der nahen Kirchen,Seekühen,Dänischen Perversen,Ufo-Sichtungen,Überraschungs-Beschneidungen,Erfrierungen am Glied,Spermasuchenden Haien,Prüden Bademeistern,Neuer Überwachungskameras,Wiederholter Kinderstreiche,Der Tintenfischpaarungszeit,Neugieriger Narwale",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

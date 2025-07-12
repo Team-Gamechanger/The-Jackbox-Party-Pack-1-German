@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "der Mutter,dem Auto,dem Hund,der heimlichen Geliebten,der Gitarre,dem Schloss,dem Lieblings-Kartenspiel,dem Adoptivsohn,der Katze,dem Sekretär,dem Boot,der Perücke,dem Künstlernamen,der Frau",
+      "v": "eine Atombombe,sein linkes Ohr,seinen Geschmackssinn,Zeit mit seinem Enkel,eine abgelaufene Busfahrkarte,seinen Speichel,seine Haare,den Mond,die Venus,das Mittelmeer,das Lamm Gottes,ein Schwimmbad,ein Katapult,Haferflocken,seine Zehennägel,einen McDonald's-Gutschein,den Atem vom Papst,Bernd das Brot,sein Onlindedatingprofil,seinen Arbeitsplatz",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

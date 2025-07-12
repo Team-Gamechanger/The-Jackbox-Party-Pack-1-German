@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Unterwasserschach,Knöchelknacken,Fallschirmspringen,über das Laufen über Feuer,das Schwertschlucken,Bären-Wrestling,einen Handstand auf Glasscherben,mit Schlangen bedeckt sein,einen Bart aus Bienen,das Sprechen ohne Atmen,Bullenreiten,das Sitzen in einer Badewanne voller Quark,einen Spagat,einen Handstand auf den Daumen,das Halten einer heißen Kartoffel,das Unterdrücken von Gähnen,das Starren ohne zu Blinzeln,das Balancieren eines Besens auf der Stirn",
+      "v": "sein Schwert,seinen Kolostomiebeutel,seine Schrotflinte,sein Einhornkuscheltier,sein Bierfass,seinen Pelzmantel,sein Kind,seine Donuts,sein Auto,seinen Glücksbringer,seine Kamera,sein Tretrad,sein Abendessen,seine Handcreme,seine Oma,seinen schwulen Freund,seinen Baseballschläger,seinen Rasenmäher,seine Frau",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

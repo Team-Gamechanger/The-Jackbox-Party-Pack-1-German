@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Winston Churchills Zigarren,Einem Löffel der Apollo 11,Marilyn Monroes Strumpfhosen,Albert Einsteins Pfeife,Hitlers Rasierer,John F. Kennedys kleinem schwarzen Buch,Einer Toilette aus Alcatraz,Dem ersten Reißverschluss,Dem ersten aufgezeichneten Orgasmus,Einer falschen Mona Lisa,Einem 3 US-Dollar-Schein,Einer antiken Schnabeltasse,Charlie Chaplins leerem Tagebuch,Einer anatomisch korrekten Barbiepuppe,Einem versteinerten T-Rex-Kackhaufen,Einem Mammutbaum,Einem BH aus dem antiken Ägypten,Der ersten Plastikflasche",
+      "v": "Zahnspangen,Arschgeweihe,Kopfhörer,Baseballkappen,Flammentätowierungen,Leuchtflossen,Pornonamen,Hoffnung,Seaworld-Tickets,Warnglocken,Kopfschmerz-Tabletten,kostenlose Mittagessen,Krankenkassenkarten,Kochkurse,weichere Zähne,Selbsthilfekurse,eigene Mixtapes,Brillen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einer Kaffeetasse,einem Gameboy,einer Wassermelone,einer Klimaanlage,einem Pizzastück,einem Smartphone,einer Glühbirne,einem Hamburger,einer Ananas,einer Kreditkarte,einem Flugzeug,einem Toaster,einer Waschmaschine,einem Gummibärchen,einem Rubiks Cube,einer Cola-Dose,einer Münze,einer Flasche,einem Eimer,einem Kopfkissen",
+      "v": "das Alphabet zu rülpsen,in einer Minute zum Orgasmus zu kommen,sich zu übergeben,Physikaufgaben zu lösen,Spanisch lesen,zu furzen,eine Lasagne zu kochen,Deutsch zu sprechen,Florian Silbereisen anzurufen,Filmzitate wiederzugeben,Gedichte zu schreiben,zu kacken",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

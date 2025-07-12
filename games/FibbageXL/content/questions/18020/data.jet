@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "nackt trainiert,laut singt,rückwärts läuft,Alkohol trinkt,barfuß joggt,Käse isst,tanzt,im Regen trainiert,nachts trainiert,Videospiele spielt,Milch trinkt,meditiert,Tee trinkt,Yoga macht,kalt duscht,Musik hört,spät schläft,früh aufsteht,langsam läuft,schnell geht",
+      "v": "Cola Light,Kinder,Kaffeetassen,Garfield-Kalender,Computer,Kaffeemühlen,Mikrowellen,Pokémon-Sammelkarten,Jeansjacken,Kleiderbügel,Kalender,Geschirrspüler,WCs,Tischkicker,Fussballposer,Taschentuchspender,Karten,Brieföffner",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

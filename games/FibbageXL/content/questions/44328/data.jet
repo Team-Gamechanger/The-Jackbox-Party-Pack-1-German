@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Hitzefrei,Indoor-Seilspringen,Filme im Unterricht,Deodorant,coole Autos,Stimmungsschwankungen,Mikrowellenessen,Fast Food,fettige Haare in der Schule,Duschen in Sporthallen,Kaugummi,Jugendsprache,tanzen,das Wort “cool”,Grimassen,Comicbücher,Kugelschreiber in Klausuren,Schulausfälle",
+      "v": "Diebstahl eines Handtasche,Popeln,Kuchen backen,Schneiden ihrer Zehennägel,auf dem Tisch kritzeln,Bügeln,Furzen,Flirten,Spotify hören,Schauen anzüglicher Filme,Sudoku lösen,Schlafwandeln,Unterhosen kaufen,Reinigen ihres Bauchnabels,Fifty Shades of Grey lesen,Tindern,Schminken,Comic lesen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Hinterwäldler,Gamer,Zocker,Leute die Furzen,Fallschirmspringer,Fans von Batman,Cosplayer,Snowboarder,Nudisten,Veganer,Großwildjäger,Briefträger,Tierpfleger,Jockeys,Stenografen,Krankenschwestern,Golfspieler,Floristen",
+      "v": "Hausstaub,den Wind,Mixer,Gedanken,Bananen,Tauben,Hamster,eine Zahnbürste,Ameisen,Wolken,Sandburgen,Geister,Brotkrümel,Hunde,den Stuhlgang,Sonnenbrillen,einen Schnuller",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

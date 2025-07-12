@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "langen Zehennägel,Torwarte,Elfer,Schwerhörigen,Hinterwäldler,guten Tänzer,Schleicher,stinkenden Füße,plötzlichen Wutausbrüche,imaginären Freunde,Teddybären,Blähungen,schlechten Freunde,Kellerkinder,Weißheitszähne,Unordnung,Diabetiker,Aluhüte",
+      "v": "Puppen,Koran-Kopien,Vibratoren,Beinprothesen,Kindern,Taschentücher-Packungen,Plüschtieren,Laptops,iPhones,Unterwäsche,Keksen,Kondomen,Spielzeug,BHs,Leguanen,Kruzifixen,Gemälden von Picasso,Hühnereiern",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

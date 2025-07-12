@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Geburtstagen,zwei Planeten,zwei Wassermolekülen,Greg und David,parkenden Autos,Kontinenten,Paartänzern,Paragraphen,den eigenen Ohren,Badezimmer und Küche,Sätzen,Männern in Whirlpools,Milch- und Nicht-Milchprodukten,den großen und kleinen Organen,den Schneidezähnen,Käsescheiben,Regentropfen,Schmetterlingsflügeln",
+      "v": "Stuhl, Rollstuhl, Tisch, Bett, Sofa, Hut, Socken, Handtuch, Schal, Kissen, Puppen, Stiefel, Handschuh, Kartoffel, Bananen, Wurstbrot, Würfel, Lampen, Nudel, Döner",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

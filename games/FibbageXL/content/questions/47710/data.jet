@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "zum Baby werden,schnell altern,seine Arme abnehmen,Gedanken von Hunden lesen,jeden Tanzschritt ausführen,Krabben beschwören,einen tödlichen Schnurrbart wachsen lassen,jedes Puzzle lösen,seine Vorfahren beschwören,neue Fashiontrends beginnen,seinen Körper verlassen,Herzinfarkte auslösen,alle Uhren stoppen,sich in eine Ente verwandeln,fünf Sekunden in die Vergangenheit reisen,das perfekte Geschenk raussuchen,sich an alle Geburtstage erinnern,den perfekten Kuchen backen",
+      "v": "der Mond,Lord Voldemort,ein Hai,ein Alien,eine Bowlingkugel,ein Türknauf,eine Grapefruit,sein jüngeres Ich,Couscous,ein Muppet,ein Radiergummi,Jason aus Freitag der 13.,Vincent Van Gogh,ein Leopard,ein Otter,ein Gargoyle,eine Schlange,Nosferatu",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

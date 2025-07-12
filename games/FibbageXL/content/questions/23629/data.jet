@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "eine Ente,ein Straßenhund,ein Lampenschirm,eine Zeichentrickfigur,ein Toter,ein Planet,ein Toaster,eine Kuh,ein Fußballmaskottchen,ein vierjähriges Kind,eine Ziege,ein Schimpanse,ein Kuscheltier,ein Verkehrsschild,ein Traktor,ein Sandwich,ein Zufallsgenerator,ein Baum",
+      "v": "rohe Eier,Pferdeaugen,ganze Schweine,Stücke Schwefel,Toilettenrollen,abgeschnittene Fingernägel,Marmorblöcke,Kuh-Lebern,Löffel seines eigenen Blutes,Truthahnfedern,Paar Unterhosen,Goldstücke,Schierlingsbeeren,Walrossdärme,Bananenschalen,Büschel seiner eigenen Haare,Murmeln,Diener",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

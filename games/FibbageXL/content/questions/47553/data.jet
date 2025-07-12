@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "ein eigenes Land,berühmt,dramafrei,nett,die hässlichste Stadt der Welt,aus Gold gemacht,eine Computer-Simulation,völlig autark,das neue Hollywood,nicht entflammbar,aus Schokolade gemacht,die Heimat von Superman,die intelligenteste Stadt der USA,älter als Jesus,immer perfekt temperiert,die Geburtsstätte des Rock & Roll,voller geheimer Vampire,Teil von Kanada",
+      "v": "das Eisbärensterben,die Erderwärmung,die Erdrotation,Ölbohrungen,Bienensterben durch Roboterbienen,das Meckern der Leute,die Sonne vom Scheinen,Meteoriten mit Lasern,jammernde Hippies,SUVs auf den Autobahnen,Massentierhaltung,falsche Mülltrennung,Geländewagen beim Starten,den Drang nach Zigaretten,Styroporpartys,Müllschiffe beim Ablegen,Zahnpasta mit Glitzerpartikeln,Pizzakartons",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Sexspielzeug,Furby,Seepferdchen,Playmobilmännchen,Walbaby,Meerschweinchen,Brautkleid,Trampolin,Zelt,Plüscheinhorn,Wiesbachhorn,Katzenklo,Kugelschreiberset,Maß vom Oktoberfest,Deo,Mikrofon,Autogramm von Barack Obama,Weinglas",
+      "v": "konnte lachen,bellte Wörter,jonglierte,hielt PowerPoint Präsentationen,fuhr Fahrrad,zählte bis zehn,war einfach beeindruckt,faltete Origami,spielte Klavier,musste Steuern zahlen,sprach Deutsch,verstand Poesie,hüpfte immer,konnte seinen Schwanz nachwachsen lassen,liebte Basketball,rauchte,konnte stricken,bellte Lieder",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

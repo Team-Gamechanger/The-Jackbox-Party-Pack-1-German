@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "das Vorspiel,Kerzenziehen,Esssucht,FKK-Strände,Verhütungsmittel,Pfannenwender,Karate,Rauchen,Dinosaurier,Yoga,Bordelle,Flachwitze,den perfekten Pub-Burger,die Flacherde,Tarotkarten,Bier mit Zitronenlimonade,Modestandards in der High School,Meerjungfrauen",
+      "v": "Vizepräsidentin,persönliche Köchin,Chauffeurin,politische Gegnerin,Klavierlehrerin,Hofnärrin,Krankenschwester,Bogenschießtrainerin,Hundesitterin,Studienkollegin,Trainingspartnerin,Masseurin,Pflichtverteidigerin,Leibwächterin,Sicherheitsberaterin,Friseurin,Kabinettsberaterin,Mathe-Nachhilfelehrerin",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

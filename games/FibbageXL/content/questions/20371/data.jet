@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Schlafen,Esssucht,Hip-Hop,Trompeten,Masturbation,Feuerschlucken,Singen,Gymnastik,Breakdance,Strippen,Bauchrednern,Yoga,Lügen,Dosenbier,Glücksspiel,Prostitution,Tortenschlachten,Eichhörnchenjagd",
+      "v": "adoptiert,Millionäre,eigentlich Zwillinge,zu Hause,hochbegabt,unter Hypnose,Schlafwandler,bereits verstorben,erschöpft,Teil eines Regierungsexperiments,blond,muskulös,alt,Träger seltener Gene,in einem Flugzeug,Nachfahren von Adligen,dumm,chronisch müde",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

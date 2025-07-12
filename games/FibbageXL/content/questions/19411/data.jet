@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Gefrorenen Penis,Menschliches Blut,Fliegenlarven,Spülmittel,Kaulquappen,Einen Hühnerschnabel,Einen Gallenstein,Kokain,Lebende Würmer,Eine Hasenpfote,Nacktschnecken,Pferdesperma,Magensäure,Gebratenen Rattenschwanz,Pferdeäpfel,Fleischklöße,Pflanzendünger,Rehzähne",
+      "v": "Der Heirat,Sozialstunden,Einer Geburtstagsfeier,Sex,Einer Beförderung,Seinen Spielschulden,Seiner Schwiegermutter,Einem Fernsehauftritt,Aus einem Gefängnis,Einem Knöllchen,Einem Zahnarztbesuch,Einem Weihnachtsessen,Der Geburt seiner Kinder,der Kastration,Einem Fallschirmsprung,Aus einer Beziehung,Small Talk,Einem Pornodreh",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

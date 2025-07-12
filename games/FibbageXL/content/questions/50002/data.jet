@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Panzertape,Wachs,Gardinen,Gras,Bettlaken,Laub,Kissen,Kassenzetteln,Müll,Briefen,Müllsäcken,Federn,Servietten,Ofenhandschuhen,Plastiktüten,Heftklammern,Tapeten,Socken",
+      "v": "einem Matratzenlager,einem Flugzeugtank,einem Automotor,einem Wasserfall,einer Achterbahn,einem Schweinestall,ihrer Spülmaschine,ihrem Keller,einem Wasserturm,einer Kläranlage,einem Windrad,einem Maislabyrinth,einer alten Kupfermine,einem Koffer,einem Kopfkissenbezug,einer Baumkrone,einem See,einem Tornado,einem U-Boot,einem Standmixer",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

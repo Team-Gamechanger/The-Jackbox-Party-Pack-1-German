@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Puppen,Koran-Kopien,Vibratoren,Beinprothesen,Kindern,Taschentücher-Packungen,Plüschtieren,Laptops,iPhones,Unterwäsche,Keksen,Kondomen,Spielzeug,BHs,Leguanen,Kruzifixen,Gemälden von Picasso,Hühnereiern",
+      "v": "Fingern,Hundepenissen,AAA-Batterien,M&Ms,menschlichen Augenbrauen,Zehennägeln,Goldfischen,Tropfen Blut,rohen Eiern,Seesternen,Diamanten,Giftpilzen,Kakerlaken,Katzenpfoten,Lakritzstangen,Chicken Wings,Maden,Seifenstücken",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

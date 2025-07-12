@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Der Heirat,Sozialstunden,Einer Geburtstagsfeier,Sex,Einer Beförderung,Seinen Spielschulden,Seiner Schwiegermutter,Einem Fernsehauftritt,Aus einem Gefängnis,Einem Knöllchen,Einem Zahnarztbesuch,Einem Weihnachtsessen,Der Geburt seiner Kinder,der Kastration,Einem Fallschirmsprung,Aus einer Beziehung,Small Talk,Einem Pornodreh",
+      "v": "Nonnen,Piraten,den rauchenden Piloten,Pferdeäpfel,eine streunende Katze,ein explodierendes Handy,einen Koala mit Durchfall,einen schmelzenden Nintendo DS,weinende Babys,einen betrunkenen blinden Passagier,einen angeschalteten Toaster,einen Blindgänger,das Eiersandwich des Kopiloten,einen Sodastream,einen Kiffer,eine Heißluftfritteuse,Arnold Schwarzenegger,Mundharmonika-Musik",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

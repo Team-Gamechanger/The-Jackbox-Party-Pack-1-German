@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Gedanken fotografieren,unsichtbare Krankheiten erkennen,bewegte Fotos aufnehmen,Snapchat-Filter lebendig machen,anständige Aufnahmen bei schlechtem Licht machen,verborgene Farben sehen,Verschmutzungsgrade messen,Gerüche reproduzieren,die Zeit anhalten,Erinnerungen aufzeichnen,Flüche aufheben,interdimensionale Signale empfangen,Träume filtern,Spiegelbilder manipulieren,Paralleluniversen scannen,Erinnerungen löschen,Sehschwäche korrigieren,Hunde fliegen lassen",
+      "v": "Thunfisch,Laserstrahlen,Mädchen mit Zöpfen,Möbeln,berühmten Verbrechern,Prominenten,Smartphones,Mäusen,anderen Katzen,Neugeborenen,Diktatoren,Traktoren,wütenden Gesichtern,Katzenminze,Hunden,Katzenklos,Computermäusen,Kastenbrot",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

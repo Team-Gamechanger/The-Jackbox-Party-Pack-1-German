@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Mülltrennung,Kommunalwahlen,das Ehrenamt,Beerdigungen,Geldwäsche,Sonnenbrillen,Leitungswasser,öffentliche Sicherheit,Straßenbau,Windkraftanlagen,Lobbyismus,Datenschutz,Kartelle,Subventionen,den Schutz von Eulen,Katzenhaltung,das Abwassersystem,das Bildungssystem",
+      "v": "einen verlassenen Zirkus,eine unterirdische Bunkeranlage,eine riesige Skulptur aus Gabeln,einen Minigolfplatz,einen alten Schulbus voller Stofftiere,eine vergrabene Zeitkapsel,die Perücke von Donald Trump,fünfundzwanzig Heißluftfritteusen,einen Flugzeugträger,einen ausrangierten Regenbogen-Panzer,einen Haufen Spielautomaten,einen Haufen Bowlingkugeln,eine Bowlingbahn,einen Haufen Einkaufswagen,eine überwucherte Achterbahn,ein altes Atomkraftwerk,ein Kunstwerk aus Autoreifen,einen Teich voller Goldfische",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

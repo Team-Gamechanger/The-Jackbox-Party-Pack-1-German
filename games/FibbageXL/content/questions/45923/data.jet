@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Der Herr der Ringe,Fernsehdokumentationen,Schach,Lesebrillen,Baretts,Espresso,Cafes,Büchereien,das Nachdenken,Enzyklopädien,hypothetische Fragen,Kreuzworträtsel,Karikaturen,Gedichte,Bleistifte,das Internet,Moleküle,Gehirne",
+      "v": "einen Drachenschatz,eine Goldmine,ein Dinosaurierskelett,eine geheime Botschaft,einen antiken Tempel,einen verborgenen Palast,ein Piratenversteck,ein altes Königsgrab,einen römischen Schatz,eine versunkene Bibliothek,eine geheime Gruft,eine heilige Reliquie,eine unterirdische Festung,eine versiegelte Kammer,eine antike Schatzkammer,ein byzantinisches Bad,ein altes Gefängnis,eine Grabkammer,einen Geheimtunnel,eine Höhlenmalerei",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

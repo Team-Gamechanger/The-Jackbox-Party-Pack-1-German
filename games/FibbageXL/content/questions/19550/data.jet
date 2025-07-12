@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Den Schuhen,Der Unterwäsche,Einem Hut,Der Brille,Den Socken,Den Fingernägeln,Den Ohren,Einem Schal,Der Spucke,Dem Hund,Dem Kühlschrank,Der Schwiegermutter,Dem Zahnbelag,Dem Schweiß,Dem Grab,Der Anime-Sammlung,Dem Darm,Dem Aquarium",
+      "v": "Tattoos,Narben,Monobraue,Bauchnabelpiercing,Armbrust,rausgestreckter Zunge,Zahnspange,Badeanzug,Sonnenbrille,Krawatte,Kuhmaske,Kaffeetasse,Mistgabel,Irokesenfrisur,Zylinder,Maschinenpistole,Topfschnitt,Goldkettchen,Sonnenschirm",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

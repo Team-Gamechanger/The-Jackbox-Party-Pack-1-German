@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Küssen des Bodens,Pflanzen einer Kaktee,Das Probekosten,Darauf springen,Darauf pinkeln,Eine Befragung der Nachbarn,Mischen mit Fanta,Das Anstellen von Musik,Zwanzigminütiges backen,Googeln,Das Beobachten von Vögeln,An der Haut reiben,Das Beschütten mit Kamillentee,Das Pflanzen von Knoblauch,Anschreiben der Lokalregierung,Beschmieren mit Sonnencreme,Anschreien,Verteilen von Rotkohlsud,Wurmzählungen",
+      "v": "Alkohol,Gold,Benzin,Uran,Honig,Zucker,Holz,Methan,Kokain,Karamell,Strom,Schnee,Schleim,Perlmutt,Schwefel,Unobtainium,Kupfer,DNA",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

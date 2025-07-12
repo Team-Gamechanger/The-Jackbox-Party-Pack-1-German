@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Vaginas,Herzen,Bienenstöcke,Pfeile,Finger,Katzen,menschliche Köpfe,perfekte Kugeln,Hühner,Schneemänner,Schornsteine,Micky Maus,Schwerter,Katzen,Hintern,gespitze Lippen,Kreuze,Schädel",
+      "v": "Zigarren,Tangas,Antidepressiva,Früchte,Kondome,Wodka,Seetang,Puppen,Zahnspangen,Lollis,Briefmarken,Tintenkiller,Isotonische Getränke,Essbare Buntstifte,Frostschutzmittel,Zahnschützer,Atemalkoholtester,Aspirin",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

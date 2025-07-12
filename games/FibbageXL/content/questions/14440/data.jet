@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Hosen,Schlüsseln,Toilettensitzen,Glühbirnen,Wäscheklammern,Korkenziehern,Würmern,Mais,Fahrradhelmen,Radiergummis,Teebeuteln,Einkaufswagen,Briefen,Weckern,Waffeln,Handys,Vorhängeschlössern,Liebesbriefen",
+      "v": "Bart,Brrrrr,Bla Bla Bla,Name,Thomas,Rick,Steve,Yorg,Sven,Olaf,Linda,Björn,Elisabeth,Elischa,John,Kevin,Brido,Qerlin",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

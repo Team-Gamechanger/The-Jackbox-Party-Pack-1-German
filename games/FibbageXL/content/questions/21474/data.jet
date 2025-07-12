@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "zum Meme geworden,tot,unwissentlich verheiratet,ein Roboter,ein Doppelgänger eines Prominenten,als Schauspieler gecastet,ein Mafiaboss,angeblich ein Spion,Lottogewinner,ein bekannter Influencer,ein berühmter Sänger,ein Kunstdieb,ein berühmter Stuntman,der Gründer einer Sekte,ein verlorener Königssohn,ein Topmodel,Bankrott,Poetry-Slammer",
+      "v": "Steakmesser,BHs,EC-Karten,Parfüm,Handtaschen,Laptops,Motorräder,Pfefferspray,Fallschirmsprünge,Wein,Make-up,Schlagringe,Tangas,Pistolen,Taschenmesser,Viagra,Deodorant,Goldzähne",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

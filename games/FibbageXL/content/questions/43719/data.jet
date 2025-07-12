@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Dosensuppen,lebenden Schlangen,Bechern mit Urinproben,Kaffeetassen,Sabd,altbackenem Brot,Wurfsternen,kostenlosen Kugelschreibern,Quittungsrollen,Lasagne,Aktenordnern,Skorpionen,Lochern,Kaugummi,Fleischklopfern,Macarons,Holzlöffeln,Schlagsahne",
+      "v": "Tulpen,Energydrinks,Emo-Rock,Paprika,Ukulelen,Stuntmen,Dichtern,Pommes,Fußballern,Bleistiften,Speck,Armbanduhren,Donutlöchern,Go-Karts,Jonglierern,Flip-Flops,Clowns,Haustierschlangen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

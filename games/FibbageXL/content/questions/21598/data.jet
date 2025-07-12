@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "sein Lenkrad,die Seele,den Bart,sein Toupet,den Lufterfrischer,eine ABBA-Kassette,dasTestament,seinen Willen zu Leben,die Colaflasche,einen Audioguide für das Louvre,zwei Kindersitze,ein Taschenmesser,das Familien-Keksrezept,die Filmidee,27 Träume,das Luftgitarrensolo,das Rezept für Crystal Meth,den Nachnamen",
+      "v": "einem falschen Feuer,Popeye,einem großen Hai,Superman,einem glitzernden Wikingerschiff,einem Mittelfinger,einem Seemonster,einem wütenden Wikinger,Gott,einer blinkenden Atombombenwarnung,einem mahnenden Totenkopf,einem sexy Hirsch,ABBA,einem gespenstischen Geisterschiff,einem riesigen Stoppschild,einem riesigen Hintern,Thor,einem feuerspeienden Drachen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Gold,ein Haus,einen Hahn,eine Klimaanlage,eine Frau,Bier,einen Diamanten,eine persönliche Assistentin,ein Auto,eine Massage,Schmuck,Schuhe,Geld,Konzerttickets,eine eigene Radiosendung,einen Fernseher,ein Handy,ein Pferd",
+      "v": "Babys,Tote,Hunde,Katzen,Mäuse,Astronauten,Nonnen,Geister,Schwangere,Fische,Gefängnisinsassen,Piraten,Wassermelonen,Puppen,Hasen,Elfen,Gewichtheber,Sumoringer",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Pornografie,Masturbation,Schwangerschaft,Analsex,Tangas,öffentlicher Nacktheit,Alkohol,Sexting,Viagra,High Heels,Skinnyjeans,Parfüm,Schlagsahne,Brustimplantaten,Küssen in der Öffentlichkeit,Maskenbällen,Bordellen,Sonnenstudios",
+      "v": "unter Fingernägeln,an Dienstagen,in Pandaaugen,bei Vollmond,in der Nähe von Schaffarmen,von Spinnen,auf dem Mars,von Spargel,auf dem Mount Everest,unter Fahrradsitzen,in Wäschetrocknern,auf geklonten Ratten,auf Eisbergen,auf Schweinezungen,auf Flöhen,auf Yogamatten,in Straßenlaternen,in Fernsehern",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

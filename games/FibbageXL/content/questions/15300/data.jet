@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "aromatisierte Asche,Hautflocken,Wimpern,Tränen,abgetrennten Daumen,Weisheitszähnen,Lippen,verlorenem Ehering,Augäpfeln,kleinem Zeh,weißen Blutkörperchen,Katze,entfernter Warze,Klavier,Fingernagelresten,Gehirn,Perücke,dreckigen Socken",
+      "v": "Schwimmweste,Fallschirm,Schuh,Notration,Geldbeutel,Kugelsichere Weste,Socke,Defibrillator,Telefon,VR-Brille,Rucksack,Spionagekamera,Aktentasche,Gettoblaster,Müslischüssel,Wassersieb,Granate,Bierzapfanlage",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "erstickte an einem Stück Kuchen,ertrank in einer Pfütze,spielte Golf,fiel durch einen Gullideckel,sang “Happy Birthday”,fiel von einem Gartenstuhl,verbrühte sich mit Tee,verlor das Gleichgewicht beim Zeitungslesen,erschlug sich selbst,trat auf einen Nagel,verschluckte seinen Zahnstocher,leckte an einem Giftfrosch,verschluckte sich an einer Murmel,verirrte sich in seinem Garten,stieß sich den Kopf am Türrahmen,erlag einem Schluckauf,hat zu viel geschlafen,hat sich im Auto eingeschlossen",
+      "v": "Weißwein zu schnupfen,Aspirin zu nehmen,Grünkohl zu essen,heiß zu duschen,Liegestütze zu machen,Stepptanzen zu müssen,Falsett zu singen,mit dem Rad zu fahren,Zigarren zu rauchen,Vögel zu füttern,Gas einzuatmen,12 Stunden zu schlafen,zu rennen,Milch zu trinken,in Whisky zu baden,zu schwimmen,zu niesen,in die Sonne zu starren",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Luftpolsterfolie ploppen,an Fitness denken,Tischtennis spielen,jodeln,vor dem Spiegel weinen,Schinken essen,Hühner jagen,nichts essen,lachen,kuscheln,Kekse backen,ihre Haare kämmen,literweise Vollmilch trinken,Haareschneiden,Urlaubsgeschichten erzählen,Reise nach Jerusalem spielen,schreien,Eisskulpturen bauen",
+      "v": "Küssen des Bodens,Pflanzen einer Kaktee,Das Probekosten,Darauf springen,Darauf pinkeln,Eine Befragung der Nachbarn,Mischen mit Fanta,Das Anstellen von Musik,Zwanzigminütiges backen,Googeln,Das Beobachten von Vögeln,An der Haut reiben,Das Beschütten mit Kamillentee,Das Pflanzen von Knoblauch,Anschreiben der Lokalregierung,Beschmieren mit Sonnencreme,Anschreien,Verteilen von Rotkohlsud,Wurmzählungen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

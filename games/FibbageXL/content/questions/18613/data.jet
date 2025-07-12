@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "versteinerter Big Macs,angeknabberter Currywürste,politischer Anstecker,vergessener Socken,Museumsmäuse,verbeulter Blechdosen,DDR-Souvenirs,Sprühkäse,Foto-Toilettensitze,an Computerviren,vergessener Handyladekabel,Zinsoldaten,kurioser Postkarten,an UFO-Fotos,bizarrer Fahrradteile,Pausenbrotdosen aus den 80ern,anzüglichen Weihnachtsbaumschmucks,Briefmarken von Mikronationen",
+      "v": "eine Ente,ein Straßenhund,ein Lampenschirm,eine Zeichentrickfigur,ein Toter,ein Planet,ein Toaster,eine Kuh,ein Fußballmaskottchen,ein vierjähriges Kind,eine Ziege,ein Schimpanse,ein Kuscheltier,ein Verkehrsschild,ein Traktor,ein Sandwich,ein Zufallsgenerator,ein Baum",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

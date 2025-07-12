@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Politiker,Marmelade,James Bond,Idioten,Handwerker,Günther Jauch,Videospielfiguren,Mülltüten,Autos,Horst Lichter,Pferdeäpfel,Brötchen,Super Mario,Bäume,Marienkäfer,Hunde",
+      "v": "alten Socken,Katzenstreu,Zigarettenstummeln,Kaugummi,Bananenschalen,Kaffeesatz,Hundekot,Fingernägeln,Ohrenschmalz,Zahnstein,Schuppen,abgelaufenem Joghurt,verschimmeltem Brot,Staubmilben,Toilettenpapier,Seifenresten,Wattestäbchen,Windeln,Katzenhaar",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

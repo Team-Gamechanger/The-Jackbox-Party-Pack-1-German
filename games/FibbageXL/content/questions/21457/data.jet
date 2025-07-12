@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Kinder,Mormonen,Rowdies,geschiedene Väter,Polizisten,Praktikanten,Mütter,Geschäftsführer,Lehrer,Serienmörder,Rechtsanwälte,Zahnärzte,die Briten,Fabrikarbeiter,Tierhändler,Sekretärinnen,romantische Komödienliebhaber,Musikkritiker",
+      "v": "in den Anden überleben,ein Reh füttern,das Haus tapezieren,in Babysprache sprechen,Französisch lernen,Filme anschauen,ein Auto reparieren,ins Weltall fliegen,einen Babyschimpansen großziehen,ein Flugzeug fliegen,Monopoly spielen,nur blaue Sachen verwenden,eine Maus jagen,ein Wochenende im Dschungel verbringen,ein Bootcamp durchstehen,für ihre ganze Familie kochen,einen Roboter bauen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

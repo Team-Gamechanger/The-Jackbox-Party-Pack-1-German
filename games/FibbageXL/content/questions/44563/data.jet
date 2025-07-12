@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einem Verkehrsschild,einer Katze,Trockeneis,einem Space Shuttle,Autoabgasen,einem Kaktus,Klapperschlangen-Gift,Senfgas,der Sonne,einem Flammenwerfer,dem Atem eines Feuerschluckers,Reibung,Feuerwerk,einer Kanone,seinen Gedanken,einem Laser,einem Vulkan,dem Magnetfeld der Erde",
+      "v": "eine Fluchtklappe,Nahrungsmittel,einen Welpen,eine Krone,einen Dildo,eine Schokoladentafel,einen seltenen Edelstein,das Skelett eines Hahns,ein Kuchenrezept,einen Geist,ein Gemälde von Da Vinci,einen Sexratgeber,Haustürschlüssel,ein Korsett,eine Zigarette,eine Tretmine,eine Schatzkarte,eine Affenpfote",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

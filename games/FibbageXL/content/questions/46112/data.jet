@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Grabsteinen,Spitzenpolitikern,Pizzatoppings,Männern namens Tobias,Vine-Stars,den Minions,Disney-Prinzessinen,Toilettenpapier,Selfies,Vampiren,Donuts,Muppets,imaginären Freunden,Hühnchen,Zootieren,Bäumen,Briten,Socken",
+      "v": "Stuntman, Zauberer, Kampfsport, Yoga, Meditation, Jonglier, Akrobatik, Parkour, Schwimm, Kunst, Breakdance, Model, Poetry-Slam, Taucher, Rennfahrer, Schach, Gesangs, Schauspiel, Ballett, Fechten",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

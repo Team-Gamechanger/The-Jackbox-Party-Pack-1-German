@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Kleidung zu trocknen,Schweine zu füttern,Käse herzustellen,Diebe zu fangen,Hühnereier auszubrüten,sich zu waschen,Farbe aufzurühren,Samen auszustreuen,Wasser zu pumpen,Getreide zu mahlen,schneller zu essen,seine Zähne zu putzen,Butter zu stampfen,Waschbären zu verscheuchen,Messer zu werfen,die Flagge zu hissen,Steine zu säubern,Orangensaft zu pressen",
+      "v": "betrunkener Teenager,Hinterwäldler,Nudisten,Vogelscheuchen,Vampirfledermäuse,Freimaurer,Harry-Potter-Fans,Politiker,verliebter Pärchen,radioaktiver Hirsche,Jonglierer,Labyrinthe,Maler,riesiger Hasen,Weltkriegsbomben,Drogendealer,Tunnel der Mafia,Bauern",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

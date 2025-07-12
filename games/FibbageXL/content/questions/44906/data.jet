@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "höfliche Schilder,Giftstacheln,Wespenstöcke,Stachelschweine,Hundekotbeutel,Schreckschusswaffen,Müllhaufen,giftige Schlangen,tödliche Krankheitserreger,Boden-Luft-Raketen,Bumerangwerfer,Fotos von Blinddarmoperationen,Pfefferspray,rostige Nägel,Maschinenpistolen,Bibeln,Elektrozäune,tote Fische",
+      "v": "gerettete Pitbulls,Ärzte,Amerikaner,Hologramme,Doubles von Will Smith,Männer namens Alexei, Menschen mit sechs Fingern,seine Verwandten,unhöfliche Roboter,Hippies,Einhörner,Kobolde,Lemuren,Australier,Meerjungfrauen,Marsianer,Blinde,Witwen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

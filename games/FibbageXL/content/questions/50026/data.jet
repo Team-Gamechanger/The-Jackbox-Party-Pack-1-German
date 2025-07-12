@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "ihr Gartenzwerg,ihre Niere,ihre Veranda,ihr Kind,ihr Dach,ihre Panzerfaust,ihre Weihnachtsdekoration,ihre Hollywoodschaukel,ihre Haustür,ihre Seele,ihre Fußmatte,das Grab ihrer Großmutter,die Rasensprengeranlage,ihr Whirlpool,ihre Urinprobe,die Seitenwand,ihr Muttermilchvorrat,ihr Hundehäuschen",
+      "v": "einem Baumstamm,einem Schlafsack,einem Kleiderbügel,einem Pfandautomaten,einem Hundehaus,seinem Briefkasten,einem Vogelhaus,einem Tresor,einem Aquarium,einem Gymnastikball,einem Schuhkarton,einer Regentonne,einem Dönerhalter,einer Trompetenöffnung,einem Würstchenglas,einer Nudelrolle,seinem Kleiderschrank,seinem Kamin",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

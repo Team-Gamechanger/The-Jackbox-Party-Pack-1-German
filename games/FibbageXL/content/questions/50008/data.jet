@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "kriminell,Sexualstraftäter,minderjährig,Terrorist,Rassist,eine Hexe,Priester,millionär,Hinterwälder,ein Betrüger,Prominenter,Spion,ein schlechter Küsser,ein schlechter Liebhaber,Polizist,Koch,Royal,Untreu",
+      "v": "25-Teller-Nudelessen,Sackhüpf,Katzentrainings,Kuchenback,Schrei,Telefonier,Schönheits,Foto,Rennfahr,Schnelltippen,Bügel,Tieftauch,Schlagzeug,Busfahr,Wrestling,Stepptanz,Trompetenbau,Wäsche zusammenfalten,Fibbage,Reise",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

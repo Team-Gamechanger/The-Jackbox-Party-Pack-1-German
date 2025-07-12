@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "pupsen,zu tanzen anfangen,explodieren,weinen,verschwinden,schmelzen,wachsen,schreien,zittern,sich erbrechen,schrumpfen,gelb werden,flüstern,sich ausziehen,wegrennen,ein Lied singen,Gänsehaut bekommen,diesen anstarren",
+      "v": "Fremden aus dem Internet,Postboten,Sich selbst,Werwölfen,Fans von Justin Bieber,Geburtstagsclowns,Roboter,Tollwütigen Waschbären,Den eigenen Kindern,Wütenden Ziegen,Sekten,Finanzhaien,Drohnen,Bigfoot,Abhörung,Flyerverteilern,Ninjas,Radiomoderatoren",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

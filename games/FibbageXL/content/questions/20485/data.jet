@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Salamander,Norweger,Kothaufen,Klaviere,Zahnpastatuben,Kaulquappen,Lady Gaga Fans,Tamagotchis,Oreo Kekse,Bauchtaschen,Sport-BHs,Zehennagelscheren,Glückskekse,Lamas,Eisbären,Einwegfeuerzeuge,Klobürsten,leere Kisten",
+      "v": "brennt,einen Esel küsst,schläft,Suppe kocht,einen Daumen nach unten zeigt,Sex hat,seine Zunge zu Jesus rausstreckt,eine Ziege schlachtet,Kekse bäckt,in der Nase bohrt,in seinen Schritt greift,seine Zähne putzt,Seifenblasen bläst,eine Kuh melkt,sich rasiert,ein Schwein malt,eine Steinschleuder abfeuert,Dame spielt",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

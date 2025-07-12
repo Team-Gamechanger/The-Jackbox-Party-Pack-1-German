@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Diebe,Royals,Mörder,Wahnsinnige,Landwirte,Wikinger,Iren,Soldaten,Lehrer,Mumien,Ärzte,Zuwanderer,Priester,Musiker,Leprakranke,Arme,Politiker,Aliens",
+      "v": "ihn hasst,ihn als Erstes gesehen hat,sein Kleinkind mitbrachte,sich übergeben musste,bis zum Ende dranbleibt,ihn vollständig zitieren kann,einen besseren Film drehen kann,einen seltenen Gendefekt hat,während der Vorführung heiratet,ihn bei einer Hochzeit vorführt,ihn an Halloween anschaut,sich in einen Vampir verwandelt,einen Geist gesehen hat,einen Werwolf tötete,den Film verflucht hat,den Film boykottiert,sich als Skelett verkleidet,das Ende vorher errät",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

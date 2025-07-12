@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Garnelen,Bärenpenis,Dynamit,Fisch,Pferdezähnen,Sprengstoff,Kaugummi,Knorpeln,Zement,getrocknetem Hundekot,Uran,Schleim,Menschenknochen,Menschenhaar,Teppichen,alten Kronkorken,Augenbrauen,Maissirup mit hohem Fructosegehalt",
+      "v": "Bergsteiger,Soldaten,Heimkakteen,Roboter,Milchkühe,Gartenzwerge,Sternsinger,Staatsoberhäupter,Chihuahuas,Störche,Kakerlaken,Senioren,Nilpferde,Die Ohren,Kommunisten,Pikachu-Plüschtiere,Baustellen,den Einmalgebrauch,Bienen,den Kopf",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Benutzter Seife,Knete,Toten Insekten,Shampoo,Eiscreme,Popeln,Ihren Tränen,Bier,Fischeiern,Kakerlakenmilch,Entenfedern,Diesel,Lampenöl,ihrem Blut,Kaffee,ihrer Muttermilch,Schweiß,Zehennägeln",
+      "v": "Harry Potter,Daniel Düsentrieb,Anakin Skywalker,Star Trek,Link,Captain Morgan,Barbie,Inspektor Gadget,Weihnachtsmann,Deadpool,Bart Simpson,Uncharted,Gummibärchen,E.T.,Captain America,Shakira,Batman,Fozzie Bär",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

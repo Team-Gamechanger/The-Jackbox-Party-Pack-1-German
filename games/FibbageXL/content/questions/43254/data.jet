@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einem Flammenwerfer,Samurai-Schwertern,einem Zauberstab,einem Gameboy Color,Bumerängen,einem Hasenkostüm,einem “Umarme mich”-Schild,einer Heißluftfritteuse,einer Nagelschere,Laser Pointern,einer Machete,einem magischen Amulett,Boden-Luft-Raketen,einer Ente,einer Süßigkeitenbox,einer Kettensäge,einem Dosenöffner,einer rosa Handgranate,einem Einhornkostüm,einer Pride-Flagge,einer Heißklebepistole",
+      "v": "Limonade,Parfüm,Filzstifte,ein Auto,Müsli,Katzenstreu,einen Lufterfrischer,ein T-Shirt,Salat,einen Sportbeutel,Schuhe,Bettwäsche,Haargel,ein Spülmittel,einen Geldbeutel,Taschentücher,eine Zahnpasta,Kopfkissen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

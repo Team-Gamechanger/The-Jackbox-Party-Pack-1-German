@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Stuhl, Rollstuhl, Tisch, Bett, Sofa, Hut, Socken, Handtuch, Schal, Kissen, Puppen, Stiefel, Handschuh, Kartoffel, Bananen, Wurstbrot, Würfel, Lampen, Nudel, Döner",
+      "v": "Esel,Laib Brot,Beutel mit Kerzen,Sitzsack,Marshmallow,Haufen von toten Bauern,Lamm,Walnussvorrat,Kürbis,Kronleuchter aus Holz,Krug mit Schmalz,Hüpfburgschloss,Kartoffelsack,Sandsack,Pferdeapfel,1. Testament,Teigwarenvorrat",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

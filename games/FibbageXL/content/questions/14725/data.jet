@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "die Dorfhexe,eine lebende Zeitkapsel,eine Ente,eine Schaufensterpuppe,eine professionelle Kuhflüsterin,eine Drittklässlerin,eine Statue,ein Baum,eine pensionierte Stierkämpferin,eine Astronautin,die selbsternannte Alien-Botschafterin,die Dorfuhr,die Erfinderin des Heugabel-Yoga,die Weltmeisterin im Mäusemelken,Kuh-Übersetzerin,eine Bauchrednerpuppe,Weltrekordhalterin im Maiskolben-Weitwurf,die örtliche Wahrsagerin",
+      "v": "Eine Bong,Eine Pistole,Eine Machete,Eine Crackpfeife,Ein Theremin,Ein Furzkissen,Ein Handy,Ein ferngesteuertes Spielzeugauto,Seine Playstation 3,Einen MP3-Player,Eine Espressomaschine,Eine Datingseite,Einen Gameboy,Eine Mikrowelle,Eine Röntgenbrille,Einen Rückenkratzer,Pornoseiten,Einen Handstaubsauger",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

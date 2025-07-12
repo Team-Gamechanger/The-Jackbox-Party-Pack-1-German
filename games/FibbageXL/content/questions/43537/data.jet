@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Menschen in Finnland und den USA,Senfsorten,Länder,Krankheiten,Bücher,Fernsehsendungen,Videospiele,Kuchen,Flugzeuge,Boote,Menschen mit deutschen Nachnamen,McDonalds,Uhren,Fußballfans,Professoren,Musiker,Wolkenkratzer,Ratten",
+      "v": "Winston Churchills Zigarren,Einem Löffel der Apollo 11,Marilyn Monroes Strumpfhosen,Albert Einsteins Pfeife,Hitlers Rasierer,John F. Kennedys kleinem schwarzen Buch,Einer Toilette aus Alcatraz,Dem ersten Reißverschluss,Dem ersten aufgezeichneten Orgasmus,Einer falschen Mona Lisa,Einem 3 US-Dollar-Schein,Einer antiken Schnabeltasse,Charlie Chaplins leerem Tagebuch,Einer anatomisch korrekten Barbiepuppe,Einem versteinerten T-Rex-Kackhaufen,Einem Mammutbaum,Einem BH aus dem antiken Ägypten,Der ersten Plastikflasche",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

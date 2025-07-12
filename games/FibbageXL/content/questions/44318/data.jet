@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Whiskey,harte Drogen,Hyperventilations-Tüten,Lachgas,Taschentücher,Flugtickets,Kopfhörer,Videospiele,Ritterrüstungen,Schilde,Guinness-Bier,Guinness,Bibeln,Fish and Chips,Beruhigungspillen,Einwanderungsformulare,Boxsäcke,Pornos",
+      "v": "schlechten Atem hat,langweilig ist,schmatzt,hässliche Flossen hat,kannibalische Tendenzen hat,große Zähne hat,ein kleines Blasloch hat,kopfüber schwimmt,voller Seepocken ist,blind ist,sehr verspielt ist,ungewöhnlich schwimmt,nett zu Menschen ist,aggressiv ist,süchtig nach Krabben ist,andauernd furzen muss,gerne Seifenblasen macht,zu langsam schwimmt",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

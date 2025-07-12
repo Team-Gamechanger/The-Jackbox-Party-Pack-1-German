@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einer Modelleisenbahn,einer Mumie,einem Traktor,einem Wildschweinrudel,einem goldenen Besen,einer Villa,Löwen,einer Laserpistole,einer Granate aus dem Zweiten Weltkrieg,einem Buch über Schauspiel,einem Raumschiff,einem zwei Meter Bleistift,einem diamantbesetzten Diadem,einem Gameboy,einem Kürbistransporter,einem Milchbetrieb,einem UFO",
+      "v": "Stoppuhr,Funkgeräte,Kompass,GPS-Tracker,Pulsmesser,Thermometer,Wasserwaage,Bluetooth-Lautsprecher,Zahnarztterminplaner,Smartphones,Miniatur-Kameras,Trillerpfeife,Schrittzähler,Luftfeuchtigkeitsmesser,Funkchips,Höhenmesser,Powerbanks,Notrufknöpfe",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

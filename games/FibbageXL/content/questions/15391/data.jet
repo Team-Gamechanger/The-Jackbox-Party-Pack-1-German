@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "alte Männer,Schaufensterpuppen,Papageien,Leichen,Vogelscheuchen,Auberginen,Ratten,Babys,Geister,Vierzehnjährige,Katzen,Stühle,Hexen,Kühe,Riesen,Stechpalmen,Dackel,Lehrer",
+      "v": "Schlafen,Esssucht,Hip-Hop,Trompeten,Masturbation,Feuerschlucken,Singen,Gymnastik,Breakdance,Strippen,Bauchrednern,Yoga,Lügen,Dosenbier,Glücksspiel,Prostitution,Tortenschlachten,Eichhörnchenjagd",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Eine Bong,Eine Pistole,Eine Machete,Eine Crackpfeife,Ein Theremin,Ein Furzkissen,Ein Handy,Ein ferngesteuertes Spielzeugauto,Seine Playstation 3,Einen MP3-Player,Eine Espressomaschine,Eine Datingseite,Einen Gameboy,Eine Mikrowelle,Eine Röntgenbrille,Einen Rückenkratzer,Pornoseiten,Einen Handstaubsauger",
+      "v": "lecker,vegan,koscher,gratis,unsichtbar,mit Schokolade überzogen,ohne Käse,in Schweden illegal,dreieckig,Big Macs,auf dem Mars erhältlich,doppelt so groß,nicht mehr erhältlich,leuchtend im Dunkeln,nur noch virtuell,mit Gold belegt",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

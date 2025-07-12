@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Scheidung,Überdosis,Ungewollte Schwangerschaft,Börsencrash,Einzug in den Krieg,Ermordet,Verwitwet,Lepra,Cholera,deceitful butler,Die Treppe heruntergefallen,fitful spasm,dog murder,Demenz,Vermisstes Kind,Ertrinken,Weinender Geist,spontane menschliche Selbstentzündung",
+      "v": "auf Katzen schießen,Mäntel verbrennen,Lumpen anziehen,Käfer verspotten,Schwerter schlucken,Kühe rasieren,Häuser mit Eiern bewerfen,Kleidung verkehrt tragen,nackt ringen,Kauderwelsch reden,Waisenkindern Münzen zuwerfen,Maisfelder anzünden,an Schlangen lecken,in Teer baden,Rote Bete verschenken,den ganzen Tag nur Pilze essen,Schneemänner küssen,sich Blau anmalen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

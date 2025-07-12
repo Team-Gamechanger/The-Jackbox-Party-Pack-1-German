@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "schlechten Atem hat,langweilig ist,schmatzt,hässliche Flossen hat,kannibalische Tendenzen hat,große Zähne hat,ein kleines Blasloch hat,kopfüber schwimmt,voller Seepocken ist,blind ist,sehr verspielt ist,ungewöhnlich schwimmt,nett zu Menschen ist,aggressiv ist,süchtig nach Krabben ist,andauernd furzen muss,gerne Seifenblasen macht,zu langsam schwimmt",
+      "v": "Reis,billigen DVDs,Gürteln,Telefonbüchern,Darts,Hotdogs,Glasscherben,Pferdehaaren und Kaugummi,Batterien,Hirschgeweihen,Vogelfutter,Fischgräten,Kassenzetteln,Taschentüchern,Asche,benutzter Unterwäsche,Knallfröschen,Nussschalen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

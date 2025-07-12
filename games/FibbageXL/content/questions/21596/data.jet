@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Eine Gitarre,Eine Bank,Eine Vogelscheuche,Eine Scheune,Eine Schule,Eine Bratwurst,Ein Bier,Eine Statue,Ein Kind,Eine Wurst,Eine verlassene Kirche,Ein Album der Beatles,Eine Pfandflasche,Eine Mülltonne",
+      "v": "schwarze Kleidung tragt,gerne Zehen leckt,Kamele trainiert,Gehirne operiert,tote Sprachen studiert,euch weigert erwachsen zu werden,Hellseher aufsucht,verdorbenes Essen esst,nie badet,Sex aus dem Weg geht,Popel esst,mit Toten redet,einen Putzfimmel habt,nur Baumrinde esst,Blut trinkt,Ohrringe tragt,an griechische Götter glaubt,Termiten esst",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

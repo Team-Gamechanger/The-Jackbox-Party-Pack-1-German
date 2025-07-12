@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Hintern,Affen,Schmerz,Lollipop,Hummer,Thors,Atlantik,Würstchen,Marihuana,Lisas,Socken,Weißer,Thomas',Mörder,Urin,Säure,Ratten,Ketten",
+      "v": "Drehbücher entwerfen,Schlagworte verwenden,Pilze mögen,Aktien kaufen,Marzipan fressen,Gold mögen,in Badezimmer gehen,streiten,ihr Haar frisieren,ihre Freunde nerven,gruselige Filme anschauen,ihre Gesichter zerkratzen,Stimmen hören,Rätsel lösen,sich zu Tode rennen,fliegen,im Schlaf schreien,Selbsthass entwickeln",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

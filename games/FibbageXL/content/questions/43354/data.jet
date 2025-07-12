@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "alten Bunkern,verlassenen U-Bahn-Tunneln,Zahngold amerikanischer Bürger,Elektronikschrott,Mount Rushmore,Area 51,ausgedienten Satelliten,den Tresoren der Vatikanbank,Teddybären,ungeöffneten Pokémon-Karten,ausrangierten U-Booten,Schweizer Käse,Disney-Freizeitparks,verlorenen Flugzeugen im Bermuda-Dreieck,Fast-Food-Fritteusen,alten Matratzen,Nordkorea,amerikanischen Schulgebäuden",
+      "v": "eigenen Kot essen,ihren Zwilling töten,explodieren,bis zum Tod niesen,sich mit sich selbst paaren,ihr Inneres nach außen kehren,eine zweite Vagina erhalten,Stacheln bekommen,masturbieren,Gold erbrechen,ihr Hirn essen,ihre Zunge verschlucken,Säure bluten,Albträume bekommen,ihre Kinder essen,einen zusätzlichen Kopf bekommen,sich tot noch fortpflanzen,sich klonen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

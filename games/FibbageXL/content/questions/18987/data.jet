@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Game of Thrones,Elvis,Zyklopen,Kakteen,Anglerfische,Stefan Raab,Pudding,Mülltonnen,Bergsteigeroutfits,Bauchrednerpuppen,Zahnärzte,Eiswürfel,Steuerberater,Illuminaten,Candy Crush,Operationen,U-Boote,Telefonzellen",
+      "v": "Seinem BH,Seinem Glasauge,Seinem Bauchnabel,Seinen Handschuhen,Seinem Rucksack,Seinen Dreadlocks,Seinem Katheter,Seiner Waffe,Seiner Zahnfüllung,Seinem aufgeklebten Bart,Seinem Toupet,Seiner Lunge",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

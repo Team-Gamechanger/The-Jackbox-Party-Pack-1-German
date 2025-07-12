@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "lecker,vegan,koscher,gratis,unsichtbar,mit Schokolade überzogen,ohne Käse,in Schweden illegal,dreieckig,Big Macs,auf dem Mars erhältlich,doppelt so groß,nicht mehr erhältlich,leuchtend im Dunkeln,nur noch virtuell,mit Gold belegt",
+      "v": "Schwiegermüttern,wütenden Eichhörnchen,Werwölfen,Toden in Videospielen,Geistern,Meerjungfrauen,Terroristen,Verkehrsunfällen mit dem Weihnachtsmann,Animatoren,Gedankenkontrolle,Kometen,stinkenden Socken,Ex-Liebhabern,Jo-Jo-Unfällen,Einsamkeit,Superbösewichten,Zeus,Zeitreisenden",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

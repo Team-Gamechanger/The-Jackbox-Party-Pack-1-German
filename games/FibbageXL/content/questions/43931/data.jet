@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "eine Villa,ein Autokino,ein Casino,einen UFO-Landeplatz,einen Freizeitpark,ein Bällebad,einen Golfplatz,ein Hard Rock Cafe,eine Autowaschanlage,eine U-Bahn-Station,ein Segelboot,ein Krankenhaus,eine Nachbildung des Eiffelturms,eine riesige Schere,ein Blumenbeet,einen Strand,eine Keksfabrik,eine Seilbahn",
+      "v": "vergorene Milch trinken,Schokolade essen,Theaterstücke besuchen,tanzen,Schnurrbart tragen,Hunde besitzen,Liebesromane lesen,Strohhüte tragen,Seide tragen,schnipsen,Italienisch sprechen,ihre Wände “cremeweiß” streichen,Spiegel besitzen,Schach spielen,Bier brauen,auf dem Bauch schlafen,ihre Haare zu zöpfen binden,Gabeln besitzen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Weißwein zu schnupfen,Aspirin zu nehmen,Grünkohl zu essen,heiß zu duschen,Liegestütze zu machen,Stepptanzen zu müssen,Falsett zu singen,mit dem Rad zu fahren,Zigarren zu rauchen,Vögel zu füttern,Gas einzuatmen,12 Stunden zu schlafen,zu rennen,Milch zu trinken,in Whisky zu baden,zu schwimmen,zu niesen,in die Sonne zu starren",
+      "v": "das Autofahren,die Verwendung von Bing,Mathe,Rückwärtssaltos,die Smoothie-Zubereitung,Staffellauf,Mah-Jongg,das Weinen,Telepathie,Tetris,das Streichen,das Anziehen von Hosen,das Notenlesen,das Haareschneiden,das Tanzen,Spanisch,Selbsthass,das Kochen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

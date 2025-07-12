@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Kristallen,Zauberen,Büffeln,Wölfen,Bettlaken,Früchten,der Sphynx,Autos,Schaufensterpuppen,Avataren,Sims,Pornos,Piraten,Hydranten,Honigmelonen,Einhörnern,Kentauren,Aliens",
+      "v": "McDonald's,Gefängnis,Schlachthaus,Bordell,Supermarkt,Zirkus,Comedyclub,Flughafen,Nagelstudio,Escape Room,Freizeitpark,Raumschiff,Flughafen,Modeladen,Piratenschiff,Militär,Schlüsseldienst,Autohandel",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

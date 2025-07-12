@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "das Parfüm,die Frisur,die Schuhgröße,tägliches Joggen,der Musikgeschmack,das Mittagessen,die Lieblingsfarbe,ein Meditationskurs,das Handy-Modell,das Urlaubsziel,ein Lächeln,der Ehepartner,die Atemtechnik,die Sockenfarbe,die Lesebrille,regelmäßiges Blutspenden,der Kaffeekonsum,ein Spitzname,die maximale Augenkontakt-Dauer",
+      "v": "küssten Kinder,imitierten Polizeisirenen,raubten Banken aus,stahlen Socken,koteten auf Schmuck,paarten sich mit Briefkästen,flogen gegen Hintern,attackierten Katzen,tranken Bier,verspotteten den Bürgermeister,zerbissen Fernseh-Kabel,benutzten Kreditkarten,verführten junge Männer,erfüllten Wünsche,korrigierten Grammatik,unterbrachen TV-Shows,übernahmen Gedanken,hypnotisierten Schlangen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

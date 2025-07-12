@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Limonade,Parfüm,Filzstifte,ein Auto,Müsli,Katzenstreu,einen Lufterfrischer,ein T-Shirt,Salat,einen Sportbeutel,Schuhe,Bettwäsche,Haargel,ein Spülmittel,einen Geldbeutel,Taschentücher,eine Zahnpasta,Kopfkissen",
+      "v": "von Tieren gebissen werden,eine Schreibmaschine benutzen,den Wetterbericht anschauen,schlafen,sich als Fisch verkleiden,in einem Fahrzeug sitzen,Schüsse hören,beim Arzt sind,in einem Sarg liegen,duschen,ein Pferd streicheln,viel Zucker essen,sich die Haare schneiden,in totaler Finsternis sind,Schluckauf haben,Sport machen,Akten sortieren,wütend sind",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

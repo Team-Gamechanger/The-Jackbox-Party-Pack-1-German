@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Herz,Körperfett,Kot,Nasenhaaren,Zähnen,Zunge,Verletzungen,Magenschleimhaut,Dickdärmen,Augenringen,Flossennägeln,Leber,Brusthaaren,Blaslöchern,Algenanhaftungen,Zahnbelag,Falten,Knochenschichten",
+      "v": "ihr Gartenzwerg,ihre Niere,ihre Veranda,ihr Kind,ihr Dach,ihre Panzerfaust,ihre Weihnachtsdekoration,ihre Hollywoodschaukel,ihre Haustür,ihre Seele,ihre Fußmatte,das Grab ihrer Großmutter,die Rasensprengeranlage,ihr Whirlpool,ihre Urinprobe,die Seitenwand,ihr Muttermilchvorrat,ihr Hundehäuschen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

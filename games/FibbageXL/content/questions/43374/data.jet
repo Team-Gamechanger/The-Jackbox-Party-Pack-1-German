@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "das Land verlassen,Rente,ein Ehrenamt,Seniorenrabatte,in ein Altersheim umziehen,bezahlten Urlaub,in einem Hockeyteam spielen,einen neuen Ausweis,eine Steuerrückzahlung,ein persönliches Treffen,sich scheiden lassen,ihn als Anwalt,ihn zu einem Volksfest einladen,das Rezept für sein Leibgericht,mit dem Häkeln anfangen,den Namen ändern,eine kostenlose kanadische Flagge,einmal etwas Ruhe und Frieden",
+      "v": "Segelbooten,Wölfen,Hexen,Gladiatoren,einem toten Schwein,Adlern,Kerzen,schwangeren Frauen,Pferdeäpfeln,einem Speer,Löffeln,einem Hintern,erotischen Einhörnern,Füßen,Oktopussen,einem Blutstropfen,Jupiter mit Erektion,einer Lammkeule",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

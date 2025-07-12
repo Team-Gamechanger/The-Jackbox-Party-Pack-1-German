@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "eine Schenke,ein Badehaus,einen Marktplatz,eine Herberge,ein Gasthaus,eine Spielstätte,einen Tanzsaal,eine Schänke,ein Freudenhaus,eine Taverne,einen Festsaal,eine Schankwirtschaft,ein Wirtshaus,eine Badestube,einen Weinkeller,eine Trinkstube,einen Bierkeller,eine Spelunke,ein Brauhaus,eine Meierei",
+      "v": "Kinder,Mormonen,Rowdies,geschiedene Väter,Polizisten,Praktikanten,Mütter,Geschäftsführer,Lehrer,Serienmörder,Rechtsanwälte,Zahnärzte,die Briten,Fabrikarbeiter,Tierhändler,Sekretärinnen,romantische Komödienliebhaber,Musikkritiker",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

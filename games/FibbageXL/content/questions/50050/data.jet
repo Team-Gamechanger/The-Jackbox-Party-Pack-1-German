@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Albert Einstein,Marilyn Monroe,einer Ente,Abraham Lincoln,Rapunzel,Satan,Batman,Super Mario,einem Mittelfinger,ALF,Pikachu,Harry Potter,einem einäugigen Stachelschwein,dem Nesquik-Hasen,dem Glöckner in Notre Dame,Freddy Krueger,einem Clown,einem Hintern",
+      "v": "Autositzen,einem Löffel,Go-Karts,Schlitten,einem einzigen Sprung,einem Fallschirm,einem Ipad,selbstgebauten Tretbooten,Koffern,Boxspringbetten,Waschmaschinen,einer Russlandfahne,einem Handtuch um die Hüften,zwei Holzstämmen,einem Blatt Papier,einem Aasgeier,einem Bilderrahmen,einer Sahnetorte in der linken Hand",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

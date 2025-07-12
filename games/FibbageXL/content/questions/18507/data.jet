@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "der Dalai Lama,ein digitaler Prophet,der Herrscher seines eigenen Landes,ein Außerirdischen-Kriegsherr,der Erfinder des Internets,ein Zeitreisender,ein ägyptischer Pharao,der Herzog von Essex,der Sohn von Bigfoot,der König von Atlantis,ein Schlumpf,der Erbe des Skittles-Vermögens,eine Fee,virtueller Wanderprediger,ein Apostel der Algorithmen,ein Meerjungfraumann,der Botschafter der deutschen Reichsbürger,ein Magier",
+      "v": "Umarmungen,Pasta,Klamotten,Lieder,Poesie,Kupferdraht,Bücher,Massagen,Baumsamen,Baseball-Karten,Autogramme,Fahrräder,Rezepte,ein Kompliment,Blumen,Wein,Violinen,den Eintritt ins Militär,150kg Walnüsse pro Jahr",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Weniger zu fliegen,Musik zu hassen,Licht weniger interessant zu finden,Von Spiegeln angezogen zu werden,Sich mehr zu übergeben,Besser Probleme zu lösen,Zu Verhungern,Mit Armhaaren Liebe zu machen,Menschen zu ignorieren,Zu halluzinieren,Mehr Farben zu sehen,Weniger zu schlafen,Pausenlos zu fliegen,In den Süden zu fliegen,Sich an Pflanzen zu reiben,Es an ihren Kindern auszulassen,Fressfeinde anzulocken,Leichter getötet zu werden,AfD zu wählen",
+      "v": "ein T-Rex-Knochen,eine Pistole,eine Wunderlampe,eine seltene Puppe,ein Nierenstein,ein Klodeckel,ein Fabergé-Ei,Hitlers Zigarrenetui,ein Meteorit,ein versteinertes Gänseei,versteinerte Dino-Kacke,ein Uranstab,ein Goldklumpen,ein Stück Mondgestein,der Hope-Diamant,eine Spionage-Kamera,eine Walrippe,der kleine Finger seines Vaters",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

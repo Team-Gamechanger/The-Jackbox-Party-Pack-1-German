@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Zahnspangen,Arschgeweihe,Kopfhörer,Baseballkappen,Flammentätowierungen,Leuchtflossen,Pornonamen,Hoffnung,Seaworld-Tickets,Warnglocken,Kopfschmerz-Tabletten,kostenlose Mittagessen,Krankenkassenkarten,Kochkurse,weichere Zähne,Selbsthilfekurse,eigene Mixtapes,Brillen",
+      "v": "Reifenstücken,Wick Vaporub,Süßkartoffelpommes,abgelaufenen Gutscheinen,Teddybären-Füllung,unsichtbarer Tinte,Blumenerde,Hühnerknochen,Feuerwerk,Bananenschalen,Teilen von Ledersesseln,Murmeln,Kartoffeln,Speck,Piratengold,Wodka,Ameisensäure,Bärenfell",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

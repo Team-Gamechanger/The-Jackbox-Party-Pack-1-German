@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Zirkuswaisen,Schlangen,Obstbäume,Ameisenbären,Quizshow-Moderatoren,verfluchte Puppen,Birkenstock-Sandalen,Echsen,Sandwiches,Mülleimer,Beweise,Rollerskates,Schallplatten,Freizeit,olympische Athleten,Mumien,Handy-Ladekabel,Videospiele",
+      "v": "Hobbygärtner,Straßenmusiker,Imker,Schachgroßmeister,Würstchenverkäufer,Postbote,Tierarzt,Graffitikünstler,Tauchlehrer,Bäcker,Taxifahrer,Feuerwehrmann,DJ,Straßenkünstler,Zauberer,Comiczeichner,Friseur,Eisverkäufer,Sportkommentator,Puppenspieler",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

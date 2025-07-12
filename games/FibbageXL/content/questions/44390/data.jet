@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Tulpen,Energydrinks,Emo-Rock,Paprika,Ukulelen,Stuntmen,Dichtern,Pommes,Fußballern,Bleistiften,Speck,Armbanduhren,Donutlöchern,Go-Karts,Jonglierern,Flip-Flops,Clowns,Haustierschlangen",
+      "v": "einen toten Clown,Hitlers toten Körper,die Arche Noah,Tutanchamun,eine Atomrakete,einen Minotaurus,Zeitreisende,1000 BHs,ein japanisches U-Boot,einen T-Rex,einen Container voller Kokain,300 Kopien des E.T.-Videospiels,ein Wal-Skelett,Vampire,einen Engel,ein Maislabyrinth,sein eigenes Grab,ein verlorenes Werk von Shakespeare",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

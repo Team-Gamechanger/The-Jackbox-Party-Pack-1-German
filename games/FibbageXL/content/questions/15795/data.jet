@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "David Bowie,eine Wolke,auf Zeitreise,in einer Schneekugel,eine Kartoffel,ein Engel,ein Athlet,ein Schwein,ein Zombie,ein Radiergummi,ein Alien,ein Computerprogramm,ein Cowboy,eine Büroklammer,wieder ein Kind,kugelsicher,ein Segler,eine Ente",
+      "v": "Menschen,Giraffen,Elefanten,Bären,Rehe,Tiger,Schimpansen,Deutsche,Büffel,Faultiere,Pandas,Affen,Kühe,Roboter,Schweine,Golfspieler,Katzen,Löwen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

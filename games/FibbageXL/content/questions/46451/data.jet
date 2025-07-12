@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "ein Erotikbuch,ein Therapeut,ein sexy Wandkalender,ein auffälliger Hut,Nagellack,Küss-Unterricht,ein Fitnesstrainer,eine Hinternmassage,ein Teller mit Austern,eine pinke Perücke,ein Bierfass,eine erotische Hotline,ein Boxspringbett,Viagra,Yoga-Training,500g Sauerkirschen,Calvin-Klein-Parfüm,eine professionelle Zahnreinigung",
+      "v": "Diamanten,Margarine,Farbe,Kaugummi,Lippenstift,Lehm,Zahnpasta,getrockneten Blättern,Kirschtomaten,Flugzeugen,alten Socken,Helium,Benzin,Bienenwachs,Schmelzkäse,Marzipan,Pfirsichkernen,Plastikflaschen",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Parkplätzen,Taschenlampen,Lollipops,Ferngläsern,Computern,Koffern,Getränkeautomaten,Rollstühlen,Kühlschränken,Mikrofonen,Schweißgeräten,Deorollern,Feuerlöschern,Raumschiffen,Straßenbahnen,Badehosen,Jeanshosen,Baggern,Kassetten,Lockenwicklern",
+      "v": "sein verlorener Sohn,ein Ufo,Bigfoot,ein Werwolf,ein Zeitreisender,sein Zwillingsbruder,Elvis Presley,ein Drache,die Jungfrau Maria,ein Engel,ein Yeti,die verlorene Stadt El Dorado,ein prähistorisches Monster,das Loch-Ness-Monster,Jesus,ein sprechendes Lama,ein Kaktus mit menschlichem Gesicht,ein tequilatrinkender Affe",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

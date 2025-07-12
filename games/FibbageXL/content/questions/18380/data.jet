@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Pyramide, Königin, Bratpfanne, Kaffeemaschine, Waschmaschine, Bierflasche, Schokolade, Brezel, Schande, Apotheke, Diskothek, Schublade, Kartoffel, Currywurst, Autobahn, Banane, Zwiebel, Steckdose, Rolltreppe",
+      "v": "Uran,einem kleinerem Huhn,Cyanid,seinem Blut,Quecksilber,Radon,Austern,Asbest,Brennnesseln,Gift,Blei,Benzin,Salmonellen,Schmutz,Schlamm,Schierling,Müll,Kot",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Kiefernzapfen,Weizenbrot,Baumwollsocken,Brieftaschen,Isolierpaste,Rollkragenpullover,Wetterfahnen,Filzhütte,Enten,Silos,Jeanshosen,Stroh,Bingo,Schlamm,Mikrofone,Bärte,Soße",
+      "v": "Gefrorenen Penis,Menschliches Blut,Fliegenlarven,Spülmittel,Kaulquappen,Einen Hühnerschnabel,Einen Gallenstein,Kokain,Lebende Würmer,Eine Hasenpfote,Nacktschnecken,Pferdesperma,Magensäure,Gebratenen Rattenschwanz,Pferdeäpfel,Fleischklöße,Pflanzendünger,Rehzähne",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

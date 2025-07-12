@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einen Drachenschatz,eine Goldmine,ein Dinosaurierskelett,eine geheime Botschaft,einen antiken Tempel,einen verborgenen Palast,ein Piratenversteck,ein altes Königsgrab,einen römischen Schatz,eine versunkene Bibliothek,eine geheime Gruft,eine heilige Reliquie,eine unterirdische Festung,eine versiegelte Kammer,eine antike Schatzkammer,ein byzantinisches Bad,ein altes Gefängnis,eine Grabkammer,einen Geheimtunnel,eine Höhlenmalerei",
+      "v": "eine Rassel,eine Mütze,eine Wegwerfwindel,einen Kinderwagen,eine Trinkflasche,einen Schnuller,ein Mixtape,einen Hochstuhl,einen Doppelgänger,eine Sprache,einen Haarschnitt,einen zukünftigen Ehepartner,einen Titelsong,einen Strampler,eine spezielle Geburtsurkunde,eine Krippe,einen Welpen,ein Einhorn",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

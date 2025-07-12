@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Rückenmassagen bekommen,konstruktive Kritik erhalten,Affenmilch trinken,Kokain nehmen,einen Facebook-Account haben,mit Enten zusammenleben,lustige Hüte tragen,Privatsphäre haben,Geburtstage feiern,Tattoos haben,Deodorant verwenden,Hamburger essen,Komplimente erhalten,mehr Euter haben,Marihuana rauchen,auf Wasserbetten schlafen,Milch trinken",
+      "v": "Kanone,Stier,Konfetti,Sport,Vögel,Lacher,Massage,Schule,Blätter,Flieger,Farbe,Wessi,Ballons,Pflanzen,Füller,Möbel,Hämmer,Nähmaschinen",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

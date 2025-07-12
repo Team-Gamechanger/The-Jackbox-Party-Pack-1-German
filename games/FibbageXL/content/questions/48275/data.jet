@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "waren aus Holz,leuchteten im Dunkeln,waren magnetisch,enthielten Quecksilber,waren lebendig,rollten von selbst,waren durchsichtig,waren aus Gold,waren radioaktiv,enthielten Sprengstoff,waren aus Glas,machten Geräusche,waren aus Menschenknochen,enthielten Gift,waren verflucht,waren hohl,zersetzten sich,rochen nach Verwesung,waren brennbar,waren hypnotisch",
+      "v": "ohne Unterwäsche herumlaufen,einen ganzen Schinken in sechs Minuten essen,ihre Schwester küssen,eine Kugel mit den Zähnen fangen,Gitarrenunterricht nehmen,die Herr-der-Ringe-Bücher lesen,eine Woche nicht trinken,eine Nacht in einem Spukhaus verbringen,ihre Körperhaare rasieren,ein Kind adoptieren,zwei Katzen adoptieren,Portugiesisch lernen,an der Hochzeit eines Fremden teilnehmen,ihre Seele aufgeben,vor einem Clown urinieren,nackt durch einen öffentlichen Park stolzieren,jede Woche eine Ente füttern,jeden Tag ein Gedicht schreiben",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {

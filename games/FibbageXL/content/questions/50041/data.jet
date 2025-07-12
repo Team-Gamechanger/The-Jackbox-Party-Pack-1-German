@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Blindenschrift lesen,Gewichte heben,den Tisch decken,malen,Candy Crush spielen,einen Zauberwürfel lösen,putzen,einen Joint rollen,Spaghetti kochen,eine Waffe reinigen,Gitarre spielen,baden,urinieren,sprechen,jonglieren,Rasenmähen",
+      "v": "Sexualtrieb,Hässliche Banane,Riesige Pistazie,Zahnzerstörer,Mutter,Überteuert,Königshintern,Auge,Heimat,Ekel-Teil,Wurfgeschoss,Brustvergrößerer,Schöne Blüte,Wasserfresser,Patriotismus,Mordwerkzeug,Licht,Riesiger Käfer,Krieg",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

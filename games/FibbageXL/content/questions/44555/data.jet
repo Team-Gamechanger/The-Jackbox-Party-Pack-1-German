@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "false",
+      "v": "true",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "einen Polizisten,den Präsidenten,einen Duftkerzen-Verkäufer,einen riesigen Hund,einen Vierjährigen,einen Zirkusclown,eine Meeresschildkröte,einen Eiscreme-Verkäufer,ein Schaf,einen Jongleur,einen schwarzen Kater,einen BH,einen Mann im Einhornkostüm,ein Spider-Man-Double,Ralph Siegel,einen Affen mit Cowboyhut,ein Hot-Dog-Maskottchen,eine Shampooflasche",
+      "v": "ihre Haare,Zähne,ihre Babykleidung,einen Ellenbogen,Socken,ein Malbuch,einen toten Hasen,zehn gesparte Silbermünzen,eine Bibel,Murmeln,ihre linke Hand,ihre Spielzeugsoldaten,ihre Hoffnungen und Träume,ein selbstgeschriebenes Gedicht,ein Spielzeug,ihr Schwert,ihr Geburtssiegel,ein Schachset",
       "n": "Suggestions"
     },
     {
@@ -42,6 +42,7 @@
     },
     {
       "t": "A",
+      "v": "correct",
       "n": "CorrectAudio"
     },
     {

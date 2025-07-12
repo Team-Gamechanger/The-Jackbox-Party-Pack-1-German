@@ -2,7 +2,7 @@
   "fields": [
     {
       "t": "B",
-      "v": "true",
+      "v": "false",
       "n": "HasCorrectAudio"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "in den Buckingham Palace einbrach,den Mount Rushmore bestieg,behauptete Shakespeares Urenkel zu sein,Alaska für England beanspruchte,Dodos aß,Mark Twains Frau entführte,behauptete es seien die 1890er,den Big Ben in einer Windel erklomm,gefälschte Dinosaurierknochen entdeckte,versuchte zum Mond zu fliegen,Schnurrbärte auf den Mount Rushmore zeichnete,sich in Tutanchamuns Grab schlich,eine ganze Autobatterie aß,Scherzanrufe bei Teddy Roosevelt machte,Dynamit verschluckte,nackt durch Museen lief,lebende Ratten aß,vor dem Weißen Haus schlief",
+      "v": "Unterwasserschach,Knöchelknacken,Fallschirmspringen,über das Laufen über Feuer,das Schwertschlucken,Bären-Wrestling,einen Handstand auf Glasscherben,mit Schlangen bedeckt sein,einen Bart aus Bienen,das Sprechen ohne Atmen,Bullenreiten,das Sitzen in einer Badewanne voller Quark,einen Spagat,einen Handstand auf den Daumen,das Halten einer heißen Kartoffel,das Unterdrücken von Gähnen,das Starren ohne zu Blinzeln,das Balancieren eines Besens auf der Stirn",
       "n": "Suggestions"
     },
     {
@@ -42,7 +42,6 @@
     },
     {
       "t": "A",
-      "v": "correct",
       "n": "CorrectAudio"
     },
     {
