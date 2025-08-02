@@ -17,7 +17,7 @@
     },
     {
       "t": "S",
-      "v": "Verbote",
+      "v": "Diktatoren",
       "n": "Category"
     },
     {
@@ -32,7 +32,7 @@
     },
     {
       "t": "S",
-      "v": "Der rumänische Diktator Nicolae Ceausescu hatte einst solche Angst vor Intellektualität, dass er <BLANK> verbot.",
+      "v": "Der rumänische Diktator Nicolae Ceausescu hatte eine solche Angst vor Intellektualität, dass er <BLANK> verbot.",
       "n": "QuestionText"
     },
     {
